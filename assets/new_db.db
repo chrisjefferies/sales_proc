@@ -1,0 +1,1001 @@
+date,orderId,total,shipping,subtotal,shipNameFirst,shipNameLast,shipAddress1,		shipAddress2,shipCity,shipState,shipZip,billNameFirst,billNameLast,billAddress1,billAddress2,		billCity,billState,billZip
+1970-01-01 17:36:36,12000000001,69.55,4.32,65.23,Sharon,Herman,5504 Young Blvd,,Del Rio,TX,78840,Sharon,Herman,5504 Young Blvd,,Del Rio,TX,78840
+1970-01-02 03:07:46,12000000002,97.55,3.33,94.22,Mark,Wilson,1398 Baker St,,McCordsville,IN,46055,Mark,Wilson,1398 Baker St,,McCordsville,IN,46055
+1970-01-02 23:15:15,12000000003,154.25,4.56,149.69,Alice,Mara,6760 Abrams Rd,,Marianna,FL,32446,Alice,Mara,6760 Abrams Rd,,Marianna,FL,32446
+1970-01-03 22:17:29,12000000004,42.97,1.44,41.53,Kenneth,Anderson,3595 Carroll Rd,,Las Vegas,NV,89112,Judith,Cameron,6683 Bobek St,C40,Arcadia,MI,49613
+1970-01-05 00:59:41,12000000005,49.89,3.49,46.4,Lindsay,Lemus,3852 Wayment Ct,,Dallas,TX,75382,Lindsay,Lemus,3852 Wayment Ct,,Dallas,TX,75382
+1970-01-05 12:34:12,12000000006,116.96,1.83,115.13,Pam,Gonnella,6149 Doe,,Jetmore,KS,67854,Karl,England,4698 Wallace St,No. 54,Edna,KS,67342
+1970-01-06 09:56:37,12000000007,52.76,0.34,52.42,Michael,Land,1830 Pringle,,Diamond Point,NY,12824,Michael,Land,1830 Pringle,,Diamond Point,NY,12824
+1970-01-06 20:57:07,12000000008,73.94,3.21,70.73,Johnny,Rice,1308 Batista Ave,,Vancouver,WA,98683,Johnny,Rice,1308 Batista Ave,,Vancouver,WA,98683
+1970-01-06 22:33:08,12000000009,189.41,3.76,185.65,Brendon,Dingle,6042 Jackson St,,Lead Hill,AR,72644,Brendon,Dingle,6042 Jackson St,,Lead Hill,AR,72644
+1970-01-07 12:13:55,12000000010,132.26,1.05,131.21,John,Lockhart,6297 Norrix St,,Ridgeway,OH,43345,John,Lockhart,6297 Norrix St,,Ridgeway,OH,43345
+1970-01-08 10:17:02,12000000011,40.53,2.0,38.53,Ronda,Huerta,4065 Bass Rd,,Saint Marys,IA,50241,Ronda,Huerta,4065 Bass Rd,,Saint Marys,IA,50241
+1970-01-09 02:15:26,12000000012,171.69,3.55,168.14,Rudolph,Mcgee,4585 Mcgrath Rd,,Belle Mina,AL,35615,Rudolph,Mcgee,4585 Mcgrath Rd,,Belle Mina,AL,35615
+1970-01-09 07:56:29,12000000013,143.71,1.6,142.11,Richard,Frenette,3947 Sanchez St,B63,Petrolia,CA,95558,Richard,Frenette,3947 Sanchez St,B63,Petrolia,CA,95558
+1970-01-09 19:05:14,12000000014,166.13,0.74,165.39,Rose,Kay,2486 Hopkins Rd,,Charlotte,NC,28225,Rose,Kay,2486 Hopkins Rd,,Charlotte,NC,28225
+1970-01-10 09:32:41,12000000015,176.68,3.97,172.71,Delmar,Mills,4854 Crandall Rd,,San Ardo,CA,93450,Delmar,Mills,4854 Crandall Rd,,San Ardo,CA,93450
+1970-01-11 07:49:56,12000000016,190.3,3.64,186.66,Max,Martin,9362 Waller Rd,,Reading,PA,19608,Yesenia,Payne,5540 Saur Ave,,Talpa,TX,76882
+1970-01-12 02:46:28,12000000017,45.72,3.53,42.19,Laura,May,8488 Peterson Rd,,Portola,CA,96122,Laura,May,8488 Peterson Rd,,Portola,CA,96122
+1970-01-12 22:00:36,12000000018,186.91,2.38,184.53,Norma,Jennings,7966 Riggs Rd,D-19,Perry Park,KY,40363,Norma,Jennings,7966 Riggs Rd,D-19,Perry Park,KY,40363
+1970-01-13 23:29:01,12000000019,193.3,3.07,190.23,Daniel,Fore,3489 Gillespie Ave,,Storm Lake,IA,50588,Daniel,Fore,3489 Gillespie Ave,,Storm Lake,IA,50588
+1970-01-15 00:57:17,12000000020,33.93,3.8,30.13,Micheal,Martinez,7436 Clark Rd,,Coudersport,PA,16915,Micheal,Martinez,7436 Clark Rd,,Coudersport,PA,16915
+1970-01-16 01:12:59,12000000021,88.26,3.69,84.57,Theresa,Bilbo,7443 Stanton Blvd,,Salt Lake City,UT,84171,Theresa,Bilbo,7443 Stanton Blvd,,Salt Lake City,UT,84171
+1970-01-16 10:40:41,12000000022,115.3,1.4,113.9,Jack,Bell,4156 Mauricio St,,Rohnert Park,CA,94928,Jack,Bell,4156 Mauricio St,,Rohnert Park,CA,94928
+1970-01-16 21:11:16,12000000023,47.59,1.98,45.61,Patricia,Huynh,5303 Gunn St,,Franksville,WI,53126,Patricia,Huynh,5303 Gunn St,,Franksville,WI,53126
+1970-01-17 23:02:59,12000000024,178.37,4.09,174.28,Keith,Pearson,4579 Massey St,,Crete,IL,60417,Keith,Pearson,4579 Massey St,,Crete,IL,60417
+1970-01-18 05:38:46,12000000025,108.98,4.47,104.51,Omar,Bland,6347 Lemke,Ste. A50,Burt,NY,14028,Omar,Bland,6347 Lemke,Ste. A50,Burt,NY,14028
+1970-01-19 01:14:45,12000000026,143.87,3.66,140.21,David,Waters,7955 Washburn St,A-26,Benezett,PA,15821,David,Waters,7955 Washburn St,A-26,Benezett,PA,15821
+1970-01-19 04:57:48,12000000027,167.21,0.05,167.16,Margaret,Barton,3927 Sherwood St,D-26,Empire,OH,43926,Margaret,Barton,3927 Sherwood St,D-26,Empire,OH,43926
+1970-01-19 19:49:22,12000000028,148.01,2.62,145.39,Jim,Oleary,2589 Conley St,,Prairie Hill,TX,76678,Jim,Oleary,2589 Conley St,,Prairie Hill,TX,76678
+1970-01-20 11:02:44,12000000029,54.9,1.36,53.54,Karen,James,6551 Helsel Rd,,South Haven,MI,49090,Karen,James,6551 Helsel Rd,,South Haven,MI,49090
+1970-01-20 21:33:00,12000000030,80.29,1.79,78.5,Susan,Lopez,6460 Torres Rd,,Kalamazoo,MI,49008,Susan,Lopez,6460 Torres Rd,,Kalamazoo,MI,49008
+1970-01-21 03:17:54,12000000031,151.52,2.73,148.79,Aletha,Booker,9445 Clay St,,Meyersville,TX,77974,Aletha,Booker,9445 Clay St,,Meyersville,TX,77974
+1970-01-21 11:53:21,12000000032,61.44,0.71,60.73,Summer,Hust,6772 Haines St,,Pawnee City,NE,68420,Summer,Hust,6772 Haines St,,Pawnee City,NE,68420
+1970-01-22 00:38:37,12000000033,27.51,2.65,24.86,Susan,Bowen,6574 Debuhr Blvd,,Austin,TX,78732,Susan,Bowen,6574 Debuhr Blvd,,Austin,TX,78732
+1970-01-23 02:32:59,12000000034,137.34,4.29,133.05,Mary,Fuller,7715 Ohaver Ave,,Kimberton,PA,19442,Mary,Fuller,7715 Ohaver Ave,,Kimberton,PA,19442
+1970-01-23 15:52:15,12000000035,32.09,1.47,30.62,Thea,Eckert,6031 Patrick Blvd,D96,Seattle,WA,98138,Thea,Eckert,6031 Patrick Blvd,D96,Seattle,WA,98138
+1970-01-24 11:39:00,12000000036,88.87,4.3,84.57,Joseph,Forte,7187 Huff St,,Kansas City,MO,64114,Joseph,Forte,7187 Huff St,,Kansas City,MO,64114
+1970-01-24 22:11:02,12000000037,56.45,1.62,54.83,Vicki,Anderson,4604 Morales Rd,,Rochester,NY,14604,Vicki,Anderson,4604 Morales Rd,,Rochester,NY,14604
+1970-01-25 20:17:44,12000000038,179.51,2.14,177.37,Samuel,Heer,5298 Blanchette Ave,,Berryville,VA,22611,Samuel,Heer,5298 Blanchette Ave,,Berryville,VA,22611
+1970-01-26 04:51:33,12000000039,142.68,2.0,140.68,Karla,Albano,4920 Silver Blvd,,Fraser,MI,48026,Karla,Albano,4920 Silver Blvd,,Fraser,MI,48026
+1970-01-27 01:55:02,12000000040,168.73,4.14,164.59,Florence,Obrien,1352 Kelly Rd,,Basom,NY,14013,Florence,Obrien,1352 Kelly Rd,,Basom,NY,14013
+1970-01-27 10:39:05,12000000041,194.85,1.19,193.66,John,Britton,2498 Hart Blvd,,Eddyville,NE,68834,John,Britton,2498 Hart Blvd,,Eddyville,NE,68834
+1970-01-28 05:32:30,12000000042,89.04,3.12,85.92,Boyce,Edwards,7868 Nolan,,Oak Park,IL,60301,Edwin,Tutt,8897 Lugo St,,Saint Elmo,AL,36568
+1970-01-29 06:04:54,12000000043,99.71,3.29,96.42,Jordan,Fisher,3612 Lira Blvd,B64,Fort Lauderdale,FL,33311,Jordan,Fisher,3612 Lira Blvd,B64,Fort Lauderdale,FL,33311
+1970-01-29 13:30:27,12000000044,85.06,2.58,82.48,Elias,Carlisle,2858 Abreu St,,Temple,TX,76508,Elias,Carlisle,2858 Abreu St,,Temple,TX,76508
+1970-01-30 03:54:08,12000000045,126.41,4.63,121.78,Colette,Hottinger,8104 Johnson Ct,,Brooklyn,NY,11238,Colette,Hottinger,8104 Johnson Ct,,Brooklyn,NY,11238
+1970-01-31 02:23:25,12000000046,137.05,4.57,132.48,Kenneth,Jones,4424 Pinero St,,Rossiter,PA,15772,Kenneth,Jones,4424 Pinero St,,Rossiter,PA,15772
+1970-01-31 13:51:17,12000000047,96.5,4.22,92.28,Betty,Hering,1882 Labbe St,No. 28,Harvey,LA,70059,Adrian,Dus,9362 Bell Ave,C-43,Hansville,WA,98340
+1970-02-01 14:14:26,12000000048,90.3,0.03,90.27,John,Freeland,7002 Garcia St,,Coffee Springs,AL,36318,John,Freeland,7002 Garcia St,,Coffee Springs,AL,36318
+1970-02-02 15:09:53,12000000049,31.2,2.84,28.36,Rosie,Shultz,1510 Price Ct,,Ocean Isle Beach,NC,28469,Nancy,Harrington,2506 Lindberg St,,Warrenton,VA,20187
+1970-02-03 12:44:41,12000000050,30.87,2.3,28.57,Susan,Suehs,3397 Hutchison St,,Rock Cave,WV,26234,Susan,Suehs,3397 Hutchison St,,Rock Cave,WV,26234
+1970-02-04 16:02:03,12000000051,190.69,2.11,188.58,Paul,Banks,3709 Mcgill St,,Greenwood,AR,72936,Paul,Banks,3709 Mcgill St,,Greenwood,AR,72936
+1970-02-05 11:53:27,12000000052,147.19,2.69,144.5,Elmer,Sawyers,2011 Neel Ct,,Freeport,IL,61032,Elmer,Sawyers,2011 Neel Ct,,Freeport,IL,61032
+1970-02-06 09:13:33,12000000053,147.9,0.42,147.48,Timothy,Phelps,9850 Syvertsen,D0,Morristown,MN,55052,Timothy,Phelps,9850 Syvertsen,D0,Morristown,MN,55052
+1970-02-07 12:19:47,12000000054,129.41,1.22,128.19,Jack,Mula,3578 Wechsler Blvd,,Ferriday,LA,71334,Jack,Mula,3578 Wechsler Blvd,,Ferriday,LA,71334
+1970-02-07 17:37:08,12000000055,91.13,4.96,86.17,Amy,Rozek,7549 Mcclendon Ct,,Livonia,MI,48151,Amy,Rozek,7549 Mcclendon Ct,,Livonia,MI,48151
+1970-02-08 04:09:10,12000000056,180.86,4.9,175.96,Alfred,Junker,2832 Calle St,,Colfax,IL,61728,Alfred,Junker,2832 Calle St,,Colfax,IL,61728
+1970-02-08 05:10:09,12000000057,148.32,4.32,144.0,Juan,Jarrell,7687 Theall St,,Colfax,IL,61728,Jeffrey,Baucum,1973 Bray Rd,,Port Aransas,TX,78373
+1970-02-08 13:11:50,12000000058,90.04,1.39,88.65,Tomas,Greene,743 Jimerson St,,Lafayette,LA,70505,Tomas,Greene,743 Jimerson St,,Lafayette,LA,70505
+1970-02-09 09:19:26,12000000059,119.08,2.08,117.0,Trina,Johnson,471 Carranza Ct,,Conestee,SC,29636,Trina,Johnson,471 Carranza Ct,,Conestee,SC,29636
+1970-02-09 19:52:57,12000000060,102.95,2.19,100.76,Dolores,Vincent,3443 Watland St,,Findlay,OH,45840,Dolores,Vincent,3443 Watland St,,Findlay,OH,45840
+1970-02-10 08:35:47,12000000061,129.81,4.92,124.89,Elvin,Ledezma,2244 Sheridan,,Daisy,GA,30423,Elvin,Ledezma,2244 Sheridan,,Daisy,GA,30423
+1970-02-10 12:07:08,12000000062,125.72,3.51,122.21,Christopher,Macleod,956 Cunningham Ave,,Lebanon,TN,37090,Christopher,Macleod,956 Cunningham Ave,,Lebanon,TN,37090
+1970-02-11 15:39:44,12000000063,170.16,0.69,169.47,Lee,Williamson,4720 Aikens Rd,Suite 38,Delmita,TX,78536,Lee,Williamson,4720 Aikens Rd,Suite 38,Delmita,TX,78536
+1970-02-12 01:51:29,12000000064,77.82,1.11,76.71,William,Hewitt,8528 Torrez St,,Wingate,MD,21675,William,Hewitt,8528 Torrez St,,Wingate,MD,21675
+1970-02-13 04:34:59,12000000065,114.05,4.62,109.43,Aida,Webb,902 Nagle Ave,,Keosauqua,IA,52565,Aida,Webb,902 Nagle Ave,,Keosauqua,IA,52565
+1970-02-14 02:50:51,12000000066,84.01,4.7,79.31,Jeffery,Foote,7984 Bambenek Rd,,Boca Raton,FL,33428,Jeffery,Foote,7984 Bambenek Rd,,Boca Raton,FL,33428
+1970-02-15 05:17:25,12000000067,108.72,3.6,105.12,Jodi,Smith,6128 Harris Rd,,Shawnee Mission,KS,66215,Lois,Tibbs,5581 Mckee St,A-67,Allison,PA,15413
+1970-02-15 19:21:17,12000000068,185.87,3.15,182.72,Reginald,Champion,4670 Mayer,,Sinclairville,NY,14782,Reginald,Champion,4670 Mayer,,Sinclairville,NY,14782
+1970-02-16 12:55:08,12000000069,121.28,2.63,118.65,Terrence,Dearborn,5056 Boyd Ave,,Puunene,HI,96784,Terrence,Dearborn,5056 Boyd Ave,,Puunene,HI,96784
+1970-02-17 03:00:15,12000000070,162.29,3.44,158.85,Robert,Perino,431 Ladd St,,Greenville,SC,29606,Robert,Perino,431 Ladd St,,Greenville,SC,29606
+1970-02-17 08:13:12,12000000071,183.81,0.46,183.35,John,Furukawa,114 Bachmann St,,Foxworth,MS,39483,John,Furukawa,114 Bachmann St,,Foxworth,MS,39483
+1970-02-17 11:53:22,12000000072,131.62,1.51,130.11,Christopher,Loeb,1601 Lamarche Rd,,Terre Haute,IN,47811,Christopher,Loeb,1601 Lamarche Rd,,Terre Haute,IN,47811
+1970-02-18 10:16:54,12000000073,130.03,3.18,126.85,Christine,Harris,7276 Scheele Ave,,Melfa,VA,23410,Christine,Harris,7276 Scheele Ave,,Melfa,VA,23410
+1970-02-18 22:41:48,12000000074,76.79,4.82,71.97,Billy,Null,6748 Payne,,Nichols,SC,29581,Billy,Null,6748 Payne,,Nichols,SC,29581
+1970-02-19 20:28:08,12000000075,135.66,2.94,132.72,Charles,Stoll,7832 Reis,,May,ID,83253,Charles,Stoll,7832 Reis,,May,ID,83253
+1970-02-20 22:19:35,12000000076,45.33,0.18,45.15,Pearlie,Graham,8751 Stokes,,Meadows Of Dan,VA,24120,Pearlie,Graham,8751 Stokes,,Meadows Of Dan,VA,24120
+1970-02-21 23:22:20,12000000077,156.3,4.16,152.14,Raymond,Hammen,1655 Shipman Rd,B84,Jasper,AL,35501,Raymond,Hammen,1655 Shipman Rd,B84,Jasper,AL,35501
+1970-02-22 14:14:18,12000000078,86.33,4.71,81.62,Martha,Young,4495 Carter,Ste. A23,Newtonville,NY,12128,Martha,Young,4495 Carter,Ste. A23,Newtonville,NY,12128
+1970-02-22 23:34:04,12000000079,100.58,2.18,98.4,Melissa,Nelson,1327 Kreiman Blvd,Suite 25,San Jose,CA,95134,Melissa,Nelson,1327 Kreiman Blvd,Suite 25,San Jose,CA,95134
+1970-02-23 07:08:15,12000000080,132.54,3.72,128.82,Joseph,Lowry,9610 Hunt Ct,,Weedsport,NY,13166,Joseph,Lowry,9610 Hunt Ct,,Weedsport,NY,13166
+1970-02-24 06:40:05,12000000081,86.82,4.06,82.76,Elaine,Burns,4295 Palmer St,,Centerburg,OH,43011,Elaine,Burns,4295 Palmer St,,Centerburg,OH,43011
+1970-02-24 11:23:10,12000000082,152.97,2.21,150.76,Judith,Jones,1470 Stevens Blvd,,Broadalbin,NY,12025,Judith,Jones,1470 Stevens Blvd,,Broadalbin,NY,12025
+1970-02-24 16:14:41,12000000083,150.14,0.17,149.97,Andre,Dupree,5839 Grande,Unit 82,New Roads,LA,70760,Andre,Dupree,5839 Grande,Unit 82,New Roads,LA,70760
+1970-02-24 22:34:50,12000000084,154.33,0.27,154.06,Nancy,Christie,7406 Matthews Rd,C23,Sipsey,AL,35584,Nancy,Christie,7406 Matthews Rd,C23,Sipsey,AL,35584
+1970-02-25 17:03:12,12000000085,103.17,4.59,98.58,Kelly,White,1701 Zamora Blvd,,Frederick,MD,21705,Miriam,Borrego,5321 Larrabee Ct,Suite 52,Madison,WI,53726
+1970-02-26 07:13:51,12000000086,166.76,3.15,163.61,Randy,Monroe,9550 Collins Rd,,Ridgeway,MO,64481,Randy,Monroe,9550 Collins Rd,,Ridgeway,MO,64481
+1970-02-26 12:40:46,12000000087,128.61,2.63,125.98,David,Little,2265 Kecskes St,,Miami Beach,FL,33139,David,Little,2265 Kecskes St,,Miami Beach,FL,33139
+1970-02-27 16:11:21,12000000088,90.86,1.47,89.39,Jason,Payton,1193 Trainor Rd,,Casa Blanca,NM,87007,Jason,Payton,1193 Trainor Rd,,Casa Blanca,NM,87007
+1970-02-28 07:00:03,12000000089,139.8,3.41,136.39,George,Chesla,6094 Gable Ct,,Fort Supply,OK,73841,George,Chesla,6094 Gable Ct,,Fort Supply,OK,73841
+1970-02-28 18:50:38,12000000090,165.37,3.19,162.18,Edgar,Massey,5878 Giannone Rd,,Rule,TX,79548,Edgar,Massey,5878 Giannone Rd,,Rule,TX,79548
+1970-03-01 08:53:56,12000000091,148.78,3.67,145.11,Victor,Ramos,7958 Phung St,,Ellendale,TN,38029,Victor,Ramos,7958 Phung St,,Ellendale,TN,38029
+1970-03-02 02:41:30,12000000092,135.94,0.1,135.84,Lillian,Raymond,666 Heller Ct,,Raymond,SD,57258,Lillian,Raymond,666 Heller Ct,,Raymond,SD,57258
+1970-03-02 17:08:02,12000000093,42.54,0.02,42.52,Teresa,Gonzales,3682 Valsin Ct,No. 12,Alpharetta,GA,30005,Teresa,Gonzales,3682 Valsin Ct,No. 12,Alpharetta,GA,30005
+1970-03-03 09:31:24,12000000094,167.11,1.21,165.9,Phyllis,Edenfield,9439 French St,,Saint Louis,MO,63137,Phyllis,Edenfield,9439 French St,,Saint Louis,MO,63137
+1970-03-03 11:58:08,12000000095,191.34,0.39,190.95,Sean,Smith,8290 Rodriguez St,,Saint Louis,MO,63122,Sean,Smith,8290 Rodriguez St,,Saint Louis,MO,63122
+1970-03-04 12:06:02,12000000096,113.63,0.25,113.38,Jennie,Hamilton,8686 Smith Rd,,Albany,NY,12239,Peter,Dean,4507 Watring Blvd,,Rhinehart,LA,71363
+1970-03-04 17:26:50,12000000097,124.01,0.12,123.89,Florence,Sixkiller,917 Mcafee Ct,,Pensacola,FL,32524,Florence,Sixkiller,917 Mcafee Ct,,Pensacola,FL,32524
+1970-03-05 04:26:53,12000000098,83.3,0.62,82.68,Elvira,Hamilton,3625 Hand St,,San Francisco,CA,94131,Elvira,Hamilton,3625 Hand St,,San Francisco,CA,94131
+1970-03-05 05:24:44,12000000099,66.24,3.4,62.84,Bill,Cancro,8568 Armstrong,,Hempstead,NY,11549,Bill,Cancro,8568 Armstrong,,Hempstead,NY,11549
+1970-03-05 12:08:33,12000000100,69.41,2.75,66.66,Andre,Park,1571 Phillips Ct,,Lairdsville,PA,17742,Andre,Park,1571 Phillips Ct,,Lairdsville,PA,17742
+1970-03-06 12:42:32,12000000101,145.78,2.58,143.2,Brian,Black,3802 Elliott Ct,,Fort Lauderdale,FL,33339,Cynthia,Hernandez,4710 Cabral St,,Chapmansboro,TN,37035
+1970-03-06 23:59:17,12000000102,105.66,0.96,104.7,Rhonda,Karg,5337 Gregory St,D97,Greenville,KY,42345,Rhonda,Karg,5337 Gregory St,D97,Greenville,KY,42345
+1970-03-07 09:42:59,12000000103,151.44,1.1,150.34,Jose,Isom,8512 Preston St,,Vista,MO,64789,Jose,Isom,8512 Preston St,,Vista,MO,64789
+1970-03-08 10:30:16,12000000104,152.18,0.03,152.15,Dennis,White,7319 Porterfield Rd,,Dolton,IL,60419,Dennis,White,7319 Porterfield Rd,,Dolton,IL,60419
+1970-03-09 04:25:57,12000000105,198.78,1.24,197.54,Kenneth,Pimenta,3519 Wright St,,Neola,UT,84053,Kenneth,Pimenta,3519 Wright St,,Neola,UT,84053
+1970-03-09 12:08:39,12000000106,186.84,2.97,183.87,Annie,Sloan,1764 Shoemaker St,,Albany,NY,12236,Annie,Sloan,1764 Shoemaker St,,Albany,NY,12236
+1970-03-10 06:52:19,12000000107,174.93,0.73,174.2,Kirk,Mcclintic,8805 Beatty Blvd,,Lapine,AL,36046,Kirk,Mcclintic,8805 Beatty Blvd,,Lapine,AL,36046
+1970-03-10 22:20:06,12000000108,39.08,1.87,37.21,Dusty,Buchholz,6891 Hyett St,,Redlake,MN,56671,Dusty,Buchholz,6891 Hyett St,,Redlake,MN,56671
+1970-03-11 10:25:12,12000000109,178.35,3.37,174.98,Ana,Foley,1056 Holliday St,,Joy,IL,61260,Ana,Foley,1056 Holliday St,,Joy,IL,61260
+1970-03-12 01:03:50,12000000110,70.61,0.07,70.54,Nellie,Wainer,4103 Holton Blvd,,Ventura,CA,93005,Nellie,Wainer,4103 Holton Blvd,,Ventura,CA,93005
+1970-03-12 06:58:18,12000000111,177.66,3.6,174.06,Victoria,Christner,6472 Jackson Rd,,Janesville,MN,56048,Victoria,Christner,6472 Jackson Rd,,Janesville,MN,56048
+1970-03-13 00:43:09,12000000112,31.74,0.27,31.47,Betty,Abrams,8896 Kline St,,Chatfield,TX,75105,Betty,Abrams,8896 Kline St,,Chatfield,TX,75105
+1970-03-13 17:00:48,12000000113,41.17,4.82,36.35,Vanessa,Chapa,5315 Rohrer St,A-95,Yuba City,CA,95992,Vanessa,Chapa,5315 Rohrer St,A-95,Yuba City,CA,95992
+1970-03-14 12:36:25,12000000114,110.6,3.82,106.78,Ella,Bohne,4070 Mazza Rd,B-81,Fort Thomas,KY,41075,Lisa,Driggs,191 Gilman Ct,,Claremore,OK,74017
+1970-03-14 20:55:28,12000000115,165.7,0.54,165.16,Michael,Filas,8740 Noble Ct,Ste. A8,Old Washington,OH,43768,Michael,Filas,8740 Noble Ct,Ste. A8,Old Washington,OH,43768
+1970-03-15 09:52:44,12000000116,120.43,4.77,115.66,Lois,Oland,6731 Guy St,,Warriormine,WV,24894,Lois,Oland,6731 Guy St,,Warriormine,WV,24894
+1970-03-16 04:01:35,12000000117,124.8,3.35,121.45,Peggy,Gomez,5111 Adams Ave,,Soledad,CA,93960,Peggy,Gomez,5111 Adams Ave,,Soledad,CA,93960
+1970-03-17 04:17:26,12000000118,95.67,2.25,93.42,Jerry,Kegley,9605 Delapp Ave,,Weippe,ID,83553,Jerry,Kegley,9605 Delapp Ave,,Weippe,ID,83553
+1970-03-17 23:18:40,12000000119,52.3,3.37,48.93,Anna,Dejesus,2293 Hall Ave,,Moulton,TX,77975,Anna,Dejesus,2293 Hall Ave,,Moulton,TX,77975
+1970-03-18 05:31:58,12000000120,60.86,4.34,56.52,Paula,Hundley,5516 Conway Rd,,Solebury,PA,18963,Paula,Hundley,5516 Conway Rd,,Solebury,PA,18963
+1970-03-19 04:58:03,12000000121,115.49,2.02,113.47,Andrea,Henry,6802 Davis Blvd,,Hancock,WI,54943,Andrea,Henry,6802 Davis Blvd,,Hancock,WI,54943
+1970-03-19 06:54:08,12000000122,110.09,0.02,110.07,Meredith,Massey,543 Thayer St,,Genesee,ID,83832,Meredith,Massey,543 Thayer St,,Genesee,ID,83832
+1970-03-19 10:36:24,12000000123,45.6,4.44,41.16,Paula,Browning,2578 Jury Rd,A-29,Saint Ann,MO,63074,Paula,Browning,2578 Jury Rd,A-29,Saint Ann,MO,63074
+1970-03-20 12:25:33,12000000124,180.63,3.46,177.17,Catherine,Lykins,7603 Brady St,,Hickory Grove,SC,29717,Catherine,Lykins,7603 Brady St,,Hickory Grove,SC,29717
+1970-03-20 15:30:06,12000000125,30.77,4.78,25.99,Elizabeth,Skelton,6809 Burleson Ct,B73,Van Nuys,CA,91404,Elizabeth,Skelton,6809 Burleson Ct,B73,Van Nuys,CA,91404
+1970-03-20 20:27:20,12000000126,82.08,0.14,81.94,Henry,Davis,2995 Wolfe St,B74,Belle Mina,AL,35615,Henry,Davis,2995 Wolfe St,B74,Belle Mina,AL,35615
+1970-03-21 12:52:30,12000000127,152.9,4.19,148.71,Beatrice,Crye,6298 Easton St,,Pahoa,HI,96778,Beatrice,Crye,6298 Easton St,,Pahoa,HI,96778
+1970-03-22 12:29:27,12000000128,34.86,4.04,30.82,Leroy,Null,5124 Hernandez St,C-82,Holbrook,ID,83243,Leroy,Null,5124 Hernandez St,C-82,Holbrook,ID,83243
+1970-03-23 07:01:06,12000000129,54.01,1.17,52.84,Fernando,Moore,8851 Zimmer Rd,,Tallulah,LA,71284,Fernando,Moore,8851 Zimmer Rd,,Tallulah,LA,71284
+1970-03-23 18:24:03,12000000130,36.86,1.07,35.79,Michael,Newby,2987 Sweet St,,Helena,AR,72342,Michael,Newby,2987 Sweet St,,Helena,AR,72342
+1970-03-23 23:15:56,12000000131,58.32,4.92,53.4,Gertrude,Hardman,2665 Darling Blvd,,Taft,OK,74463,Gertrude,Hardman,2665 Darling Blvd,,Taft,OK,74463
+1970-03-24 06:22:05,12000000132,57.0,0.9,56.1,Karen,Rivas,3808 Sheehan St,,Baltimore,MD,21223,Karen,Rivas,3808 Sheehan St,,Baltimore,MD,21223
+1970-03-24 10:30:49,12000000133,85.45,3.99,81.46,Irene,Montpas,3375 Smith Ct,C-71,Mount Juliet,TN,37121,Irene,Montpas,3375 Smith Ct,C-71,Mount Juliet,TN,37121
+1970-03-25 05:32:05,12000000134,62.62,3.66,58.96,Mark,Mcwilliams,9030 Wall Ct,,New Port Richey,FL,34653,Susan,Mcgrane,5014 Taylor Rd,,Anton,TX,79313
+1970-03-25 12:47:00,12000000135,25.68,2.94,22.74,Amber,Hurst,9186 Egland St,,Grandville,MI,49468,Amber,Hurst,9186 Egland St,,Grandville,MI,49468
+1970-03-25 19:32:44,12000000136,174.17,4.08,170.09,Joseph,Roe,8185 Green St,,Gladewater,TX,75647,Joseph,Roe,8185 Green St,,Gladewater,TX,75647
+1970-03-26 05:11:34,12000000137,167.88,4.53,163.35,Jeffrey,Mackey,7746 Glover Blvd,,East Prairie,MO,63845,Jeffrey,Mackey,7746 Glover Blvd,,East Prairie,MO,63845
+1970-03-27 04:30:35,12000000138,71.66,2.42,69.24,Lisa,Corbett,7375 Bubier Ave,B-45,Union,WA,98592,Lisa,Corbett,7375 Bubier Ave,B-45,Union,WA,98592
+1970-03-27 04:41:24,12000000139,196.48,3.33,193.15,Jose,Mclaren,1426 Davidson Blvd,C-67,San Mateo,CA,94408,Richard,Wilcox,3449 Bessel Blvd,,Rye,CO,81069
+1970-03-28 08:18:22,12000000140,135.36,0.3,135.06,Cindy,Robey,1012 Roswick Rd,B86,Wasta,SD,57791,Cindy,Robey,1012 Roswick Rd,B86,Wasta,SD,57791
+1970-03-28 14:29:13,12000000141,62.3,3.2,59.1,Susan,Robinson,9653 White,,Maybrook,NY,12543,Susan,Robinson,9653 White,,Maybrook,NY,12543
+1970-03-28 21:25:34,12000000142,56.16,0.58,55.58,Edward,Weldon,9207 Mcdole,,Teresita,MO,65573,Edward,Weldon,9207 Mcdole,,Teresita,MO,65573
+1970-03-29 18:09:26,12000000143,147.15,3.13,144.02,Amanda,Pagan,3390 Lobendahn Rd,,Saint Stephens,AL,36569,Lois,Hamm,1110 Garrett St,,Glendale,AZ,85303
+1970-03-30 18:58:29,12000000144,39.44,1.3,38.14,Michael,Lawrence,835 Wolford,,Saint Peter,IL,62880,Michael,Lawrence,835 Wolford,,Saint Peter,IL,62880
+1970-03-31 14:08:14,12000000145,75.32,3.04,72.28,Barry,Lujan,9842 Sanchez St,,Timpson,TX,75975,Barry,Lujan,9842 Sanchez St,,Timpson,TX,75975
+1970-03-31 19:50:19,12000000146,162.24,0.46,161.78,Robert,Johnson,4762 Moore St,Unit 17,Altamonte Springs,FL,32701,Robert,Johnson,4762 Moore St,Unit 17,Altamonte Springs,FL,32701
+1970-04-01 23:25:13,12000000147,105.36,0.27,105.09,Willie,Tinkle,3884 Saucedo Blvd,,Dardanelle,AR,72834,Willie,Tinkle,3884 Saucedo Blvd,,Dardanelle,AR,72834
+1970-04-02 05:48:30,12000000148,181.29,2.49,178.8,Addie,Gosnell,4335 Mitchell Ave,,Albany,NY,12244,Addie,Gosnell,4335 Mitchell Ave,,Albany,NY,12244
+1970-04-02 20:07:39,12000000149,195.37,3.84,191.53,Kristy,Dalton,9178 Devora St,,Ramah,CO,80832,Kristy,Dalton,9178 Devora St,,Ramah,CO,80832
+1970-04-02 22:13:01,12000000150,151.65,4.53,147.12,Paul,Boyle,6896 Flores St,Unit 16,Shady Grove,FL,32357,Paul,Boyle,6896 Flores St,Unit 16,Shady Grove,FL,32357
+1970-04-02 22:28:10,12000000151,161.21,0.96,160.25,Michael,Negron,7886 Lewis St,,Erie,PA,16532,Michael,Negron,7886 Lewis St,,Erie,PA,16532
+1970-04-03 07:02:47,12000000152,56.67,2.96,53.71,Martin,Davis,3091 Palmer Ave,,Viola,KS,67149,Martin,Davis,3091 Palmer Ave,,Viola,KS,67149
+1970-04-03 08:41:54,12000000153,167.37,1.05,166.32,Daniel,Oconor,5314 Villareal St,,Tyner,NC,27980,Daniel,Oconor,5314 Villareal St,,Tyner,NC,27980
+1970-04-03 17:04:02,12000000154,187.55,0.95,186.6,David,Manylath,4554 Vargo Ave,,La Habra,CA,90633,David,Manylath,4554 Vargo Ave,,La Habra,CA,90633
+1970-04-04 12:05:23,12000000155,108.27,0.08,108.19,James,Miller,2924 Averill,,McGehee,AR,71654,James,Miller,2924 Averill,,McGehee,AR,71654
+1970-04-05 02:53:46,12000000156,34.62,1.17,33.45,Jessie,Flowe,2631 Neumeister Rd,B94,Orrum,NC,28369,Jessie,Flowe,2631 Neumeister Rd,B94,Orrum,NC,28369
+1970-04-05 23:21:44,12000000157,167.93,1.78,166.15,John,Vasquez,1069 Braun Blvd,,Cooperstown,ND,58425,John,Vasquez,1069 Braun Blvd,,Cooperstown,ND,58425
+1970-04-06 05:31:07,12000000158,122.34,0.08,122.26,Patrick,Gamble,8626 Chong Rd,,Bangor,CA,95914,Patrick,Gamble,8626 Chong Rd,,Bangor,CA,95914
+1970-04-06 08:13:13,12000000159,121.04,2.04,119.0,Sandra,Parsley,6173 Furst St,,Des Moines,IA,50316,Sandra,Parsley,6173 Furst St,,Des Moines,IA,50316
+1970-04-07 03:46:58,12000000160,26.38,3.01,23.37,Kevin,Luke,4250 Hudec St,,Springerville,AZ,85938,Juanita,Locke,4073 Shover St,,Oakland,CA,94619
+1970-04-08 02:53:24,12000000161,135.85,3.9,131.95,Willa,Coyle,25 Hill St,,Frederick,CO,80530,Willa,Coyle,25 Hill St,,Frederick,CO,80530
+1970-04-08 09:24:55,12000000162,26.25,3.98,22.27,Hal,Vandiver,5745 Nieto Rd,D-67,Saint Charles,MO,63304,Hal,Vandiver,5745 Nieto Rd,D-67,Saint Charles,MO,63304
+1970-04-08 21:13:18,12000000163,178.27,1.97,176.3,Marty,Morago,6012 Lanford Ct,,Sun Valley,ID,83354,Marty,Morago,6012 Lanford Ct,,Sun Valley,ID,83354
+1970-04-08 23:19:39,12000000164,142.33,1.88,140.45,Robert,Ewing,1155 Melendy Rd,,Marietta,GA,30061,Robert,Ewing,1155 Melendy Rd,,Marietta,GA,30061
+1970-04-09 09:12:37,12000000165,190.87,1.9,188.97,Abby,Alves,188 Griffin St,,Herrin,IL,62948,Abby,Alves,188 Griffin St,,Herrin,IL,62948
+1970-04-10 05:02:05,12000000166,142.55,4.35,138.2,Latoya,Jones,8412 Heck St,,Fay,OK,73646,Latoya,Jones,8412 Heck St,,Fay,OK,73646
+1970-04-10 12:50:00,12000000167,166.29,1.18,165.11,Michael,Baker,7586 Welch Ct,,Carpenter,WY,82054,Michael,Baker,7586 Welch Ct,,Carpenter,WY,82054
+1970-04-10 20:45:32,12000000168,53.06,2.59,50.47,James,Diaz,677 Jenkins St,,Ballston Spa,NY,12020,James,Diaz,677 Jenkins St,,Ballston Spa,NY,12020
+1970-04-11 16:13:25,12000000169,101.8,0.15,101.65,Rachel,Flowers,5291 Marquez Rd,,Springfield,OH,45503,Rachel,Flowers,5291 Marquez Rd,,Springfield,OH,45503
+1970-04-12 17:43:15,12000000170,166.35,0.08,166.27,Maureen,Perron,6911 Gogan St,,Melbourne,IA,50162,Maureen,Perron,6911 Gogan St,,Melbourne,IA,50162
+1970-04-13 12:18:22,12000000171,105.26,1.5,103.76,Megan,Richart,4877 Williams Blvd,,Huntsville,AR,72740,Joseph,Ferree,8473 Valenzuela Blvd,B33,Verdigre,NE,68783
+1970-04-13 19:07:22,12000000172,60.59,2.65,57.94,Carl,Mccool,7289 Ragland,,Wolcott,IN,47995,Carl,Mccool,7289 Ragland,,Wolcott,IN,47995
+1970-04-14 00:27:40,12000000173,164.51,2.29,162.22,Shawn,Croom,6854 Price Rd,,Red Oak,OK,74563,Shawn,Croom,6854 Price Rd,,Red Oak,OK,74563
+1970-04-14 15:38:52,12000000174,141.69,0.69,141.0,Vickie,Pruitt,3531 Castellano,D33,West Milton,OH,45383,Vickie,Pruitt,3531 Castellano,D33,West Milton,OH,45383
+1970-04-15 07:40:42,12000000175,159.39,4.35,155.04,Freda,Habegger,1877 Rodriguez Blvd,,Coolspring,PA,15730,Freda,Habegger,1877 Rodriguez Blvd,,Coolspring,PA,15730
+1970-04-16 08:15:30,12000000176,39.13,3.63,35.5,Norma,Chandler,6345 Anderson Ave,,McNary,LA,71436,Norma,Chandler,6345 Anderson Ave,,McNary,LA,71436
+1970-04-16 17:50:15,12000000177,176.7,3.53,173.17,Rosemary,Farmer,8939 Gadsden Blvd,,Addy,WA,99101,Rosemary,Farmer,8939 Gadsden Blvd,,Addy,WA,99101
+1970-04-16 22:48:37,12000000178,174.13,0.33,173.8,Kimberly,Lamb,8534 Santiago Rd,,Rockport,KY,42369,Kimberly,Lamb,8534 Santiago Rd,,Rockport,KY,42369
+1970-04-18 01:46:52,12000000179,52.14,4.74,47.4,Jacqueline,James,373 Sperry Blvd,,Ponce De Leon,MO,65728,Jacqueline,James,373 Sperry Blvd,,Ponce De Leon,MO,65728
+1970-04-18 09:01:02,12000000180,156.56,4.21,152.35,Sonja,Lillian,7948 Western St,,Ormond Beach,FL,32175,Sonja,Lillian,7948 Western St,,Ormond Beach,FL,32175
+1970-04-19 10:55:38,12000000181,27.96,2.08,25.88,Taylor,Mooring,8737 Dew Rd,,Lyons,GA,30436,Taylor,Mooring,8737 Dew Rd,,Lyons,GA,30436
+1970-04-19 22:33:12,12000000182,82.28,3.98,78.3,Jimmy,Whitmire,4225 Ordway Blvd,B-8,Duvall,WA,98019,Jimmy,Whitmire,4225 Ordway Blvd,B-8,Duvall,WA,98019
+1970-04-20 08:03:36,12000000183,169.47,4.14,165.33,Guy,Gibbs,5721 Schwartz Ct,,Lordsburg,NM,88045,Guy,Gibbs,5721 Schwartz Ct,,Lordsburg,NM,88045
+1970-04-21 09:32:32,12000000184,121.88,3.59,118.29,Shirley,Skeete,5621 Bruce St,A-94,Braddock,ND,58524,Shirley,Skeete,5621 Bruce St,A-94,Braddock,ND,58524
+1970-04-22 11:21:46,12000000185,108.22,2.33,105.89,Misti,Gleason,6716 Wobbleton Ct,B-69,Lansing,MI,48912,Misti,Gleason,6716 Wobbleton Ct,B-69,Lansing,MI,48912
+1970-04-23 15:00:48,12000000186,44.12,2.75,41.37,Sharon,Gibson,1664 Moore,,Togiak,AK,99678,Sharon,Gibson,1664 Moore,,Togiak,AK,99678
+1970-04-24 07:01:37,12000000187,59.45,0.15,59.3,Paul,Leblanc,5828 Wilson St,,Smith Lake,NM,87365,Paul,Leblanc,5828 Wilson St,,Smith Lake,NM,87365
+1970-04-25 00:48:20,12000000188,137.52,2.92,134.6,Jeff,Boxer,5198 Rentz St,,Valley Forge,PA,19485,Kerry,Haug,8444 Cook Ave,No. 43,Rothsay,MN,56579
+1970-04-25 20:39:06,12000000189,175.38,2.01,173.37,Anna,Rindels,620 Rightmire Blvd,,Swisshome,OR,97480,Anna,Rindels,620 Rightmire Blvd,,Swisshome,OR,97480
+1970-04-26 11:01:17,12000000190,148.63,3.89,144.74,Allen,Traylor,83 Fine St,,Kalamazoo,MI,49004,Allen,Traylor,83 Fine St,,Kalamazoo,MI,49004
+1970-04-26 21:01:05,12000000191,72.37,4.09,68.28,Garry,Matthews,4967 Adu St,,Pearl Harbor,HI,96860,Garry,Matthews,4967 Adu St,,Pearl Harbor,HI,96860
+1970-04-27 17:22:58,12000000192,189.95,0.55,189.4,Aurora,Malkin,7670 Pritchett St,,Reynoldsburg,OH,43068,Aurora,Malkin,7670 Pritchett St,,Reynoldsburg,OH,43068
+1970-04-28 18:02:04,12000000193,38.24,1.8,36.44,Rita,Patterson,150 Holland,,Yemassee,SC,29945,Rita,Patterson,150 Holland,,Yemassee,SC,29945
+1970-04-28 19:40:41,12000000194,26.87,3.2,23.67,Doris,Schindler,9253 Lopez,,Newhall,CA,91322,Doris,Schindler,9253 Lopez,,Newhall,CA,91322
+1970-04-29 06:27:22,12000000195,59.46,1.37,58.09,Sue,Longoria,6740 Diaz St,,Clifton,CO,81520,Sue,Longoria,6740 Diaz St,,Clifton,CO,81520
+1970-04-30 02:21:10,12000000196,106.78,2.49,104.29,Charlotte,Cleveland,2357 Mayhew St,,Kane,PA,16735,Charlotte,Cleveland,2357 Mayhew St,,Kane,PA,16735
+1970-05-01 01:06:41,12000000197,92.35,2.02,90.33,Mary,Walton,2055 Miller Rd,,Chicago,IL,60677,Mary,Walton,2055 Miller Rd,,Chicago,IL,60677
+1970-05-01 06:49:41,12000000198,96.38,0.26,96.12,Daniel,Guerra,5032 Crosslin Ave,,Anthem,AZ,85086,Daniel,Guerra,5032 Crosslin Ave,,Anthem,AZ,85086
+1970-05-01 21:01:59,12000000199,71.47,0.82,70.65,Russell,Mikulak,8922 Lee,,Templeton,IA,51463,Russell,Mikulak,8922 Lee,,Templeton,IA,51463
+1970-05-02 13:07:32,12000000200,47.43,0.74,46.69,Margaret,Nelson,9653 Chace Ave,Unit 64,Adger,AL,35006,Margaret,Nelson,9653 Chace Ave,Unit 64,Adger,AL,35006
+1970-05-03 10:17:46,12000000201,69.99,3.05,66.94,Kevin,Modlin,5054 Greenman St,,Osceola,AR,72370,Kevin,Modlin,5054 Greenman St,,Osceola,AR,72370
+1970-05-04 06:42:05,12000000202,196.92,4.04,192.88,Maisha,Osterberg,2210 Watts,,Fort Mcdowell,AZ,85264,Maisha,Osterberg,2210 Watts,,Fort Mcdowell,AZ,85264
+1970-05-05 02:19:05,12000000203,119.96,0.18,119.78,Fred,Balderas,2111 Bartlett Rd,,Lordsburg,NM,88045,Fred,Balderas,2111 Bartlett Rd,,Lordsburg,NM,88045
+1970-05-05 05:49:47,12000000204,50.99,4.45,46.54,Malinda,Martell,1314 Willett St,,Kickapoo,WI,54052,Malinda,Martell,1314 Willett St,,Kickapoo,WI,54052
+1970-05-05 23:49:00,12000000205,55.0,4.34,50.66,James,White,6113 Sauer St,,Saint Paul,MN,55133,James,White,6113 Sauer St,,Saint Paul,MN,55133
+1970-05-06 09:14:04,12000000206,93.47,1.95,91.52,Juan,Sardinha,1439 Lewis Blvd,,Washington,DC,20554,Juan,Sardinha,1439 Lewis Blvd,,Washington,DC,20554
+1970-05-07 06:22:19,12000000207,68.12,0.54,67.58,Rita,Skiba,7365 Ortega St,,Hicksville,NY,11801,Rita,Skiba,7365 Ortega St,,Hicksville,NY,11801
+1970-05-07 14:14:56,12000000208,197.89,3.06,194.83,Kent,Richie,7565 Dearborn St,,Charleston,WV,25333,Kent,Richie,7565 Dearborn St,,Charleston,WV,25333
+1970-05-07 15:29:01,12000000209,180.53,0.48,180.05,Bill,Barnett,9385 Chambers Rd,,Marshalltown,IA,50158,Bill,Barnett,9385 Chambers Rd,,Marshalltown,IA,50158
+1970-05-08 11:50:37,12000000210,147.56,4.63,142.93,Conrad,Bascomb,8649 Lewis Rd,,Naples,FL,34114,Conrad,Bascomb,8649 Lewis Rd,,Naples,FL,34114
+1970-05-09 07:39:48,12000000211,106.03,1.87,104.16,Graciela,Crowe,2385 Allen Rd,,Forestville,WI,54213,Graciela,Crowe,2385 Allen Rd,,Forestville,WI,54213
+1970-05-09 23:07:43,12000000212,25.91,0.57,25.34,Lena,Higdon,8541 Wilson,B95,Madras,OR,97741,Lena,Higdon,8541 Wilson,B95,Madras,OR,97741
+1970-05-10 14:31:16,12000000213,161.77,0.13,161.64,James,Mcnally,285 Hogan St,,Wells,NV,89835,James,Mcnally,285 Hogan St,,Wells,NV,89835
+1970-05-11 05:23:29,12000000214,84.76,2.84,81.92,Eunice,Grant,1722 Waters Ave,D48,Pahrump,NV,89041,Eunice,Grant,1722 Waters Ave,D48,Pahrump,NV,89041
+1970-05-11 19:08:12,12000000215,27.45,2.8,24.65,Matthew,White,3949 Melendez Blvd,,Washington,DC,20414,Matthew,White,3949 Melendez Blvd,,Washington,DC,20414
+1970-05-12 06:36:11,12000000216,145.97,2.27,143.7,Edward,Lowery,1408 Blake St,,Santa Rosa,CA,95407,Edward,Lowery,1408 Blake St,,Santa Rosa,CA,95407
+1970-05-12 16:50:38,12000000217,79.36,0.93,78.43,Helen,Caudill,4075 Taylor St,,Jersey,VA,22481,Helen,Caudill,4075 Taylor St,,Jersey,VA,22481
+1970-05-13 12:21:58,12000000218,162.65,4.57,158.08,Amber,Coursey,8841 Kircher St,Unit 57,Rocky Hill,KY,42163,Amber,Coursey,8841 Kircher St,Unit 57,Rocky Hill,KY,42163
+1970-05-13 19:47:40,12000000219,186.84,0.41,186.43,James,Hearn,6652 Davis,,Lakewood,PA,18439,James,Hearn,6652 Davis,,Lakewood,PA,18439
+1970-05-14 11:54:04,12000000220,29.02,1.11,27.91,Wilma,Woodward,5291 Dixon Ave,,Murrells Inlet,SC,29875,Wilma,Woodward,5291 Dixon Ave,,Murrells Inlet,SC,29875
+1970-05-15 11:24:15,12000000221,41.11,3.59,37.52,Trudie,Hendler,7593 Witherite St,,Raleigh,ND,58564,Trudie,Hendler,7593 Witherite St,,Raleigh,ND,58564
+1970-05-16 02:50:20,12000000222,135.23,1.07,134.16,Richard,Taylor,4588 Keen St,C98,Oakland,CA,94617,Timothy,Edward,6350 Neidich Ave,,Cincinnati,OH,45211
+1970-05-17 06:01:10,12000000223,123.55,2.17,121.38,Margaret,Monty,6601 Cushing Rd,,Florence,SC,29504,Margaret,Monty,6601 Cushing Rd,,Florence,SC,29504
+1970-05-17 23:34:25,12000000224,166.52,3.9,162.62,Dominic,Farmer,5611 Gilliam Rd,,Canton,OH,44750,Dominic,Farmer,5611 Gilliam Rd,,Canton,OH,44750
+1970-05-18 23:47:24,12000000225,195.59,0.02,195.57,Julie,Alexander,2716 Hackley,,New Washington,IN,47162,Julie,Alexander,2716 Hackley,,New Washington,IN,47162
+1970-05-19 01:29:12,12000000226,148.19,0.79,147.4,Norman,Faulk,2397 Richeson Ave,B87,Windsor,MO,65360,Norman,Faulk,2397 Richeson Ave,B87,Windsor,MO,65360
+1970-05-19 08:10:59,12000000227,83.63,1.98,81.65,Alice,Merlo,8753 Perry Ct,,Houston,MS,38851,Alice,Merlo,8753 Perry Ct,,Houston,MS,38851
+1970-05-20 04:32:01,12000000228,77.68,2.09,75.59,Lisa,Crowder,8743 Senske Rd,,Okemos,MI,48805,Lisa,Crowder,8743 Senske Rd,,Okemos,MI,48805
+1970-05-21 06:24:00,12000000229,82.05,3.67,78.38,Chad,Fischer,1117 Felix St,Suite 58,Akron,OH,44334,Chad,Fischer,1117 Felix St,Suite 58,Akron,OH,44334
+1970-05-21 22:56:37,12000000230,76.96,3.35,73.61,Robert,Blanch,332 Erickson St,,Advance,MO,63730,Robert,Blanch,332 Erickson St,,Advance,MO,63730
+1970-05-22 13:17:50,12000000231,160.54,3.09,157.45,Horacio,Downing,3565 Nystrom Ave,,Elyria,NE,68837,Horacio,Downing,3565 Nystrom Ave,,Elyria,NE,68837
+1970-05-22 21:40:59,12000000232,106.36,3.76,102.6,Candida,Whiteis,2378 Benshoof,,Sodus Point,NY,14555,Candida,Whiteis,2378 Benshoof,,Sodus Point,NY,14555
+1970-05-23 21:52:09,12000000233,173.43,3.31,170.12,Melissa,Waldron,9805 Cullen St,C-64,Weogufka,AL,35183,Melissa,Waldron,9805 Cullen St,C-64,Weogufka,AL,35183
+1970-05-23 22:42:36,12000000234,78.32,4.07,74.25,Dean,Holsapple,5632 Smith Ct,,Canton,MI,48187,Dean,Holsapple,5632 Smith Ct,,Canton,MI,48187
+1970-05-23 23:23:35,12000000235,158.46,3.65,154.81,Lisette,Collier,1024 Towns Blvd,Ste. A17,Forsyth,IL,62535,Lisette,Collier,1024 Towns Blvd,Ste. A17,Forsyth,IL,62535
+1970-05-24 12:30:03,12000000236,45.55,1.04,44.51,Elizabeth,Lopes,3841 Davis Rd,,Dandridge,TN,37725,Elizabeth,Lopes,3841 Davis Rd,,Dandridge,TN,37725
+1970-05-24 18:41:07,12000000237,131.48,4.41,127.07,Glen,Shumaker,2538 Mcneil St,,McSherrystown,PA,17344,Glen,Shumaker,2538 Mcneil St,,McSherrystown,PA,17344
+1970-05-25 18:41:05,12000000238,117.47,4.66,112.81,Lonnie,Hutchinson,4660 Gloeckner Ave,,Dante,VA,24237,Lonnie,Hutchinson,4660 Gloeckner Ave,,Dante,VA,24237
+1970-05-26 07:35:04,12000000239,46.58,3.48,43.1,Marie,Miller,6548 Green Ct,,Waukesha,WI,53188,Marie,Miller,6548 Green Ct,,Waukesha,WI,53188
+1970-05-26 23:31:22,12000000240,147.74,3.47,144.27,Kristen,Waller,6208 Solari St,Ste. A73,Clear Lake,MN,55319,Lester,Hart,699 Mullaney Ct,,Boys Town,NE,68010
+1970-05-27 10:39:40,12000000241,148.81,2.3,146.51,Jessi,Johnson,4716 Underhill St,,Okahumpka,FL,34762,James,Wray,608 Malveaux Ave,,West Salem,WI,54669
+1970-05-27 20:34:55,12000000242,50.95,3.58,47.37,Zenobia,Bourne,4070 Land Rd,D-90,Saint Marys,GA,31558,Zenobia,Bourne,4070 Land Rd,D-90,Saint Marys,GA,31558
+1970-05-28 09:16:05,12000000243,197.6,4.78,192.82,James,White,4757 Walsh St,,Albany,IL,61230,James,White,4757 Walsh St,,Albany,IL,61230
+1970-05-29 01:05:29,12000000244,81.88,2.3,79.58,Carey,Caudle,989 Bowen Blvd,,Austell,GA,30106,Carey,Caudle,989 Bowen Blvd,,Austell,GA,30106
+1970-05-29 18:00:57,12000000245,97.07,3.97,93.1,Lucille,Garcia,5002 Martin Blvd,,Pulaski,TN,38478,Lucille,Garcia,5002 Martin Blvd,,Pulaski,TN,38478
+1970-05-30 00:09:20,12000000246,131.18,1.87,129.31,Priscilla,Cramer,1640 Gomez,,Poulsbo,WA,98370,Priscilla,Cramer,1640 Gomez,,Poulsbo,WA,98370
+1970-05-30 06:46:00,12000000247,70.42,3.49,66.93,Shane,Dockery,2987 Smith,Ste. A89,Mark Center,OH,43536,Shane,Dockery,2987 Smith,Ste. A89,Mark Center,OH,43536
+1970-05-31 05:40:05,12000000248,195.63,3.83,191.8,Alberto,Cox,3332 Ferebee Rd,,Clearwater,FL,33762,Alberto,Cox,3332 Ferebee Rd,,Clearwater,FL,33762
+1970-06-01 00:21:40,12000000249,36.04,4.32,31.72,Rhona,Spangle,508 Fults Ave,C47,Orangeburg,NY,10962,Richard,Rzeszutko,9508 Jones Ave,D-69,Benedict,NE,68316
+1970-06-02 00:53:14,12000000250,90.55,1.12,89.43,David,Hebert,2648 Malloy Blvd,,Culdesac,ID,83524,David,Hebert,2648 Malloy Blvd,,Culdesac,ID,83524
+1970-06-02 10:05:31,12000000251,122.79,2.16,120.63,Adam,Ford,9953 Spencer Ct,,Tracy City,TN,37387,Adam,Ford,9953 Spencer Ct,,Tracy City,TN,37387
+1970-06-03 08:09:26,12000000252,45.29,4.21,41.08,Debra,Johnson,9958 Herbert Ave,,Huntsville,AL,35809,Debra,Johnson,9958 Herbert Ave,,Huntsville,AL,35809
+1970-06-03 09:53:21,12000000253,79.37,4.18,75.19,Sheron,Frazier,9819 Fox Ave,,Riverside,CA,92504,Sheron,Frazier,9819 Fox Ave,,Riverside,CA,92504
+1970-06-04 13:14:43,12000000254,64.42,3.72,60.7,Peter,Roberts,7369 Wright St,,Union Furnace,OH,43158,Peter,Roberts,7369 Wright St,,Union Furnace,OH,43158
+1970-06-05 03:19:32,12000000255,120.94,3.98,116.96,Roy,Graham,8990 Mccasland St,,Broadway,VA,22815,Roy,Graham,8990 Mccasland St,,Broadway,VA,22815
+1970-06-05 14:21:25,12000000256,199.84,3.72,196.12,Bobby,Harris,7643 Wilkins,A-37,Morgantown,IN,46160,Bobby,Harris,7643 Wilkins,A-37,Morgantown,IN,46160
+1970-06-06 01:10:08,12000000257,154.25,0.46,153.79,Beverly,Bird,8111 Tavares St,,Brooker,FL,32622,Beverly,Bird,8111 Tavares St,,Brooker,FL,32622
+1970-06-06 12:18:47,12000000258,153.92,4.24,149.68,Davis,Scharmer,4150 Lingbeek Blvd,,Sterling,VA,20165,Davis,Scharmer,4150 Lingbeek Blvd,,Sterling,VA,20165
+1970-06-06 15:59:42,12000000259,51.14,0.22,50.92,Reginald,Gregory,1836 Grant Rd,C-48,Gilbert,AZ,85299,Reginald,Gregory,1836 Grant Rd,C-48,Gilbert,AZ,85299
+1970-06-07 10:07:11,12000000260,77.7,2.66,75.04,Ethel,Clymer,8189 Carlson Rd,,Denver,CO,80295,Ethel,Clymer,8189 Carlson Rd,,Denver,CO,80295
+1970-06-07 22:16:19,12000000261,165.58,1.8,163.78,Timothy,Powell,2183 Jowers Rd,,Ruston,LA,71273,Timothy,Powell,2183 Jowers Rd,,Ruston,LA,71273
+1970-06-08 15:04:26,12000000262,105.05,3.15,101.9,Jason,Morgan,3247 Hannah Rd,,Lakeview,TX,79239,Micheal,Paige,9679 Smith Rd,,Corbettsville,NY,13749
+1970-06-09 03:42:09,12000000263,158.89,0.37,158.52,Leana,Mazza,8182 Eckloff Rd,,Laurel,MD,20725,Leana,Mazza,8182 Eckloff Rd,,Laurel,MD,20725
+1970-06-09 20:21:34,12000000264,168.68,1.41,167.27,John,Tuck,263 Fashaw Rd,,Hayden,CO,81639,John,Tuck,263 Fashaw Rd,,Hayden,CO,81639
+1970-06-10 03:11:30,12000000265,190.44,2.12,188.32,Teresa,Hall,7916 Foster Ave,,Columbia Cross Roads,PA,16914,Teresa,Hall,7916 Foster Ave,,Columbia Cross Roads,PA,16914
+1970-06-10 07:15:35,12000000266,110.91,0.59,110.32,Tina,Sutton,3812 Griffin St,,Canton,OH,44735,Tina,Sutton,3812 Griffin St,,Canton,OH,44735
+1970-06-10 16:05:22,12000000267,165.09,4.62,160.47,Minh,Fuller,403 Cos,,Buchanan Dam,TX,78609,Yolanda,Tousom,5122 Mehta St,,Washington,DC,20542
+1970-06-11 15:51:16,12000000268,120.26,4.77,115.49,Lawrence,Partington,9330 Cummings Ave,,Franklin,MO,65250,Lawrence,Partington,9330 Cummings Ave,,Franklin,MO,65250
+1970-06-12 04:22:38,12000000269,94.85,1.41,93.44,Jeffrey,Campbell,3158 Erskine Rd,,Manila,UT,84046,Jeffrey,Campbell,3158 Erskine Rd,,Manila,UT,84046
+1970-06-13 00:01:03,12000000270,135.13,2.64,132.49,Alicia,Valdez,5282 Gionest Ave,,Caldwell,KS,67022,Alicia,Valdez,5282 Gionest Ave,,Caldwell,KS,67022
+1970-06-13 19:53:31,12000000271,171.23,1.16,170.07,Lisa,Mendoza,9984 Strahm St,D-18,Crandall,TX,75114,Lisa,Mendoza,9984 Strahm St,D-18,Crandall,TX,75114
+1970-06-14 16:09:15,12000000272,102.78,2.94,99.84,Dianne,Howell,351 Andrews St,,Williamsport,MD,21795,Dianne,Howell,351 Andrews St,,Williamsport,MD,21795
+1970-06-14 23:09:42,12000000273,96.37,3.49,92.88,Philip,Bott,939 Cooper St,,Tulsa,OK,74106,Philip,Bott,939 Cooper St,,Tulsa,OK,74106
+1970-06-15 06:32:17,12000000274,188.82,0.35,188.47,Marvella,Ojeda,4835 Denton Rd,,Peoria,IL,61650,Marvella,Ojeda,4835 Denton Rd,,Peoria,IL,61650
+1970-06-16 02:24:18,12000000275,79.38,1.91,77.47,Karoline,Anton,8125 Ward Blvd,,Punta Gorda,FL,33983,Karoline,Anton,8125 Ward Blvd,,Punta Gorda,FL,33983
+1970-06-17 06:05:09,12000000276,142.74,0.83,141.91,Joseph,Sandoval,1222 Markham Rd,,Moscow,OH,45153,Joseph,Sandoval,1222 Markham Rd,,Moscow,OH,45153
+1970-06-17 07:39:48,12000000277,165.81,2.07,163.74,Marshall,Stenger,1748 Lefever St,,Johnson City,NY,13790,Marshall,Stenger,1748 Lefever St,,Johnson City,NY,13790
+1970-06-18 00:00:21,12000000278,195.86,0.73,195.13,Robert,Melero,3925 Glover,,Eastland,TX,76448,Robert,Melero,3925 Glover,,Eastland,TX,76448
+1970-06-18 04:21:15,12000000279,103.34,0.23,103.11,Thomas,Lewis,2194 Garcia St,,Rattan,OK,74562,Thomas,Lewis,2194 Garcia St,,Rattan,OK,74562
+1970-06-18 23:10:39,12000000280,111.32,2.34,108.98,Cindy,Stone,9991 English St,,Chadbourn,NC,28431,Cindy,Stone,9991 English St,,Chadbourn,NC,28431
+1970-06-20 00:09:40,12000000281,110.69,1.77,108.92,Robert,Crooks,8318 Cambria Blvd,,Marco Island,FL,34146,Robert,Crooks,8318 Cambria Blvd,,Marco Island,FL,34146
+1970-06-20 19:10:01,12000000282,184.68,0.92,183.76,Steven,Pope,8246 Dvorak,,Arlington,TX,76001,Steven,Pope,8246 Dvorak,,Arlington,TX,76001
+1970-06-21 09:59:55,12000000283,92.51,2.04,90.47,Toni,Hayes,5908 Boone Ave,,New Albany,OH,43054,Toni,Hayes,5908 Boone Ave,,New Albany,OH,43054
+1970-06-22 11:01:34,12000000284,125.53,1.84,123.69,Derek,Thompson,9574 Santos,B51,Ireland,WV,26376,Derek,Thompson,9574 Santos,B51,Ireland,WV,26376
+1970-06-22 13:08:27,12000000285,85.62,2.59,83.03,Nancy,Lillian,4839 Rose Blvd,,Clearwater,MN,55320,Nancy,Lillian,4839 Rose Blvd,,Clearwater,MN,55320
+1970-06-23 01:28:23,12000000286,178.37,2.87,175.5,Brandy,Ware,5827 Shope St,,Lake Elmo,MN,55042,Brandy,Ware,5827 Shope St,,Lake Elmo,MN,55042
+1970-06-23 19:06:57,12000000287,123.16,4.37,118.79,Vivian,Toro,2827 Stewart St,No. 37,Spring,TX,77381,Vivian,Toro,2827 Stewart St,No. 37,Spring,TX,77381
+1970-06-24 05:19:05,12000000288,54.92,3.35,51.57,Julie,Cole,8858 Rivera St,,Honolulu,HI,96817,Julie,Cole,8858 Rivera St,,Honolulu,HI,96817
+1970-06-25 01:53:45,12000000289,172.23,3.5,168.73,Wallace,Pope,5287 Garner Ct,Unit 20,Medford,MN,55049,Wallace,Pope,5287 Garner Ct,Unit 20,Medford,MN,55049
+1970-06-25 14:16:27,12000000290,181.58,2.47,179.11,Joseph,Rice,6682 Marquez,,Bulls Gap,TN,37711,Joseph,Rice,6682 Marquez,,Bulls Gap,TN,37711
+1970-06-26 05:16:02,12000000291,95.78,4.61,91.17,Walter,Belcher,9394 Hansell St,,Jeffersonville,IN,47134,Walter,Belcher,9394 Hansell St,,Jeffersonville,IN,47134
+1970-06-26 09:42:39,12000000292,49.76,4.13,45.63,Mary,Garza,6554 Tymeson Rd,,Columbus,OH,43232,Mary,Garza,6554 Tymeson Rd,,Columbus,OH,43232
+1970-06-27 04:21:50,12000000293,160.84,1.33,159.51,Ty,Shah,4124 Peterson Rd,,Kettle River,MN,55757,Ty,Shah,4124 Peterson Rd,,Kettle River,MN,55757
+1970-06-27 19:43:17,12000000294,193.04,4.94,188.1,Jeannine,Gomez,1934 Castro Rd,,Gering,NE,69341,Jeannine,Gomez,1934 Castro Rd,,Gering,NE,69341
+1970-06-28 15:14:52,12000000295,193.74,1.25,192.49,Jenny,Renfro,1569 Childs St,,Moundville,MO,64771,Jenny,Renfro,1569 Childs St,,Moundville,MO,64771
+1970-06-28 19:13:10,12000000296,126.38,2.61,123.77,Guadalupe,Dewing,4897 Kepner Rd,,Monroe,LA,71203,Guadalupe,Dewing,4897 Kepner Rd,,Monroe,LA,71203
+1970-06-29 05:52:00,12000000297,65.78,4.81,60.97,Jerome,Woods,9659 Parise St,,Hardy,NE,68943,Jerome,Woods,9659 Parise St,,Hardy,NE,68943
+1970-06-30 08:07:48,12000000298,51.28,0.91,50.37,William,Fulton,2261 Saito,,West Sacramento,CA,95691,William,Fulton,2261 Saito,,West Sacramento,CA,95691
+1970-07-01 07:43:20,12000000299,100.03,1.81,98.22,Joshua,Asquith,7941 Kilpatrick St,,Simpson,KS,67478,Joshua,Asquith,7941 Kilpatrick St,,Simpson,KS,67478
+1970-07-01 23:42:33,12000000300,94.8,1.58,93.22,Meghan,Harlow,8595 Skill Ct,A-2,El Paso,TX,79932,Meghan,Harlow,8595 Skill Ct,A-2,El Paso,TX,79932
+1970-07-02 08:18:09,12000000301,139.39,3.99,135.4,Howard,Streeter,8285 Tyson Ct,,Ragsdale,IN,47573,Howard,Streeter,8285 Tyson Ct,,Ragsdale,IN,47573
+1970-07-02 18:39:51,12000000302,195.71,3.51,192.2,Julie,Lorenz,8265 Hopkins St,Unit 91,Walthourville,GA,31333,Julie,Lorenz,8265 Hopkins St,Unit 91,Walthourville,GA,31333
+1970-07-03 01:45:27,12000000303,181.29,0.05,181.24,Willie,Lambert,305 Taylor Rd,,Cookeville,TN,38503,Willie,Lambert,305 Taylor Rd,,Cookeville,TN,38503
+1970-07-03 05:51:12,12000000304,193.85,0.05,193.8,Lisa,Raether,7786 Pamperin St,,Raleigh,NC,27623,Lisa,Raether,7786 Pamperin St,,Raleigh,NC,27623
+1970-07-03 13:35:12,12000000305,92.45,2.03,90.42,Lynn,Zimmerman,3854 Dowell St,D-91,Racine,MO,64858,Lynn,Zimmerman,3854 Dowell St,D-91,Racine,MO,64858
+1970-07-04 10:07:49,12000000306,100.82,4.45,96.37,Diane,Ashby,3029 Sharp Ave,Unit 3,Gothenburg,NE,69138,Diane,Ashby,3029 Sharp Ave,Unit 3,Gothenburg,NE,69138
+1970-07-04 15:21:09,12000000307,73.67,4.2,69.47,Daniel,Muzii,3608 Angel St,B45,Northport,NY,11768,Daniel,Muzii,3608 Angel St,B45,Northport,NY,11768
+1970-07-05 18:23:13,12000000308,26.67,2.65,24.02,Alicia,Mullens,5144 Johnson Ct,,Vacaville,CA,95696,Alicia,Mullens,5144 Johnson Ct,,Vacaville,CA,95696
+1970-07-06 00:28:40,12000000309,121.74,0.28,121.46,Willie,Martinez,9342 Morris Ave,,Meredosia,IL,62665,Willie,Martinez,9342 Morris Ave,,Meredosia,IL,62665
+1970-07-06 18:16:15,12000000310,141.8,3.69,138.11,Rufus,Fish,9755 Arnold Rd,,Mammoth,AZ,85618,Rufus,Fish,9755 Arnold Rd,,Mammoth,AZ,85618
+1970-07-06 21:07:26,12000000311,87.23,3.58,83.65,Kenneth,Harris,6630 Laperle St,,Union City,GA,30291,Kenneth,Harris,6630 Laperle St,,Union City,GA,30291
+1970-07-07 05:40:18,12000000312,92.03,1.83,90.2,Gerald,Schafer,2995 Jackson Ct,,Crandall,TX,75114,Gerald,Schafer,2995 Jackson Ct,,Crandall,TX,75114
+1970-07-07 23:38:25,12000000313,99.38,2.32,97.06,Robert,Tyrone,9619 Gate St,C-87,Watson,IL,62473,Robert,Tyrone,9619 Gate St,C-87,Watson,IL,62473
+1970-07-08 11:41:30,12000000314,123.41,1.74,121.67,John,Schmelz,8186 Menken,,Ashland,OH,44805,John,Schmelz,8186 Menken,,Ashland,OH,44805
+1970-07-09 04:39:14,12000000315,154.83,4.56,150.27,Kerry,Anderson,3076 Viard St,,Rome,GA,30161,Kerry,Anderson,3076 Viard St,,Rome,GA,30161
+1970-07-10 00:50:07,12000000316,109.74,3.49,106.25,Tracy,Hardy,9420 Schultz,C-89,Oroville,WA,98844,Tracy,Hardy,9420 Schultz,C-89,Oroville,WA,98844
+1970-07-11 02:50:13,12000000317,186.81,2.99,183.82,Paul,Levay,5995 Lewis Ave,,Albuquerque,NM,87201,Paul,Levay,5995 Lewis Ave,,Albuquerque,NM,87201
+1970-07-11 22:56:53,12000000318,194.51,2.71,191.8,Edward,Macgregor,4870 Vanvliet Blvd,B57,Houston,TX,77095,Edward,Macgregor,4870 Vanvliet Blvd,B57,Houston,TX,77095
+1970-07-12 08:32:37,12000000319,176.63,3.71,172.92,Catherine,Diaz,9651 Peterson Rd,,Lawrence,KS,66049,Catherine,Diaz,9651 Peterson Rd,,Lawrence,KS,66049
+1970-07-12 15:54:49,12000000320,53.95,3.38,50.57,Tim,Wohlenhaus,3379 Turner Blvd,,Denver,CO,80281,Tim,Wohlenhaus,3379 Turner Blvd,,Denver,CO,80281
+1970-07-12 22:09:45,12000000321,113.18,1.37,111.81,Jill,Landry,3752 Levine Blvd,,Neffs,OH,43940,Jean,Johnson,1897 Williams Ave,B-71,Frannie,WY,82423
+1970-07-12 23:01:08,12000000322,175.01,3.17,171.84,Matthew,Neira,3019 Thomlinson Rd,B-30,Byrdstown,TN,38549,Matthew,Neira,3019 Thomlinson Rd,B-30,Byrdstown,TN,38549
+1970-07-13 06:39:11,12000000323,92.0,1.8,90.2,Nancy,Caballero,6006 Finnegan St,Suite 29,Reynolds,IL,61279,Nancy,Caballero,6006 Finnegan St,Suite 29,Reynolds,IL,61279
+1970-07-13 17:21:12,12000000324,101.76,1.62,100.14,Eric,Hibbard,4906 Russell St,,Tucson,AZ,85722,Eric,Hibbard,4906 Russell St,,Tucson,AZ,85722
+1970-07-14 09:26:20,12000000325,132.86,4.74,128.12,Ernest,Sander,6358 Glenn St,,Rochester,NY,14608,Ernest,Sander,6358 Glenn St,,Rochester,NY,14608
+1970-07-14 13:51:36,12000000326,43.31,1.74,41.57,Max,Rojas,7302 Manuel St,,Clifford,IN,47226,Max,Rojas,7302 Manuel St,,Clifford,IN,47226
+1970-07-14 16:49:20,12000000327,74.74,2.36,72.38,Sarah,Ramirez,7484 Wallace Ave,,Jackson,MS,39210,Sarah,Ramirez,7484 Wallace Ave,,Jackson,MS,39210
+1970-07-15 05:54:22,12000000328,73.0,0.98,72.02,Herbert,Morales,1565 Osterman St,,Lewis,IN,47485,Herbert,Morales,1565 Osterman St,,Lewis,IN,47485
+1970-07-16 08:22:46,12000000329,186.64,4.57,182.07,Jerry,Barash,7374 Audette Rd,,Tyndall,SD,57066,Jerry,Barash,7374 Audette Rd,,Tyndall,SD,57066
+1970-07-17 05:19:44,12000000330,164.46,1.54,162.92,Donald,Martinez,2141 Anderson,,Taylor,MO,63471,Donald,Martinez,2141 Anderson,,Taylor,MO,63471
+1970-07-17 19:14:30,12000000331,141.57,0.73,140.84,Andrea,Schmitke,1742 Turner Ct,,Weston,WV,26452,David,Hodges,6495 Stiger St,,Alsip,IL,60803
+1970-07-18 12:43:57,12000000332,134.78,4.09,130.69,Octavia,Mccaslin,3033 Tuttle Rd,,Memphis,TN,38161,Octavia,Mccaslin,3033 Tuttle Rd,,Memphis,TN,38161
+1970-07-18 13:50:45,12000000333,142.35,0.54,141.81,Ronald,Jackson,729 Kennedy Rd,,Scotts,MI,49088,Ronald,Jackson,729 Kennedy Rd,,Scotts,MI,49088
+1970-07-19 16:40:02,12000000334,139.97,2.01,137.96,Micah,Reed,6422 Shaw Rd,,Los Angeles,CA,90045,Micah,Reed,6422 Shaw Rd,,Los Angeles,CA,90045
+1970-07-20 04:29:30,12000000335,121.83,3.64,118.19,Elease,Maldonado,7028 Erickson Rd,,Unityville,PA,17774,Carlos,Tejeda,553 Anderson Rd,,Akron,OH,44316
+1970-07-21 06:45:49,12000000336,130.66,2.88,127.78,Rebecca,Huro,8722 Harvey St,,Petersburg,KY,41080,Rebecca,Huro,8722 Harvey St,,Petersburg,KY,41080
+1970-07-22 10:16:28,12000000337,160.44,1.62,158.82,Ailene,Phillips,2074 Oday Blvd,,Lake Jackson,TX,77566,Gary,Church,6646 Higginbotham St,,Calmar,IA,52132
+1970-07-22 22:24:16,12000000338,186.58,4.32,182.26,Maxine,Hindman,9061 Juelfs St,,Comanche,OK,73529,Maxine,Hindman,9061 Juelfs St,,Comanche,OK,73529
+1970-07-23 09:22:54,12000000339,30.78,1.44,29.34,Meagan,Welsh,8262 Ogden Blvd,,Springfield,MO,65814,Meagan,Welsh,8262 Ogden Blvd,,Springfield,MO,65814
+1970-07-23 15:48:40,12000000340,121.24,2.56,118.68,Coy,Daigle,5771 Cooper Blvd,,Syracuse,NY,13221,Coy,Daigle,5771 Cooper Blvd,,Syracuse,NY,13221
+1970-07-23 20:37:00,12000000341,133.11,3.45,129.66,Cheryl,Jolly,4590 Coral Rd,,Augusta,GA,30901,Cheryl,Jolly,4590 Coral Rd,,Augusta,GA,30901
+1970-07-24 08:59:58,12000000342,97.98,0.82,97.16,Elmer,Wright,2155 Lewis St,D-68,Rock Island,IL,61299,Elmer,Wright,2155 Lewis St,D-68,Rock Island,IL,61299
+1970-07-24 12:12:14,12000000343,30.98,3.07,27.91,Timothy,Canez,9821 Sanchez St,,Waycross,GA,31502,Timothy,Canez,9821 Sanchez St,,Waycross,GA,31502
+1970-07-24 21:39:57,12000000344,39.17,2.15,37.02,David,Moeller,1205 Neira Rd,,Hermleigh,TX,79526,David,Moeller,1205 Neira Rd,,Hermleigh,TX,79526
+1970-07-24 22:31:30,12000000345,147.27,2.53,144.74,Craig,Whitman,5571 Lovecchio St,,Thorntown,IN,46071,Craig,Whitman,5571 Lovecchio St,,Thorntown,IN,46071
+1970-07-25 16:49:57,12000000346,125.69,4.85,120.84,Donald,Seidel,1904 Stewart,,Troy,MI,48803,Donald,Seidel,1904 Stewart,,Troy,MI,48803
+1970-07-26 08:36:34,12000000347,172.21,2.8,169.41,Elizabeth,Gallagher,2969 Reese St,,Lynco,WV,24857,Alan,Wilkins,6725 Perry St,,Tampa,FL,33677
+1970-07-27 05:37:06,12000000348,106.01,1.91,104.1,Eldon,Nelson,7370 Oswald Ave,C-49,Garretson,SD,57030,Eldon,Nelson,7370 Oswald Ave,C-49,Garretson,SD,57030
+1970-07-27 18:52:20,12000000349,49.07,1.33,47.74,Sheldon,Crowley,4434 Pinheiro St,,Topaz,CA,96133,Sheldon,Crowley,4434 Pinheiro St,,Topaz,CA,96133
+1970-07-28 07:31:11,12000000350,190.86,2.88,187.98,Tabatha,Boyd,7997 Licudine St,,Starrucca,PA,18462,Tabatha,Boyd,7997 Licudine St,,Starrucca,PA,18462
+1970-07-29 02:08:02,12000000351,58.86,3.87,54.99,Ralph,Standen,2293 Ritter Rd,,Plymouth,NY,13832,Ralph,Standen,2293 Ritter Rd,,Plymouth,NY,13832
+1970-07-29 14:43:18,12000000352,144.19,2.09,142.1,Mark,Woodruff,9789 Winslow St,B-33,Herndon,VA,20171,Mark,Woodruff,9789 Winslow St,B-33,Herndon,VA,20171
+1970-07-29 19:41:39,12000000353,107.58,2.02,105.56,Mary,Ewen,288 Jewett Rd,,Deland,FL,32724,Mary,Ewen,288 Jewett Rd,,Deland,FL,32724
+1970-07-30 12:49:12,12000000354,104.79,1.81,102.98,Jane,Blanding,6400 Smith Blvd,,Saugatuck,MI,49453,Rex,Benson,4113 Gering St,,Spring Branch,TX,78070
+1970-07-30 18:44:02,12000000355,194.99,3.68,191.31,Keli,Main,9850 Tacy St,,Limon,CO,80828,Keli,Main,9850 Tacy St,,Limon,CO,80828
+1970-07-31 00:54:43,12000000356,190.32,3.04,187.28,Mike,Simon,8662 Delapp Ave,,Springfield,OR,97477,Mike,Simon,8662 Delapp Ave,,Springfield,OR,97477
+1970-08-01 01:03:31,12000000357,131.97,1.79,130.18,Thomas,Brumfield,3022 Underdown St,,Saginaw,MI,48607,Thomas,Brumfield,3022 Underdown St,,Saginaw,MI,48607
+1970-08-02 01:41:24,12000000358,193.96,2.96,191.0,Lorena,Weeks,8756 Anderson Rd,,Arlington,VA,22212,Lorena,Weeks,8756 Anderson Rd,,Arlington,VA,22212
+1970-08-02 15:58:53,12000000359,164.59,4.33,160.26,Joanna,Burch,4390 Lucas Ave,,Pickstown,SD,57367,Joanna,Burch,4390 Lucas Ave,,Pickstown,SD,57367
+1970-08-03 12:47:01,12000000360,36.01,4.86,31.15,Robin,Griffith,3716 Dixon Rd,,Little Creek,DE,19961,Robin,Griffith,3716 Dixon Rd,,Little Creek,DE,19961
+1970-08-03 23:17:52,12000000361,147.43,3.32,144.11,Paul,Mason,1504 Purgason St,D-2,Perry Point,MD,21902,Paul,Mason,1504 Purgason St,D-2,Perry Point,MD,21902
+1970-08-04 01:57:02,12000000362,124.67,2.51,122.16,Helen,Carrasquillo,533 Nygren Ct,,Lexington,KY,40507,Helen,Carrasquillo,533 Nygren Ct,,Lexington,KY,40507
+1970-08-04 07:36:32,12000000363,112.21,0.21,112.0,Mable,Ross,4842 Hagan Ave,,Baker,LA,70704,Mable,Ross,4842 Hagan Ave,,Baker,LA,70704
+1970-08-04 19:44:44,12000000364,88.53,4.79,83.74,Richard,Cox,2285 Trier St,,Maywood,NE,69038,Richard,Cox,2285 Trier St,,Maywood,NE,69038
+1970-08-05 22:42:28,12000000365,197.88,3.01,194.87,Noemi,Lattimore,7610 Perez Blvd,,Memphis,TN,38101,Noemi,Lattimore,7610 Perez Blvd,,Memphis,TN,38101
+1970-08-06 15:58:34,12000000366,51.87,1.91,49.96,John,Whitaker,3443 Gardner Rd,,Stanley,WI,54768,John,Whitaker,3443 Gardner Rd,,Stanley,WI,54768
+1970-08-07 17:38:29,12000000367,70.69,3.35,67.34,Tim,Rousselle,5557 Horstmann,,Springdale,AR,72766,Tim,Rousselle,5557 Horstmann,,Springdale,AR,72766
+1970-08-08 12:42:18,12000000368,45.08,0.01,45.07,Donald,Stratton,6908 Jones St,,Minneapolis,MN,55443,Donald,Stratton,6908 Jones St,,Minneapolis,MN,55443
+1970-08-08 22:18:52,12000000369,51.7,4.38,47.32,Wilda,Navarro,6876 Lopez Rd,,Raisin,CA,93652,Wilda,Navarro,6876 Lopez Rd,,Raisin,CA,93652
+1970-08-09 12:36:38,12000000370,179.15,0.86,178.29,Joe,Hopkins,5996 Lopez Ave,,Arvada,CO,80004,Joe,Hopkins,5996 Lopez Ave,,Arvada,CO,80004
+1970-08-10 00:18:24,12000000371,131.32,1.22,130.1,Jean,White,6654 Lewis Ct,,Emeryville,CA,94662,Jean,White,6654 Lewis Ct,,Emeryville,CA,94662
+1970-08-10 13:44:24,12000000372,162.23,2.31,159.92,Patricia,Smith,8463 Allen Blvd,,Campbellsville,KY,42719,Patricia,Smith,8463 Allen Blvd,,Campbellsville,KY,42719
+1970-08-11 02:50:41,12000000373,63.04,1.94,61.1,Melody,Mcbath,5200 Lallo Blvd,C-14,Biola,CA,93606,Melody,Mcbath,5200 Lallo Blvd,C-14,Biola,CA,93606
+1970-08-11 15:54:54,12000000374,29.9,0.65,29.25,Patricia,Hernandez,8941 Lanning Rd,C-23,Seymour,IA,52590,Brenda,Ward,4971 Martin St,Suite 60,Freedom,OK,73842
+1970-08-12 06:34:17,12000000375,110.57,3.5,107.07,Emma,Cremona,5994 Wilson Rd,,Holmes City,MN,56341,Emma,Cremona,5994 Wilson Rd,,Holmes City,MN,56341
+1970-08-12 17:19:31,12000000376,161.32,4.29,157.03,David,Gormley,3737 Kelly Blvd,,Orlando,FL,32811,David,Gormley,3737 Kelly Blvd,,Orlando,FL,32811
+1970-08-12 19:58:23,12000000377,131.39,3.17,128.22,Ruth,Thompson,7330 Hughes Ave,,Powhatan,WV,24877,Ruth,Thompson,7330 Hughes Ave,,Powhatan,WV,24877
+1970-08-13 03:56:07,12000000378,46.58,4.1,42.48,John,Sandridge,7852 Wright Blvd,Ste. A7,Hubert,NC,28539,John,Sandridge,7852 Wright Blvd,Ste. A7,Hubert,NC,28539
+1970-08-14 04:29:23,12000000379,78.66,3.29,75.37,Juan,Braam,1931 Anderson,,Ogden,UT,84408,Juan,Braam,1931 Anderson,,Ogden,UT,84408
+1970-08-14 21:45:42,12000000380,56.9,2.09,54.81,Christopher,Stone,9957 Ralph Blvd,,Leroy,PA,17743,Christopher,Stone,9957 Ralph Blvd,,Leroy,PA,17743
+1970-08-15 06:48:21,12000000381,72.09,0.49,71.6,Cornelius,Morales,547 Mckinney St,,Thompsonville,IL,62890,Cornelius,Morales,547 Mckinney St,,Thompsonville,IL,62890
+1970-08-16 04:00:07,12000000382,94.44,2.37,92.07,Carleen,Doll,1839 Starrs,D86,Indianapolis,IN,46207,Kyle,Doering,1138 Coyne Ave,,Taylor,PA,18517
+1970-08-16 18:57:12,12000000383,139.15,4.77,134.38,Rafael,Castrellon,4221 Troutman St,,Destin,FL,32541,Rafael,Castrellon,4221 Troutman St,,Destin,FL,32541
+1970-08-17 00:13:13,12000000384,176.07,1.66,174.41,Liza,Sibley,7944 Haney St,,Mccurtain,OK,74944,Liza,Sibley,7944 Haney St,,Mccurtain,OK,74944
+1970-08-17 04:09:31,12000000385,170.34,2.93,167.41,Angela,Mortensen,912 Douglass Rd,,Fawnskin,CA,92333,Angela,Mortensen,912 Douglass Rd,,Fawnskin,CA,92333
+1970-08-17 09:18:32,12000000386,67.0,2.06,64.94,Ronald,Pettibone,3274 Carreras Ct,Ste. A30,Ranger,TX,76470,Ronald,Pettibone,3274 Carreras Ct,Ste. A30,Ranger,TX,76470
+1970-08-18 08:15:09,12000000387,27.13,2.75,24.38,Ana,Jarvis,3536 Garrett Rd,D1,Alum Bank,PA,15521,Ana,Jarvis,3536 Garrett Rd,D1,Alum Bank,PA,15521
+1970-08-19 02:27:58,12000000388,101.7,3.23,98.47,Tamra,Kinney,5803 Bianchi St,,New Paris,IN,46553,Geraldine,Perez,5448 Elliott St,,Port Allen,LA,70767
+1970-08-19 02:48:55,12000000389,163.09,4.45,158.64,Carol,Little,3333 Rapp St,Unit 11,West Chester,OH,45069,Carol,Little,3333 Rapp St,Unit 11,West Chester,OH,45069
+1970-08-20 01:16:31,12000000390,42.73,3.08,39.65,Sondra,Groves,5711 Brown Rd,,Glenshaw,PA,15116,Sondra,Groves,5711 Brown Rd,,Glenshaw,PA,15116
+1970-08-20 05:57:52,12000000391,97.35,4.64,92.71,Candice,Ford,6934 Law St,,Redwood Falls,MN,56283,Candice,Ford,6934 Law St,,Redwood Falls,MN,56283
+1970-08-20 13:13:36,12000000392,71.16,1.59,69.57,Pam,Firth,2942 Brisco St,,Altamonte Springs,FL,32716,Pam,Firth,2942 Brisco St,,Altamonte Springs,FL,32716
+1970-08-20 15:21:48,12000000393,133.92,3.63,130.29,Noel,Hernandez,3819 Bradley Ave,,Rochester,NY,14610,Noel,Hernandez,3819 Bradley Ave,,Rochester,NY,14610
+1970-08-21 09:16:41,12000000394,40.37,3.93,36.44,Jacquelyn,Arvin,7569 Mcdonald Ave,,Hoyleton,IL,62803,Rachel,Mcgann,7646 Baptiste St,C6,Cora,WY,82925
+1970-08-22 02:03:38,12000000395,80.56,0.51,80.05,Alice,Kilgore,365 Fornili St,,Lemont Furnace,PA,15456,Alice,Kilgore,365 Fornili St,,Lemont Furnace,PA,15456
+1970-08-23 03:50:42,12000000396,121.65,3.28,118.37,Helen,Longie,55 Mead Ct,,High Point,NC,27264,Helen,Longie,55 Mead Ct,,High Point,NC,27264
+1970-08-24 03:16:08,12000000397,102.11,3.33,98.78,Victoria,Lopez,675 Robinson St,C33,Easton,PA,18045,Victoria,Lopez,675 Robinson St,C33,Easton,PA,18045
+1970-08-25 04:20:09,12000000398,70.1,4.43,65.67,Stanley,Sclafani,3928 Rodriguez Blvd,,Wheeler,MI,48662,Angel,Miller,6653 Ritter Ave,,Huntsville,AL,35805
+1970-08-25 11:03:24,12000000399,28.15,2.47,25.68,James,Livesay,7253 Arnold St,Unit 20,Saint Petersburg,FL,33784,James,Livesay,7253 Arnold St,Unit 20,Saint Petersburg,FL,33784
+1970-08-25 12:16:49,12000000400,88.86,1.65,87.21,Michael,Go,7859 Vang Blvd,,Tulsa,OK,74114,Michael,Go,7859 Vang Blvd,,Tulsa,OK,74114
+1970-08-26 15:24:05,12000000401,157.93,4.77,153.16,Kortney,Tribble,558 Bishop Rd,,Annapolis,MD,21402,Kortney,Tribble,558 Bishop Rd,,Annapolis,MD,21402
+1970-08-26 21:39:56,12000000402,91.99,3.15,88.84,Vernon,Thurgood,4677 Winter Ave,,Woodacre,CA,94973,Vernon,Thurgood,4677 Winter Ave,,Woodacre,CA,94973
+1970-08-27 20:14:01,12000000403,148.12,2.13,145.99,Janet,Diez,7913 Montgomery,D-42,Elwood,IA,52226,Janet,Diez,7913 Montgomery,D-42,Elwood,IA,52226
+1970-08-28 05:05:50,12000000404,83.83,2.25,81.58,David,Avery,7664 Lee Ave,,Attica,MI,48412,David,Avery,7664 Lee Ave,,Attica,MI,48412
+1970-08-28 09:41:51,12000000405,193.46,2.49,190.97,Tiffany,Clark,2256 Carter Ct,,Sumter,SC,29150,Tiffany,Clark,2256 Carter Ct,,Sumter,SC,29150
+1970-08-29 09:50:38,12000000406,128.14,3.92,124.22,Kay,Lines,3594 Courtney St,,Conklin,MI,49403,Kay,Lines,3594 Courtney St,,Conklin,MI,49403
+1970-08-29 14:49:16,12000000407,176.37,3.37,173.0,Wayne,Camper,84 Carr,,Corbin,VA,22446,Luke,Kegley,732 Beverly St,,Sherburn,MN,56171
+1970-08-29 14:52:20,12000000408,127.22,0.82,126.4,John,Parkinson,820 Dove Blvd,,Mozelle,KY,40858,John,Parkinson,820 Dove Blvd,,Mozelle,KY,40858
+1970-08-30 11:10:54,12000000409,89.04,2.87,86.17,Ramon,Thompson,8471 Glover Rd,No. 66,Emden,IL,62635,Ramon,Thompson,8471 Glover Rd,No. 66,Emden,IL,62635
+1970-08-31 00:45:44,12000000410,93.43,1.62,91.81,Francesco,Green,8856 Warren,Suite 9,Pinson,TN,38366,Francesco,Green,8856 Warren,Suite 9,Pinson,TN,38366
+1970-08-31 09:19:19,12000000411,130.41,4.15,126.26,Michael,Bauer,5095 Karlin Ct,,Akron,CO,80720,Michael,Bauer,5095 Karlin Ct,,Akron,CO,80720
+1970-09-01 04:31:37,12000000412,82.36,0.39,81.97,Bruce,Wright,1749 Rogers Ct,,Melber,KY,42069,Bruce,Wright,1749 Rogers Ct,,Melber,KY,42069
+1970-09-01 23:59:40,12000000413,70.69,2.66,68.03,Clarence,Avila,7685 Watson Ave,,Depauville,NY,13632,Clarence,Avila,7685 Watson Ave,,Depauville,NY,13632
+1970-09-02 09:22:41,12000000414,127.4,2.11,125.29,James,Collins,4633 Folts,,Clitherall,MN,56524,James,Collins,4633 Folts,,Clitherall,MN,56524
+1970-09-02 23:38:47,12000000415,160.24,1.79,158.45,Amy,Otte,500 Sandahl Rd,C-78,Bethel,MO,63434,Amy,Otte,500 Sandahl Rd,C-78,Bethel,MO,63434
+1970-09-03 14:03:51,12000000416,66.8,4.19,62.61,Darline,Moore,6650 Roark St,,Lonsdale,MN,55046,Darline,Moore,6650 Roark St,,Lonsdale,MN,55046
+1970-09-04 08:55:27,12000000417,126.56,2.91,123.65,Laverne,Ross,1589 Sells Ave,Suite 21,New Bern,NC,28563,Donald,Comee,9622 Namisnak,,Townsend,DE,19734
+1970-09-05 02:28:10,12000000418,187.26,4.8,182.46,Michael,Dejesus,1374 Fuselier St,,Clifton,TX,76634,Michael,Dejesus,1374 Fuselier St,,Clifton,TX,76634
+1970-09-05 18:25:46,12000000419,57.73,1.56,56.17,Dustin,Eisner,9418 Mckillip Ave,B84,Allentown,PA,18109,Dustin,Eisner,9418 Mckillip Ave,B84,Allentown,PA,18109
+1970-09-06 21:40:17,12000000420,37.93,4.71,33.22,Julia,Campbell,2551 Garcia St,,Plainview,TX,79072,Julia,Campbell,2551 Garcia St,,Plainview,TX,79072
+1970-09-07 20:39:33,12000000421,96.61,0.24,96.37,Basil,Sanders,4724 Schutte Ct,,Kerby,OR,97531,Basil,Sanders,4724 Schutte Ct,,Kerby,OR,97531
+1970-09-08 10:00:30,12000000422,103.97,4.88,99.09,Sheila,Aurand,4353 Hamilton St,,Stebbins,AK,99671,Sheila,Aurand,4353 Hamilton St,,Stebbins,AK,99671
+1970-09-09 12:28:48,12000000423,196.73,0.64,196.09,Tammy,Green,4108 Ott Rd,,Hawaiian Ocean View,HI,96373,Tammy,Green,4108 Ott Rd,,Hawaiian Ocean View,HI,96373
+1970-09-09 18:32:07,12000000424,51.98,2.62,49.36,Jose,Leavitt,8147 Lee St,,Indianola,OK,74442,Jose,Leavitt,8147 Lee St,,Indianola,OK,74442
+1970-09-09 19:32:50,12000000425,25.16,0.57,24.59,Pierre,Cole,6465 Garcia Rd,,Ruston,LA,71273,Pierre,Cole,6465 Garcia Rd,,Ruston,LA,71273
+1970-09-09 23:31:54,12000000426,182.62,4.45,178.17,Bianca,Rozek,5709 Sherwood Blvd,D57,Cook,MN,55723,Bianca,Rozek,5709 Sherwood Blvd,D57,Cook,MN,55723
+1970-09-10 07:04:49,12000000427,40.13,3.35,36.78,Cindy,Lopez,3198 White Rd,,Senatobia,MS,38668,Cindy,Lopez,3198 White Rd,,Senatobia,MS,38668
+1970-09-11 03:19:35,12000000428,89.61,4.07,85.54,Maggie,Gerecke,3663 Haynes,,Malcom,IA,50157,Maggie,Gerecke,3663 Haynes,,Malcom,IA,50157
+1970-09-12 05:57:20,12000000429,182.89,3.92,178.97,Evelyn,Angell,4035 Rasset St,,Greenville,NC,27858,Evelyn,Angell,4035 Rasset St,,Greenville,NC,27858
+1970-09-12 07:32:43,12000000430,115.06,3.55,111.51,Ryan,Broadway,6556 Colman Rd,,Eldersville,PA,15036,Ryan,Broadway,6556 Colman Rd,,Eldersville,PA,15036
+1970-09-12 18:21:50,12000000431,76.38,4.48,71.9,Andrew,Phares,3737 Temple Rd,,Elk Mills,MD,21920,Andrew,Phares,3737 Temple Rd,,Elk Mills,MD,21920
+1970-09-12 23:13:01,12000000432,54.55,4.48,50.07,Rose,Newton,5725 Gonzalez St,C90,Wyandotte,OK,74370,Rose,Newton,5725 Gonzalez St,C90,Wyandotte,OK,74370
+1970-09-13 06:08:59,12000000433,159.52,2.51,157.01,Elizabeth,Joyce,2096 Gaskins Blvd,,Shirley,NY,11967,Elizabeth,Joyce,2096 Gaskins Blvd,,Shirley,NY,11967
+1970-09-13 13:05:39,12000000434,72.71,2.58,70.13,Helen,Pensinger,4292 Britton St,,State Center,IA,50247,Matthew,Milan,622 Coll Ct,,Lakeside,AZ,85929
+1970-09-14 06:23:23,12000000435,196.83,3.33,193.5,Peggy,Mattingly,8099 Reffett St,,Hope,NM,88250,Peggy,Mattingly,8099 Reffett St,,Hope,NM,88250
+1970-09-15 02:52:38,12000000436,157.55,2.83,154.72,Martha,Gasca,7178 Smith Ct,,Upper Marlboro,MD,20775,Martha,Gasca,7178 Smith Ct,,Upper Marlboro,MD,20775
+1970-09-15 21:45:45,12000000437,95.55,4.86,90.69,Lee,Jones,9256 Painter St,C7,Leonard,MN,56652,Lee,Jones,9256 Painter St,C7,Leonard,MN,56652
+1970-09-16 10:02:40,12000000438,84.39,0.15,84.24,Ines,Leber,9325 Dodd,,Washington,DC,20315,Ines,Leber,9325 Dodd,,Washington,DC,20315
+1970-09-16 20:10:34,12000000439,168.23,0.48,167.75,Erika,Hopps,7864 Anthony Blvd,,Graves Mill,VA,22721,Erika,Hopps,7864 Anthony Blvd,,Graves Mill,VA,22721
+1970-09-17 12:53:46,12000000440,153.31,1.33,151.98,Adeline,Cyrus,4685 Miller St,,Dana,IA,50064,Adeline,Cyrus,4685 Miller St,,Dana,IA,50064
+1970-09-18 10:37:34,12000000441,119.59,4.23,115.36,Thomas,Lowe,4174 Padula Rd,C84,Mathews,VA,23109,Thomas,Lowe,4174 Padula Rd,C84,Mathews,VA,23109
+1970-09-18 14:02:12,12000000442,180.6,4.91,175.69,Brenda,Senno,2936 King,,Burnsville,MN,55306,Brenda,Senno,2936 King,,Burnsville,MN,55306
+1970-09-19 14:54:36,12000000443,49.51,0.53,48.98,Jeremy,Torres,540 Dhondt St,,Martin,MI,49070,Jeremy,Torres,540 Dhondt St,,Martin,MI,49070
+1970-09-20 14:07:01,12000000444,150.28,0.49,149.79,Christi,Brennan,8754 Love Rd,,Glencoe,KY,41046,Christi,Brennan,8754 Love Rd,,Glencoe,KY,41046
+1970-09-21 13:48:17,12000000445,110.51,2.83,107.68,Ricardo,Cannon,1268 Minton,,Rockford,IL,61126,Pauline,Singleton,5972 Johnson Rd,,Hatton,ND,58240
+1970-09-22 06:00:45,12000000446,63.93,0.91,63.02,Caroline,Williams,3959 Wygant,,Lizton,IN,46149,Caroline,Williams,3959 Wygant,,Lizton,IN,46149
+1970-09-22 14:30:52,12000000447,128.48,1.73,126.75,Roy,Eversoll,2049 Slavin Ave,,Dewy Rose,GA,30634,Roy,Eversoll,2049 Slavin Ave,,Dewy Rose,GA,30634
+1970-09-23 06:04:02,12000000448,154.79,0.74,154.05,Matthew,Johnson,3404 Campbell St,B-84,Campaign,TN,38550,Matthew,Johnson,3404 Campbell St,B-84,Campaign,TN,38550
+1970-09-23 20:56:08,12000000449,121.87,3.64,118.23,Elma,Fowler,1108 Wells St,Ste. A76,Hampton,VA,23631,Elma,Fowler,1108 Wells St,Ste. A76,Hampton,VA,23631
+1970-09-24 03:50:00,12000000450,89.96,0.41,89.55,Stephen,Sanders,1635 Sova St,,Fackler,AL,35746,Kathleen,Dickinson,2678 Zook St,,Fisher,PA,16225
+1970-09-24 11:39:56,12000000451,196.45,4.75,191.7,Andrea,Manning,2265 Smolik Ct,,Wheat Ridge,CO,80034,Andrea,Manning,2265 Smolik Ct,,Wheat Ridge,CO,80034
+1970-09-24 14:11:44,12000000452,93.33,4.04,89.29,Jay,Davies,1705 Rudnick Rd,,Brownstown,WA,98920,Jay,Davies,1705 Rudnick Rd,,Brownstown,WA,98920
+1970-09-25 04:42:56,12000000453,85.24,4.3,80.94,Chris,Schneider,442 Barton,Unit 99,Ocean Springs,MS,39566,Chris,Schneider,442 Barton,Unit 99,Ocean Springs,MS,39566
+1970-09-25 11:56:58,12000000454,110.49,4.78,105.71,Geoffrey,Gary,3099 Evers Ct,,Centerville,KS,66014,Eddie,Cresci,7532 Trevino St,C-44,Tempe,AZ,85282
+1970-09-25 14:25:42,12000000455,166.12,4.5,161.62,Thelma,Collier,6135 Caines Rd,,Cayuga,TX,75832,Thelma,Collier,6135 Caines Rd,,Cayuga,TX,75832
+1970-09-26 00:33:52,12000000456,36.13,4.22,31.91,Suzanne,Reyes,6943 Wright St,D16,Swoope,VA,24479,Suzanne,Reyes,6943 Wright St,D16,Swoope,VA,24479
+1970-09-26 06:35:50,12000000457,82.62,1.58,81.04,Jacqueline,Duarte,830 Wagner Rd,,McNabb,IL,61335,Jacqueline,Duarte,830 Wagner Rd,,McNabb,IL,61335
+1970-09-26 12:25:29,12000000458,25.48,0.22,25.26,William,Brandon,9669 Burghard Rd,,Farmerville,LA,71241,William,Brandon,9669 Burghard Rd,,Farmerville,LA,71241
+1970-09-26 17:20:00,12000000459,45.35,1.13,44.22,Stephanie,Gutierrez,6669 Christenson,D11,Campobello,SC,29322,Stephanie,Gutierrez,6669 Christenson,D11,Campobello,SC,29322
+1970-09-27 04:50:45,12000000460,47.19,2.26,44.93,Vernon,Paongo,5896 Wood St,No. 57,Laurel,MD,20726,Vernon,Paongo,5896 Wood St,No. 57,Laurel,MD,20726
+1970-09-28 07:12:32,12000000461,99.79,2.64,97.15,Stephen,Angelini,5530 Wells Ct,,Hawthorne,CA,90251,Stephen,Angelini,5530 Wells Ct,,Hawthorne,CA,90251
+1970-09-29 02:06:59,12000000462,130.06,0.22,129.84,Kristy,Gilchrest,1405 Clancy Ct,,Brigham City,UT,84302,Kristy,Gilchrest,1405 Clancy Ct,,Brigham City,UT,84302
+1970-09-29 15:36:03,12000000463,192.82,3.11,189.71,Emily,Vail,9735 Davis Rd,,New Orleans,LA,70149,Emily,Vail,9735 Davis Rd,,New Orleans,LA,70149
+1970-09-29 20:19:17,12000000464,186.71,3.9,182.81,Maxine,Combs,1363 Lewin Ave,Ste. A1,Riverside,CA,92519,Maxine,Combs,1363 Lewin Ave,Ste. A1,Riverside,CA,92519
+1970-09-30 01:51:19,12000000465,132.36,1.72,130.64,James,Hayes,1670 Roy Rd,,Gilbert,WV,25621,James,Hayes,1670 Roy Rd,,Gilbert,WV,25621
+1970-09-30 10:08:31,12000000466,171.53,1.66,169.87,Lucille,Rush,2888 Mays St,,Williamsburg,VA,23187,Lucille,Rush,2888 Mays St,,Williamsburg,VA,23187
+1970-09-30 19:11:22,12000000467,109.43,1.57,107.86,Debbie,Miller,9725 Blair Rd,Suite 38,West Palm Beach,FL,33416,Debbie,Miller,9725 Blair Rd,Suite 38,West Palm Beach,FL,33416
+1970-10-01 17:52:57,12000000468,80.15,4.26,75.89,Heather,Ingram,6358 Krell St,,New Straitsville,OH,43766,Heather,Ingram,6358 Krell St,,New Straitsville,OH,43766
+1970-10-02 13:20:01,12000000469,160.94,4.59,156.35,Mickey,Gary,5179 Koch Blvd,,Port Charlotte,FL,33953,Mickey,Gary,5179 Koch Blvd,,Port Charlotte,FL,33953
+1970-10-02 19:49:25,12000000470,122.87,4.4,118.47,Sadie,Stanley,9429 Gaccione,,West Jordan,UT,84084,Sadie,Stanley,9429 Gaccione,,West Jordan,UT,84084
+1970-10-03 13:04:48,12000000471,61.47,1.33,60.14,Angela,Gray,4257 Reyes Ave,,Evensville,TN,37332,Angela,Gray,4257 Reyes Ave,,Evensville,TN,37332
+1970-10-04 01:22:06,12000000472,120.12,0.77,119.35,Manuel,Flom,2707 Donnelly Blvd,,Blandon,PA,19510,Manuel,Flom,2707 Donnelly Blvd,,Blandon,PA,19510
+1970-10-04 20:16:14,12000000473,42.18,0.84,41.34,Elizabeth,Hoopes,3453 Scherzer Ave,,Kingston,AR,72742,Elizabeth,Hoopes,3453 Scherzer Ave,,Kingston,AR,72742
+1970-10-05 09:55:31,12000000474,142.58,4.19,138.39,Cheryl,Harry,4811 Turner St,,Saxapahaw,NC,27340,Cheryl,Harry,4811 Turner St,,Saxapahaw,NC,27340
+1970-10-06 01:02:23,12000000475,85.57,1.15,84.42,David,Jefferson,3616 Allen Ave,B-0,Madison,WI,53786,David,Jefferson,3616 Allen Ave,B-0,Madison,WI,53786
+1970-10-06 13:49:54,12000000476,43.02,1.51,41.51,Gary,Kidwell,7655 Acuff,,Clarksburg,WV,26306,Gary,Kidwell,7655 Acuff,,Clarksburg,WV,26306
+1970-10-07 07:52:09,12000000477,140.28,1.99,138.29,Julia,Johnson,3404 Brooks Ct,,Ray Brook,NY,12977,Julia,Johnson,3404 Brooks Ct,,Ray Brook,NY,12977
+1970-10-08 02:09:18,12000000478,131.42,4.09,127.33,Deneen,Brandon,21 Harpin St,No. 2,Minatare,NE,69356,Deneen,Brandon,21 Harpin St,No. 2,Minatare,NE,69356
+1970-10-08 13:42:58,12000000479,49.16,0.27,48.89,Scott,Byrd,3397 Faria Ct,,Romeo,CO,81148,Scott,Byrd,3397 Faria Ct,,Romeo,CO,81148
+1970-10-09 16:19:30,12000000480,89.01,4.37,84.64,Polly,Duffie,3289 Pike St,C6,Durham,NC,27710,Polly,Duffie,3289 Pike St,C6,Durham,NC,27710
+1970-10-09 20:22:52,12000000481,55.01,1.8,53.21,Matthew,Colley,6206 Copeland St,No. 81,Fawnskin,CA,92333,Matthew,Colley,6206 Copeland St,No. 81,Fawnskin,CA,92333
+1970-10-10 04:42:56,12000000482,187.15,1.69,185.46,John,Gonzalez,9480 Emily St,,Cincinnati,OH,45245,John,Gonzalez,9480 Emily St,,Cincinnati,OH,45245
+1970-10-10 14:36:35,12000000483,184.87,2.81,182.06,Sherrie,Reno,3105 Kessel,,Cuba,AL,36907,Sherrie,Reno,3105 Kessel,,Cuba,AL,36907
+1970-10-11 13:43:27,12000000484,102.32,3.86,98.46,Christopher,Williams,8304 Gailey Rd,D-68,Mequon,WI,53097,Christopher,Williams,8304 Gailey Rd,D-68,Mequon,WI,53097
+1970-10-11 18:34:50,12000000485,116.49,4.39,112.1,Jackie,Doss,4202 Cornish St,,Philadelphia,MS,39350,Jackie,Doss,4202 Cornish St,,Philadelphia,MS,39350
+1970-10-12 02:19:47,12000000486,33.27,4.33,28.94,Latoyia,Stelzer,6605 Whitaker St,,Okolona,AR,71962,Latoyia,Stelzer,6605 Whitaker St,,Okolona,AR,71962
+1970-10-12 07:36:32,12000000487,25.62,1.69,23.93,Thelma,Jones,5180 Avendano Rd,C-38,Vining,MN,56588,Thelma,Jones,5180 Avendano Rd,C-38,Vining,MN,56588
+1970-10-12 16:52:45,12000000488,196.09,3.27,192.82,Charles,Talley,2390 Robison Rd,,Orlando,FL,32817,Charles,Talley,2390 Robison Rd,,Orlando,FL,32817
+1970-10-12 21:20:27,12000000489,148.26,0.36,147.9,David,Hill,3273 Aviles St,,Indianapolis,IN,46206,David,Hill,3273 Aviles St,,Indianapolis,IN,46206
+1970-10-13 22:20:28,12000000490,58.73,0.24,58.49,Nancy,Jennings,5710 Suzuki Rd,,Spurlockville,WV,25565,Nancy,Jennings,5710 Suzuki Rd,,Spurlockville,WV,25565
+1970-10-14 03:46:42,12000000491,115.4,4.42,110.98,Evelyn,Carter,8298 Moses Ave,,Salt Lake City,UT,84165,Evelyn,Carter,8298 Moses Ave,,Salt Lake City,UT,84165
+1970-10-14 12:35:56,12000000492,68.15,1.19,66.96,Zachary,Bradshaw,6101 Mertes St,,Stoneville,MS,38776,Zachary,Bradshaw,6101 Mertes St,,Stoneville,MS,38776
+1970-10-14 17:35:20,12000000493,81.37,3.83,77.54,Luz,Mezzatesta,5020 Rios Rd,,Detroit,MI,48226,Luz,Mezzatesta,5020 Rios Rd,,Detroit,MI,48226
+1970-10-15 03:00:31,12000000494,193.78,1.95,191.83,Carina,Creed,1965 Boardman Blvd,,Herman,PA,16039,James,Dimaggio,184 Nichols Rd,,Chico,CA,95929
+1970-10-15 13:46:00,12000000495,129.42,3.66,125.76,Chad,Blair,9028 Morin Rd,C-74,Evening Shade,AR,72532,Chad,Blair,9028 Morin Rd,C-74,Evening Shade,AR,72532
+1970-10-16 07:23:05,12000000496,178.79,4.32,174.47,Elizabeth,Grandberry,2830 Brandon St,,New Richland,MN,56072,Elizabeth,Grandberry,2830 Brandon St,,New Richland,MN,56072
+1970-10-16 13:37:08,12000000497,125.14,0.11,125.03,Daniel,Pendergrass,4397 Collins Rd,,Sherrills Ford,NC,28673,Daniel,Pendergrass,4397 Collins Rd,,Sherrills Ford,NC,28673
+1970-10-17 01:36:19,12000000498,131.6,0.83,130.77,Stephen,Black,5845 Williams,,Kendall,KS,67857,Stephen,Black,5845 Williams,,Kendall,KS,67857
+1970-10-18 05:02:05,12000000499,96.34,4.84,91.5,Billy,Villegas,8461 Graham St,B98,Vernal,UT,84079,Billy,Villegas,8461 Graham St,B98,Vernal,UT,84079
+1970-10-18 07:10:56,12000000500,86.27,3.21,83.06,Agnes,Vice,9435 Lucero St,,Cynthiana,IN,47612,Agnes,Vice,9435 Lucero St,,Cynthiana,IN,47612
+1970-10-19 03:56:50,12000000501,63.92,0.42,63.5,Stella,Henderson,8309 Provencher St,,Wysox,PA,18854,Stella,Henderson,8309 Provencher St,,Wysox,PA,18854
+1970-10-19 19:02:36,12000000502,145.62,0.26,145.36,Brian,Franklin,8948 Freeman St,,Hayden,CO,81639,Brian,Franklin,8948 Freeman St,,Hayden,CO,81639
+1970-10-19 21:48:13,12000000503,83.16,1.2,81.96,Ruth,Krueger,1193 Miller St,,Myrtle Beach,SC,29549,Timothy,Watson,7412 Turner,,Parryville,PA,18244
+1970-10-20 22:37:34,12000000504,30.62,3.02,27.6,Eric,Martin,7584 Schiller St,No. 38,Hermleigh,TX,79526,Eric,Martin,7584 Schiller St,No. 38,Hermleigh,TX,79526
+1970-10-21 14:46:40,12000000505,196.1,3.58,192.52,William,Kramer,444 Goldenberg Rd,,Froid,MT,59226,William,Kramer,444 Goldenberg Rd,,Froid,MT,59226
+1970-10-21 20:05:04,12000000506,117.3,2.61,114.69,Charles,Seymour,7266 Burke,,Sioux Falls,SD,57196,Charles,Seymour,7266 Burke,,Sioux Falls,SD,57196
+1970-10-22 05:25:24,12000000507,88.79,0.36,88.43,Ruth,Young,2854 Rumore Ct,Ste. A0,Cross Plains,WI,53528,Ruth,Young,2854 Rumore Ct,Ste. A0,Cross Plains,WI,53528
+1970-10-22 17:35:47,12000000508,34.36,2.74,31.62,Katherine,Baker,9933 Rickard St,,Crane,OR,97732,Katherine,Baker,9933 Rickard St,,Crane,OR,97732
+1970-10-23 15:31:35,12000000509,123.19,1.27,121.92,George,Mcclusky,9899 Rodgers,,Olivia,MN,56277,George,Mcclusky,9899 Rodgers,,Olivia,MN,56277
+1970-10-24 14:18:43,12000000510,65.33,2.92,62.41,Janice,Ha,451 Tobias Rd,D94,Bowmanstown,PA,18030,Janice,Ha,451 Tobias Rd,D94,Bowmanstown,PA,18030
+1970-10-24 14:41:33,12000000511,172.07,0.73,171.34,Brian,Cantrell,565 Hunt Ct,,Baton Rouge,LA,70801,Brian,Cantrell,565 Hunt Ct,,Baton Rouge,LA,70801
+1970-10-25 10:56:13,12000000512,73.48,3.77,69.71,Eleanor,Shook,3030 Oakes Rd,Suite 88,York,SC,29745,Eleanor,Shook,3030 Oakes Rd,Suite 88,York,SC,29745
+1970-10-26 12:24:13,12000000513,192.26,1.56,190.7,Mark,Haitz,9891 Long St,,Silver Bay,MN,55614,Young,Vincent,1008 Rubens St,Suite 10,Pike Road,AL,36064
+1970-10-27 09:19:44,12000000514,75.06,2.83,72.23,Sheila,Rydberg,1686 Vasquez Ct,,Minot,ND,58707,Sheila,Rydberg,1686 Vasquez Ct,,Minot,ND,58707
+1970-10-27 17:36:06,12000000515,79.19,0.57,78.62,Anthony,Williams,8456 Antrikin St,,Lake Hubert,MN,56459,Anthony,Williams,8456 Antrikin St,,Lake Hubert,MN,56459
+1970-10-27 22:10:56,12000000516,92.89,3.95,88.94,Caroline,Saldana,9990 Velez St,,Kernersville,NC,27285,Caroline,Saldana,9990 Velez St,,Kernersville,NC,27285
+1970-10-28 19:14:00,12000000517,177.45,1.61,175.84,Raymond,Sullivan,7484 Whittenbeck Ct,,Fleetwood,NC,28626,Raymond,Sullivan,7484 Whittenbeck Ct,,Fleetwood,NC,28626
+1970-10-29 16:55:51,12000000518,141.34,2.84,138.5,Patricia,Moser,5679 Morvant Ave,,El Paso,TX,79997,Patricia,Moser,5679 Morvant Ave,,El Paso,TX,79997
+1970-10-30 11:32:13,12000000519,183.95,4.32,179.63,Seth,Snider,2300 Battle Ave,,High Point,NC,27265,Seth,Snider,2300 Battle Ave,,High Point,NC,27265
+1970-10-31 15:14:20,12000000520,145.52,4.14,141.38,Deborah,Hernandez,5550 Quirin Ct,,Onekama,MI,49675,Deborah,Hernandez,5550 Quirin Ct,,Onekama,MI,49675
+1970-11-01 08:14:43,12000000521,65.78,4.86,60.92,Claire,Madore,3516 Glover St,B-91,Cedar River,MI,49813,Claire,Madore,3516 Glover St,B-91,Cedar River,MI,49813
+1970-11-02 00:13:42,12000000522,26.52,2.27,24.25,Patricia,Vankirk,7781 Pruitt Blvd,,Hawkinsville,GA,31036,Patricia,Vankirk,7781 Pruitt Blvd,,Hawkinsville,GA,31036
+1970-11-02 12:57:59,12000000523,67.61,2.36,65.25,Dewey,Guiney,3539 Cohen Blvd,,Swanquarter,NC,27885,Dewey,Guiney,3539 Cohen Blvd,,Swanquarter,NC,27885
+1970-11-03 13:29:50,12000000524,48.3,4.81,43.49,Kristin,Oleary,9419 Moore St,D93,Free Soil,MI,49411,Kristin,Oleary,9419 Moore St,D93,Free Soil,MI,49411
+1970-11-04 14:25:08,12000000525,99.35,2.72,96.63,Beverly,Taub,3579 Peterson St,,Easton,MN,56025,Beverly,Taub,3579 Peterson St,,Easton,MN,56025
+1970-11-05 09:36:13,12000000526,86.25,2.75,83.5,Beverly,Parris,2697 Bennett Ave,,Edgerton,WY,82635,Beverly,Parris,2697 Bennett Ave,,Edgerton,WY,82635
+1970-11-06 05:24:54,12000000527,28.85,1.69,27.16,Jessica,Hanson,2870 Reilly St,D80,Richfield,NC,28137,Jessica,Hanson,2870 Reilly St,D80,Richfield,NC,28137
+1970-11-07 04:41:03,12000000528,165.74,0.5,165.24,Bryan,Ricci,1104 Andersen Rd,,Bly,OR,97622,Bryan,Ricci,1104 Andersen Rd,,Bly,OR,97622
+1970-11-07 20:08:52,12000000529,177.22,0.82,176.4,Laura,Love,806 Casey Ave,,Centralia,WV,26612,Laura,Love,806 Casey Ave,,Centralia,WV,26612
+1970-11-08 11:41:56,12000000530,142.41,4.63,137.78,Lois,Mcclish,5596 Mckinney St,,Platteville,CO,80651,Carl,Mauro,813 Whitt,,Pittsburgh,PA,15227
+1970-11-08 20:59:27,12000000531,120.15,0.5,119.65,Brett,Starr,4150 Wilson Rd,,New York,NY,10043,Brett,Starr,4150 Wilson Rd,,New York,NY,10043
+1970-11-09 11:49:17,12000000532,181.91,1.98,179.93,James,Gelabert,5513 Taylor,,Riceville,IA,50466,James,Gelabert,5513 Taylor,,Riceville,IA,50466
+1970-11-09 18:27:20,12000000533,140.56,1.99,138.57,George,Booth,4239 Redding Blvd,,Goodway,AL,36449,George,Booth,4239 Redding Blvd,,Goodway,AL,36449
+1970-11-10 05:26:54,12000000534,178.84,3.24,175.6,Norma,Knowles,8756 Jaynes Rd,,U S A F Academy,CO,80840,Norma,Knowles,8756 Jaynes Rd,,U S A F Academy,CO,80840
+1970-11-10 07:10:15,12000000535,61.25,1.47,59.78,Eula,Blakely,3336 James St,No. 15,Roy,UT,84067,Eula,Blakely,3336 James St,No. 15,Roy,UT,84067
+1970-11-11 10:48:02,12000000536,115.18,3.28,111.9,Herbert,Faron,8970 Watson St,Unit 37,Mullen,NE,69152,Herbert,Faron,8970 Watson St,Unit 37,Mullen,NE,69152
+1970-11-11 13:23:25,12000000537,31.04,0.09,30.95,Leonard,Smith,8732 Garrison St,,Pinson,AL,35126,Leonard,Smith,8732 Garrison St,,Pinson,AL,35126
+1970-11-12 04:41:49,12000000538,164.62,0.14,164.48,Michael,Risher,4219 Barnes Ct,,Volcano,HI,96885,Michael,Risher,4219 Barnes Ct,,Volcano,HI,96885
+1970-11-12 05:48:52,12000000539,39.42,0.08,39.34,Moises,Hummer,1740 Bunn St,B-99,Maurepas,LA,70449,Phillip,Peppers,9724 Stein Rd,,Sheboygan Falls,WI,53085
+1970-11-12 17:00:46,12000000540,183.21,1.4,181.81,Julia,Richardson,18 Plath St,Suite 89,Killeen,TX,76544,Julia,Richardson,18 Plath St,Suite 89,Killeen,TX,76544
+1970-11-13 19:22:32,12000000541,39.72,3.43,36.29,Genoveva,Mcnair,2711 Melanson St,C74,Weems,VA,22576,Genoveva,Mcnair,2711 Melanson St,C74,Weems,VA,22576
+1970-11-14 15:33:30,12000000542,65.74,2.47,63.27,Robbie,Palmer,7942 Hogan St,,Orlando,FL,32829,Robbie,Palmer,7942 Hogan St,,Orlando,FL,32829
+1970-11-14 22:07:27,12000000543,35.81,2.55,33.26,Ethel,Albritton,4227 Best Rd,,Riddlesburg,PA,16672,Ethel,Albritton,4227 Best Rd,,Riddlesburg,PA,16672
+1970-11-15 22:21:10,12000000544,142.07,1.44,140.63,Dawn,Mercado,5689 Bello St,,Superior,WI,54880,Dawn,Mercado,5689 Bello St,,Superior,WI,54880
+1970-11-16 12:26:21,12000000545,63.97,1.68,62.29,Thomas,Ramos,9566 Morrison St,,Mesa,ID,83643,Thomas,Ramos,9566 Morrison St,,Mesa,ID,83643
+1970-11-16 18:53:24,12000000546,119.49,2.6,116.89,Dan,Rogers,2355 Nguyen St,Ste. A99,Solomon,KS,67480,Dan,Rogers,2355 Nguyen St,Ste. A99,Solomon,KS,67480
+1970-11-17 21:43:25,12000000547,199.28,1.22,198.06,Lucille,Wright,6163 Mcchesney St,,Constableville,NY,13325,Lucille,Wright,6163 Mcchesney St,,Constableville,NY,13325
+1970-11-18 04:05:18,12000000548,55.6,4.26,51.34,Donald,Stebbins,8554 Smith Rd,,Kingfisher,OK,73750,Donald,Stebbins,8554 Smith Rd,,Kingfisher,OK,73750
+1970-11-18 08:02:30,12000000549,178.02,1.98,176.04,Noel,Conley,8109 Rangel Rd,,Cincinnati,OH,45251,Noel,Conley,8109 Rangel Rd,,Cincinnati,OH,45251
+1970-11-18 17:16:06,12000000550,147.48,1.66,145.82,Willie,Sampson,1325 Hardin St,,Oakwood,TX,75855,Willie,Sampson,1325 Hardin St,,Oakwood,TX,75855
+1970-11-19 12:35:40,12000000551,47.14,4.23,42.91,Kenneth,Harrison,3312 Perkins Blvd,,Port Crane,NY,13833,Kenneth,Harrison,3312 Perkins Blvd,,Port Crane,NY,13833
+1970-11-20 05:15:49,12000000552,145.38,1.3,144.08,Ralph,Jackson,176 Wilusz Rd,,Cofield,NC,27922,Ralph,Jackson,176 Wilusz Rd,,Cofield,NC,27922
+1970-11-21 04:26:40,12000000553,151.8,1.98,149.82,Michelle,Martin,3586 Mcgill Blvd,,Saint Thomas,ND,58276,Michelle,Martin,3586 Mcgill Blvd,,Saint Thomas,ND,58276
+1970-11-21 06:08:57,12000000554,138.49,3.08,135.41,Traci,Quevedo,8581 Knight Ave,,Charlotte,NC,28231,Traci,Quevedo,8581 Knight Ave,,Charlotte,NC,28231
+1970-11-21 11:46:34,12000000555,103.14,2.26,100.88,Mark,Fischer,4935 Yarborough Rd,,Tacoma,WA,98402,Charles,Schlosser,4623 Snyder Ct,C83,Bellevue,OH,44811
+1970-11-22 10:54:23,12000000556,184.09,4.22,179.87,Yvonne,Weinberg,8094 Roberts Ct,,Spiritwood,ND,58481,Yvonne,Weinberg,8094 Roberts Ct,,Spiritwood,ND,58481
+1970-11-23 04:08:51,12000000557,186.7,2.89,183.81,Cecil,Benford,6131 Brunner St,,Sinnamahoning,PA,15861,Cecil,Benford,6131 Brunner St,,Sinnamahoning,PA,15861
+1970-11-23 08:01:25,12000000558,109.18,4.19,104.99,Ann,House,5671 Roberson St,,Burkburnett,TX,76354,Ann,House,5671 Roberson St,,Burkburnett,TX,76354
+1970-11-23 23:14:13,12000000559,48.58,4.11,44.47,Rebecca,Hunt,920 Mcelroy Ct,,Piedmont,KS,67122,Rebecca,Hunt,920 Mcelroy Ct,,Piedmont,KS,67122
+1970-11-24 12:22:47,12000000560,149.55,3.07,146.48,John,Bloomquist,4370 Paduano Rd,,Stringer,MS,39481,John,Bloomquist,4370 Paduano Rd,,Stringer,MS,39481
+1970-11-24 12:31:57,12000000561,96.26,5.02,91.24,Arthur,Santini,4280 Johnston St,,Linn Grove,IA,51033,Arthur,Santini,4280 Johnston St,,Linn Grove,IA,51033
+1970-11-24 17:30:05,12000000562,112.5,1.97,110.53,Blanche,Enstad,4850 Grant Rd,,McCabe,MT,59245,Blanche,Enstad,4850 Grant Rd,,McCabe,MT,59245
+1970-11-25 00:14:33,12000000563,98.2,2.18,96.02,Rebecca,Justice,6759 Henderson Blvd,,Bakers Mills,NY,12811,Rebecca,Justice,6759 Henderson Blvd,,Bakers Mills,NY,12811
+1970-11-25 22:14:21,12000000564,181.8,0.78,181.02,Elsa,Brown,7738 Bonner St,,Flint,MI,48505,Elsa,Brown,7738 Bonner St,,Flint,MI,48505
+1970-11-26 11:56:11,12000000565,197.85,4.89,192.96,Leroy,Bryant,6366 Atkinson Rd,,Junction,WV,26824,Leroy,Bryant,6366 Atkinson Rd,,Junction,WV,26824
+1970-11-26 23:00:04,12000000566,67.6,3.16,64.44,Christopher,Manery,5595 Bell St,,Sidnaw,MI,49961,Christopher,Manery,5595 Bell St,,Sidnaw,MI,49961
+1970-11-27 17:15:55,12000000567,185.41,2.6,182.81,Larry,Raheja,6413 Scharmer Rd,,Coleman,MI,48618,Larry,Raheja,6413 Scharmer Rd,,Coleman,MI,48618
+1970-11-28 09:00:09,12000000568,117.87,3.75,114.12,Milton,Rowell,112 Flores Rd,B-27,Rancho Mirage,CA,92270,Milton,Rowell,112 Flores Rd,B-27,Rancho Mirage,CA,92270
+1970-11-28 22:44:19,12000000569,146.56,2.51,144.05,Emma,Fielding,7811 Thompson Blvd,,Lockeford,CA,95237,Emma,Fielding,7811 Thompson Blvd,,Lockeford,CA,95237
+1970-11-29 11:32:54,12000000570,163.45,3.14,160.31,James,Mcdonald,4091 Taplin St,,Montrose,WV,26283,James,Mcdonald,4091 Taplin St,,Montrose,WV,26283
+1970-11-29 21:24:46,12000000571,153.2,2.42,150.78,Carol,Green,6864 Cook St,,Cordova,NM,87523,Carol,Green,6864 Cook St,,Cordova,NM,87523
+1970-11-30 08:39:52,12000000572,150.01,0.58,149.43,Opal,Felts,9853 Bailey Rd,C-77,Carriere,MS,39426,Opal,Felts,9853 Bailey Rd,C-77,Carriere,MS,39426
+1970-12-01 08:04:45,12000000573,89.12,1.09,88.03,Carl,Corley,9159 Bell St,,Presque Isle,MI,49777,Carl,Corley,9159 Bell St,,Presque Isle,MI,49777
+1970-12-02 07:25:17,12000000574,96.9,0.4,96.5,Johnnie,Hill,7608 Holder St,B-77,Centerville,AR,72829,Johnnie,Hill,7608 Holder St,B-77,Centerville,AR,72829
+1970-12-03 00:06:34,12000000575,123.3,3.51,119.79,Nancy,Sayers,1741 Schneider Blvd,C17,Ameagle,WV,25004,Christopher,Wilfong,7434 Dang Blvd,,Stockton,CA,95297
+1970-12-03 19:29:26,12000000576,69.09,0.02,69.07,Carmen,Lau,2714 Morgan Blvd,Suite 95,Adirondack,NY,12808,Carmen,Lau,2714 Morgan Blvd,Suite 95,Adirondack,NY,12808
+1970-12-04 13:01:35,12000000577,90.84,0.76,90.08,Edwin,Yentsch,983 Richter St,,Hialeah,FL,33018,Edwin,Yentsch,983 Richter St,,Hialeah,FL,33018
+1970-12-05 04:33:05,12000000578,181.23,3.16,178.07,Taylor,Dunn,3425 Ramsey Rd,,Rescue,VA,23424,Taylor,Dunn,3425 Ramsey Rd,,Rescue,VA,23424
+1970-12-05 14:15:51,12000000579,65.77,4.79,60.98,Katrina,Jarvie,1410 Urreta Ct,,Jamaica,NY,11439,Katrina,Jarvie,1410 Urreta Ct,,Jamaica,NY,11439
+1970-12-06 09:18:37,12000000580,123.13,1.96,121.17,Judith,Bridges,5226 Scarbrough Blvd,,Lincoln Park,MI,48146,Judith,Bridges,5226 Scarbrough Blvd,,Lincoln Park,MI,48146
+1970-12-07 07:41:49,12000000581,174.12,0.11,174.01,Robert,Mapston,5450 Williams St,,Clinton,MN,56225,Edward,Hammond,6424 Mcnulty St,,Covert,MI,49043
+1970-12-08 10:21:59,12000000582,81.14,4.7,76.44,Irma,Spaulding,4184 Berry St,,Newnan,GA,30271,Irma,Spaulding,4184 Berry St,,Newnan,GA,30271
+1970-12-08 14:06:00,12000000583,177.32,1.93,175.39,Mary,Lowe,2511 Toth Ave,,Tucson,AZ,85707,Mary,Lowe,2511 Toth Ave,,Tucson,AZ,85707
+1970-12-08 17:40:31,12000000584,121.47,2.47,119.0,Betty,Holmes,9848 Banks St,Suite 15,Minneapolis,MN,55419,Betty,Holmes,9848 Banks St,Suite 15,Minneapolis,MN,55419
+1970-12-08 20:18:25,12000000585,59.93,3.17,56.76,Beatrice,Lepe,5743 Wiebe St,D-79,Flint,MI,48559,Beatrice,Lepe,5743 Wiebe St,D-79,Flint,MI,48559
+1970-12-09 22:55:33,12000000586,52.39,4.3,48.09,Damian,Hutchinson,709 Mckemie,Unit 88,Quail,TX,79251,Damian,Hutchinson,709 Mckemie,Unit 88,Quail,TX,79251
+1970-12-10 20:57:21,12000000587,67.7,0.26,67.44,Alexander,Porter,2536 Bucklew St,,Staunton,VA,24407,Alexander,Porter,2536 Bucklew St,,Staunton,VA,24407
+1970-12-11 03:24:07,12000000588,57.11,3.22,53.89,Sue,Santoro,2655 Leonard Rd,,Ocate,NM,87734,Sue,Santoro,2655 Leonard Rd,,Ocate,NM,87734
+1970-12-11 17:42:34,12000000589,155.74,2.01,153.73,Juana,Ward,505 Stephens Blvd,,Rockford,IL,61105,Juana,Ward,505 Stephens Blvd,,Rockford,IL,61105
+1970-12-12 13:14:58,12000000590,124.66,2.86,121.8,Amy,Warner,9589 Bettencourt St,,Saint Petersburg,FL,33741,Amy,Warner,9589 Bettencourt St,,Saint Petersburg,FL,33741
+1970-12-12 18:12:11,12000000591,170.01,2.48,167.53,John,Hoff,9547 Lloyd,,Buena Park,CA,90620,John,Hoff,9547 Lloyd,,Buena Park,CA,90620
+1970-12-13 19:46:59,12000000592,128.33,1.14,127.19,Francis,Mcspadden,2022 Rodriguez Rd,D-49,Langdon,ND,58249,Francis,Mcspadden,2022 Rodriguez Rd,D-49,Langdon,ND,58249
+1970-12-14 05:21:29,12000000593,27.84,1.32,26.52,Tara,Clark,2716 Leedy Ct,D9,Clarksburg,TN,38324,Tara,Clark,2716 Leedy Ct,D9,Clarksburg,TN,38324
+1970-12-15 06:29:08,12000000594,147.42,0.03,147.39,Christina,West,6262 Vansickle Blvd,,Durand,MI,48429,Christina,West,6262 Vansickle Blvd,,Durand,MI,48429
+1970-12-15 06:53:15,12000000595,102.28,3.36,98.92,Victor,Wilson,703 Mease Blvd,,Lake View,SC,29363,Victor,Wilson,703 Mease Blvd,,Lake View,SC,29363
+1970-12-16 05:05:38,12000000596,187.8,2.68,185.12,Kimberley,Rhodarmer,521 Mercier Rd,D39,San Jose,CA,95108,Kimberley,Rhodarmer,521 Mercier Rd,D39,San Jose,CA,95108
+1970-12-16 11:29:37,12000000597,52.35,4.87,47.48,Irene,Hunt,9324 Head St,,Madison,TN,37115,Irene,Hunt,9324 Head St,,Madison,TN,37115
+1970-12-17 01:49:17,12000000598,115.67,3.14,112.53,James,Mcginnis,9950 Cotton Rd,,Aston,PA,19014,James,Mcginnis,9950 Cotton Rd,,Aston,PA,19014
+1970-12-17 22:33:47,12000000599,120.31,1.87,118.44,Craig,Pugh,4943 Pajerski Ct,Suite 81,Pinecrest,CA,95364,Craig,Pugh,4943 Pajerski Ct,Suite 81,Pinecrest,CA,95364
+1970-12-18 07:58:36,12000000600,66.58,1.1,65.48,Aaron,Atchinson,8272 Nolen St,B-99,Houston,TX,77090,Aaron,Atchinson,8272 Nolen St,B-99,Houston,TX,77090
+1970-12-18 12:20:53,12000000601,146.06,0.7,145.36,Jake,Lamp,1479 Campbell,,Modest Town,VA,23412,Jake,Lamp,1479 Campbell,,Modest Town,VA,23412
+1970-12-18 14:58:10,12000000602,128.82,4.77,124.05,Natalie,Mcmillen,5967 Ohlsen St,,Zebulon,NC,27597,Natalie,Mcmillen,5967 Ohlsen St,,Zebulon,NC,27597
+1970-12-19 15:07:49,12000000603,172.49,4.05,168.44,Adrienne,Staab,7798 Chambless St,,Chestnut Mountain,GA,30502,Ella,Moore,9814 Ritz St,,Imlay City,MI,48444
+1970-12-19 21:10:48,12000000604,145.38,4.43,140.95,Dewey,Bennett,7230 Decker,,Ordway,CO,81063,Dewey,Bennett,7230 Decker,,Ordway,CO,81063
+1970-12-19 23:02:59,12000000605,142.99,3.66,139.33,Harold,Hiller,2250 Steenberg Blvd,Unit 33,Agra,OK,74824,Harold,Hiller,2250 Steenberg Blvd,Unit 33,Agra,OK,74824
+1970-12-21 01:00:37,12000000606,157.78,2.3,155.48,John,Wheeler,1334 Brown Ave,D-0,Ruthville,VA,23147,John,Wheeler,1334 Brown Ave,D-0,Ruthville,VA,23147
+1970-12-21 09:35:30,12000000607,157.62,3.25,154.37,Anthony,Drakes,2545 Pangallo Rd,,Prompton,PA,18456,Anthony,Drakes,2545 Pangallo Rd,,Prompton,PA,18456
+1970-12-22 13:15:15,12000000608,65.13,0.12,65.01,Anna,Mccool,3847 Cook Ave,,Waupun,WI,53963,Anna,Mccool,3847 Cook Ave,,Waupun,WI,53963
+1970-12-23 16:02:13,12000000609,50.73,1.26,49.47,Clifton,Hughes,46 Rogers Blvd,,De Lancey,PA,15733,Clifton,Hughes,46 Rogers Blvd,,De Lancey,PA,15733
+1970-12-24 12:03:49,12000000610,78.18,2.12,76.06,Martha,Herring,9293 Langone Ave,,Hodges,SC,29695,Martha,Herring,9293 Langone Ave,,Hodges,SC,29695
+1970-12-25 08:55:30,12000000611,155.52,2.58,152.94,David,Miele,8804 Boone Ave,Ste. A73,Leo,IN,46765,David,Miele,8804 Boone Ave,Ste. A73,Leo,IN,46765
+1970-12-25 13:36:34,12000000612,107.91,2.7,105.21,Alvin,Grasser,2127 Bahner,,Sallis,MS,39160,Alvin,Grasser,2127 Bahner,,Sallis,MS,39160
+1970-12-26 08:59:06,12000000613,70.03,1.63,68.4,John,Theall,4354 Irland Blvd,B96,Yachats,OR,97498,Jodi,Grev,7501 Riveria Rd,,Birmingham,AL,35218
+1970-12-27 02:10:09,12000000614,143.71,1.13,142.58,Claude,Bishop,2378 Harris St,,West Somerset,KY,42564,Claude,Bishop,2378 Harris St,,West Somerset,KY,42564
+1970-12-27 07:24:35,12000000615,111.74,3.58,108.16,Gail,Edwards,2761 Clark Ct,,Reading,PA,19612,Gail,Edwards,2761 Clark Ct,,Reading,PA,19612
+1970-12-28 02:40:01,12000000616,165.86,4.73,161.13,Michael,Clayton,8637 Finigan St,Ste. A73,Triangle,VA,22172,Michael,Clayton,8637 Finigan St,Ste. A73,Triangle,VA,22172
+1970-12-28 08:55:01,12000000617,51.2,0.31,50.89,Jeffrey,Schappert,3226 Snider St,,Folsom,CA,95763,Jeffrey,Schappert,3226 Snider St,,Folsom,CA,95763
+1970-12-28 20:28:17,12000000618,79.25,1.69,77.56,Gabriel,Anderson,3878 Miranda St,C37,Chicago,IL,60697,Gabriel,Anderson,3878 Miranda St,C37,Chicago,IL,60697
+1970-12-29 12:14:10,12000000619,191.36,0.35,191.01,Erika,Inman,2675 Cogswell,,Barnett,MO,65011,Frank,Lanasa,4323 Kellstrom St,,Washington,IN,47501
+1970-12-30 11:21:28,12000000620,101.58,0.92,100.66,Jacquelyn,Nelson,1842 Sowers,C40,Philipp,MS,38950,Jacquelyn,Nelson,1842 Sowers,C40,Philipp,MS,38950
+1970-12-30 20:31:07,12000000621,118.0,0.67,117.33,Jeffery,Cabiness,6913 Finley Ct,,Glade,KS,67639,Jeffery,Cabiness,6913 Finley Ct,,Glade,KS,67639
+1970-12-31 12:36:24,12000000622,194.41,3.6,190.81,Rodney,Pushard,9481 Scally St,,West Milford,WV,26451,Rodney,Pushard,9481 Scally St,,West Milford,WV,26451
+1971-01-01 14:09:48,12000000623,196.47,3.91,192.56,Mary,Lute,3288 Peterman St,,Clayton,OK,74536,Mary,Lute,3288 Peterman St,,Clayton,OK,74536
+1971-01-01 21:13:07,12000000624,166.8,2.21,164.59,Chris,Philpot,1660 Burns Rd,,Dallas,TX,75390,Chris,Philpot,1660 Burns Rd,,Dallas,TX,75390
+1971-01-02 18:40:26,12000000625,188.05,2.96,185.09,John,Helland,1734 Mcquiston Ct,D-53,Jonesville,MI,49250,John,Helland,1734 Mcquiston Ct,D-53,Jonesville,MI,49250
+1971-01-03 22:22:13,12000000626,139.68,2.74,136.94,Paula,Rogers,7858 Webb St,,Montebello,CA,90640,Paula,Rogers,7858 Webb St,,Montebello,CA,90640
+1971-01-04 18:53:32,12000000627,64.76,0.37,64.39,Gladys,Whetstone,4782 Netolicky Rd,,El Paso,TX,79903,Gladys,Whetstone,4782 Netolicky Rd,,El Paso,TX,79903
+1971-01-05 10:40:05,12000000628,126.34,4.09,122.25,Sarah,Jones,1526 Davis St,,Dallas,TX,75250,Sarah,Jones,1526 Davis St,,Dallas,TX,75250
+1971-01-05 18:17:18,12000000629,118.09,2.87,115.22,Tonya,Robinson,3216 Duquette Ave,D94,Pine Knot,KY,42635,Tonya,Robinson,3216 Duquette Ave,D94,Pine Knot,KY,42635
+1971-01-05 19:48:47,12000000630,38.37,4.09,34.28,Robert,Alston,2385 Hagen St,,Hazelwood,NC,28738,Robert,Alston,2385 Hagen St,,Hazelwood,NC,28738
+1971-01-06 12:36:08,12000000631,93.44,0.69,92.75,Maria,Espinoza,68 Gaitan St,,Waldport,OR,97394,Maria,Espinoza,68 Gaitan St,,Waldport,OR,97394
+1971-01-07 00:03:11,12000000632,147.05,4.92,142.13,Irene,Cambron,8789 Ward St,C-33,New York,NY,10273,Irene,Cambron,8789 Ward St,C-33,New York,NY,10273
+1971-01-07 16:45:13,12000000633,75.21,2.2,73.01,Helen,Decker,4321 Alonzo Rd,,Geneva,IL,60134,Helen,Decker,4321 Alonzo Rd,,Geneva,IL,60134
+1971-01-07 17:17:01,12000000634,126.37,0.89,125.48,Megan,Anderson,9937 Mclaren St,,Skipwith,VA,23968,Megan,Anderson,9937 Mclaren St,,Skipwith,VA,23968
+1971-01-08 03:13:42,12000000635,67.7,4.27,63.43,Deborah,Peacock,833 Ramirez Rd,,Long Key,FL,33001,Deborah,Peacock,833 Ramirez Rd,,Long Key,FL,33001
+1971-01-08 08:29:21,12000000636,190.42,1.85,188.57,Charlotte,Bell,955 Welsh,Suite 1,Houston,TX,77054,Charlotte,Bell,955 Welsh,Suite 1,Houston,TX,77054
+1971-01-09 09:14:42,12000000637,178.42,0.55,177.87,Shirley,Bennett,3855 Walker St,,Turkey Creek,LA,70585,Shirley,Bennett,3855 Walker St,,Turkey Creek,LA,70585
+1971-01-10 00:00:23,12000000638,85.12,2.52,82.6,Max,Holien,3332 Dell Ave,,Dale,TX,78616,Max,Holien,3332 Dell Ave,,Dale,TX,78616
+1971-01-10 07:31:39,12000000639,131.23,4.68,126.55,Peggy,Nelson,2528 Amaya Ave,,Belmont,OH,43718,Peggy,Nelson,2528 Amaya Ave,,Belmont,OH,43718
+1971-01-11 09:33:15,12000000640,76.52,4.33,72.19,Raymond,Perry,7301 Landgraf St,,Monticello,MN,55589,Raymond,Perry,7301 Landgraf St,,Monticello,MN,55589
+1971-01-12 02:24:44,12000000641,109.01,3.51,105.5,Karren,Wyrick,663 Griego St,,Hancock,NY,13783,Karren,Wyrick,663 Griego St,,Hancock,NY,13783
+1971-01-13 03:20:53,12000000642,125.76,1.83,123.93,Doris,Roher,9371 Rivera Blvd,,Campbellton,TX,78008,Doris,Roher,9371 Rivera Blvd,,Campbellton,TX,78008
+1971-01-14 04:36:57,12000000643,50.2,3.21,46.99,Josephine,Davis,3299 Dreher St,,Orla,TX,79770,Josephine,Davis,3299 Dreher St,,Orla,TX,79770
+1971-01-14 08:51:29,12000000644,128.2,4.1,124.1,Jane,Odom,8936 Martinez Ave,B-24,Lake Peekskill,NY,10537,Jane,Odom,8936 Martinez Ave,B-24,Lake Peekskill,NY,10537
+1971-01-15 00:30:08,12000000645,30.94,2.64,28.3,Allison,Snow,6649 Jones St,B40,Bangs,TX,76823,Allison,Snow,6649 Jones St,B40,Bangs,TX,76823
+1971-01-15 14:41:39,12000000646,152.03,2.91,149.12,Tanya,Kyle,3098 Lynch St,,Clear Fork,WV,24822,Tanya,Kyle,3098 Lynch St,,Clear Fork,WV,24822
+1971-01-15 14:47:27,12000000647,88.78,3.77,85.01,Tracey,Kirkwood,4260 Dustman St,,Fredericksburg,IN,47120,Tracey,Kirkwood,4260 Dustman St,,Fredericksburg,IN,47120
+1971-01-16 15:33:29,12000000648,46.0,2.13,43.87,Albert,Green,9728 Brown St,,Dublin,OH,43017,Albert,Green,9728 Brown St,,Dublin,OH,43017
+1971-01-17 18:10:02,12000000649,80.98,2.42,78.56,Marshall,Walden,7084 Flock St,D88,Dumas,TX,79029,Marshall,Walden,7084 Flock St,D88,Dumas,TX,79029
+1971-01-18 07:07:56,12000000650,84.41,3.37,81.04,Mildred,Schaefer,7626 Pope St,,Nashua,IA,50658,Mildred,Schaefer,7626 Pope St,,Nashua,IA,50658
+1971-01-19 05:26:59,12000000651,111.02,2.7,108.32,Exie,Brown,4932 Prince,,Kauneonga Lake,NY,12749,Exie,Brown,4932 Prince,,Kauneonga Lake,NY,12749
+1971-01-20 04:28:53,12000000652,44.32,3.68,40.64,Patrick,Schwarz,3415 Miller Blvd,,Westernville,NY,13486,Patrick,Schwarz,3415 Miller Blvd,,Westernville,NY,13486
+1971-01-20 12:47:15,12000000653,194.35,2.25,192.1,Craig,Ceruantes,3029 Davis Ave,Suite 47,Rosamond,CA,93560,Craig,Ceruantes,3029 Davis Ave,Suite 47,Rosamond,CA,93560
+1971-01-20 14:44:35,12000000654,149.22,0.8,148.42,Donna,Gavia,8579 Reeves St,,Holland,IN,47541,Donna,Gavia,8579 Reeves St,,Holland,IN,47541
+1971-01-21 14:57:21,12000000655,154.09,2.99,151.1,Thomas,Tobler,3311 Lewis Blvd,,Rudd,IA,50471,Thomas,Tobler,3311 Lewis Blvd,,Rudd,IA,50471
+1971-01-21 22:31:22,12000000656,124.68,2.74,121.94,Ralph,Mitani,3509 Villanvera Rd,,Buncombe,IL,62912,Ralph,Mitani,3509 Villanvera Rd,,Buncombe,IL,62912
+1971-01-22 08:09:25,12000000657,69.89,4.8,65.09,Martha,Ivan,2388 Carter,,Whitesboro,TX,76273,Martha,Ivan,2388 Carter,,Whitesboro,TX,76273
+1971-01-22 22:54:04,12000000658,145.38,3.95,141.43,Nora,Adkins,9182 Byrd St,,Jamestown,CA,95327,Nora,Adkins,9182 Byrd St,,Jamestown,CA,95327
+1971-01-23 08:07:45,12000000659,90.35,3.06,87.29,Joeann,Kelley,5740 Smith Blvd,,Putney,KY,40865,Daniel,Lopez,2836 Kimsey Blvd,,Flint,MI,48503
+1971-01-23 16:33:29,12000000660,141.95,0.5,141.45,Vincent,Moore,6375 Griffin St,,Brookings,SD,57007,Vincent,Moore,6375 Griffin St,,Brookings,SD,57007
+1971-01-24 16:18:59,12000000661,74.41,2.02,72.39,Marco,Cruz,5460 Velazquez St,,Rodney,IA,51051,Marco,Cruz,5460 Velazquez St,,Rodney,IA,51051
+1971-01-25 02:25:04,12000000662,89.69,1.13,88.56,Jose,Mccann,7889 Clarke,,Highlands,NC,28741,Jose,Mccann,7889 Clarke,,Highlands,NC,28741
+1971-01-25 17:04:15,12000000663,106.45,1.39,105.06,Richard,Ardon,617 Price,,Merryville,LA,70653,Richard,Ardon,617 Price,,Merryville,LA,70653
+1971-01-25 19:03:26,12000000664,150.29,2.95,147.34,John,Stewart,8695 Rainey Ave,D-11,Lebanon,IL,62254,John,Stewart,8695 Rainey Ave,D-11,Lebanon,IL,62254
+1971-01-25 19:34:22,12000000665,70.07,3.46,66.61,Lien,Kidd,4293 Tipton St,,Madison,WI,53715,Lien,Kidd,4293 Tipton St,,Madison,WI,53715
+1971-01-26 05:35:46,12000000666,149.05,2.72,146.33,Anna,Evans,3780 Mceachran,,La Blanca,TX,78558,Anna,Evans,3780 Mceachran,,La Blanca,TX,78558
+1971-01-26 21:46:35,12000000667,136.79,3.81,132.98,Frank,Bell,1457 Woody Rd,,Cincinnati,OH,45217,Frank,Bell,1457 Woody Rd,,Cincinnati,OH,45217
+1971-01-27 02:20:06,12000000668,69.86,3.92,65.94,David,Webster,2192 Stamper Ave,,Knickerbocker,TX,76939,David,Webster,2192 Stamper Ave,,Knickerbocker,TX,76939
+1971-01-27 06:20:05,12000000669,126.49,0.45,126.04,Heather,Leblanc,4815 Kirkham Ave,,Merry Hill,NC,27957,Heather,Leblanc,4815 Kirkham Ave,,Merry Hill,NC,27957
+1971-01-28 02:52:57,12000000670,162.45,0.15,162.3,Nettie,Martinetto,2378 Ferguson Rd,,Nampa,ID,83686,Nettie,Martinetto,2378 Ferguson Rd,,Nampa,ID,83686
+1971-01-29 04:15:30,12000000671,37.57,2.45,35.12,Alice,Wong,3381 Saad Rd,,Powell,OH,43065,Alice,Wong,3381 Saad Rd,,Powell,OH,43065
+1971-01-29 05:09:31,12000000672,114.97,1.07,113.9,Alma,Murry,4075 Langeness St,,Topeka,IN,46571,Alma,Murry,4075 Langeness St,,Topeka,IN,46571
+1971-01-29 10:04:47,12000000673,185.32,1.66,183.66,Jay,Clark,8036 Dryer St,,Oklahoma City,OK,73144,Jay,Clark,8036 Dryer St,,Oklahoma City,OK,73144
+1971-01-30 00:46:38,12000000674,106.44,1.5,104.94,Bobby,Ayala,4410 Nguyen Blvd,,Piedmont,CA,94620,Bobby,Ayala,4410 Nguyen Blvd,,Piedmont,CA,94620
+1971-01-31 03:23:41,12000000675,44.31,1.71,42.6,Jeffrey,Miller,352 Beyl,,Wallins Creek,KY,40873,Jeffrey,Miller,352 Beyl,,Wallins Creek,KY,40873
+1971-01-31 06:38:02,12000000676,187.98,0.76,187.22,Gwen,Stebbins,4511 Ames Rd,,Mansfield,TN,38236,Gwen,Stebbins,4511 Ames Rd,,Mansfield,TN,38236
+1971-01-31 11:35:43,12000000677,121.03,4.52,116.51,Jessie,Bullis,3747 Winkler,Suite 96,Oldsmar,FL,34677,Jessie,Bullis,3747 Winkler,Suite 96,Oldsmar,FL,34677
+1971-02-01 02:25:09,12000000678,190.45,2.1,188.35,Dessie,Balmes,2408 Pohlman St,,Abingdon,VA,24212,Alfredo,Manning,9135 Mayo Ct,,Rosendale,MO,64483
+1971-02-02 03:19:38,12000000679,59.98,3.38,56.6,Kathleen,Gartner,3221 Barrera Ct,D-76,Tucson,AZ,85746,Kathleen,Gartner,3221 Barrera Ct,D-76,Tucson,AZ,85746
+1971-02-02 22:23:47,12000000680,176.09,3.24,172.85,Thomas,Gates,3069 Moore Rd,,Brooklyn,NY,11240,Cynthia,Porter,8335 Sweet,,El Paso,TX,88576
+1971-02-04 00:21:26,12000000681,151.03,0.13,150.9,Robert,Matthews,843 Mcintyre,,Tygh Valley,OR,97063,Robert,Matthews,843 Mcintyre,,Tygh Valley,OR,97063
+1971-02-04 17:58:54,12000000682,119.49,2.31,117.18,Beverly,Noy,9879 Flora Ave,Suite 99,Corinne,UT,84307,Beverly,Noy,9879 Flora Ave,Suite 99,Corinne,UT,84307
+1971-02-05 07:09:44,12000000683,160.97,4.0,156.97,Kurt,Oskins,3285 Buchana Rd,,Tower Hill,IL,62571,Kurt,Oskins,3285 Buchana Rd,,Tower Hill,IL,62571
+1971-02-06 04:58:10,12000000684,77.15,1.74,75.41,Irene,Depaolo,8645 Foote Blvd,,San Diego,CA,92182,Flora,Cotrell,3920 Nave Rd,,Helotes,TX,78023
+1971-02-06 17:19:35,12000000685,63.41,0.07,63.34,Dorthy,Ceballos,7589 Taylor Ave,,San Francisco,CA,94123,Dorthy,Ceballos,7589 Taylor Ave,,San Francisco,CA,94123
+1971-02-07 16:01:15,12000000686,164.99,2.47,162.52,Robert,Cooney,5652 Bernard,,Aurora,MN,55705,Robert,Cooney,5652 Bernard,,Aurora,MN,55705
+1971-02-07 17:41:57,12000000687,152.21,3.54,148.67,Scott,Moscowitz,5613 Stringham Ave,,Hollywood,FL,33081,Scott,Moscowitz,5613 Stringham Ave,,Hollywood,FL,33081
+1971-02-08 06:37:53,12000000688,79.62,4.2,75.42,Mack,Garner,5442 Yarborough St,,Palm Harbor,FL,34684,Mack,Garner,5442 Yarborough St,,Palm Harbor,FL,34684
+1971-02-08 21:13:39,12000000689,89.47,3.56,85.91,Harriett,Elamin,8420 Ware Rd,,Naples,FL,34116,Lisa,Howell,3981 Honey Rd,,Stayton,OR,97383
+1971-02-09 10:23:51,12000000690,95.4,4.72,90.68,Jennifer,Gough,9438 Soto Rd,,Birney,MT,59012,Jennifer,Gough,9438 Soto Rd,,Birney,MT,59012
+1971-02-10 04:47:18,12000000691,197.37,4.09,193.28,Larry,Gomez,2915 Powell,,Ralls,TX,79357,Larry,Gomez,2915 Powell,,Ralls,TX,79357
+1971-02-10 07:33:32,12000000692,118.13,2.45,115.68,Whitney,Laite,7422 Pena Ave,Suite 84,Greenwood,TX,76246,Whitney,Laite,7422 Pena Ave,Suite 84,Greenwood,TX,76246
+1971-02-11 02:34:27,12000000693,97.22,2.78,94.44,Herma,Brooks,9040 Jarrell St,,Capitol Heights,MD,20743,Herma,Brooks,9040 Jarrell St,,Capitol Heights,MD,20743
+1971-02-11 07:35:14,12000000694,160.79,0.06,160.73,Guillermo,Rea,1138 Flood,,Arlington,TX,76003,Donald,Elizondo,4645 King,,Denver,CO,80239
+1971-02-11 18:29:32,12000000695,182.71,4.72,177.99,Helen,Weldon,3556 Jones Rd,C75,Parrish,FL,34219,Helen,Weldon,3556 Jones Rd,C75,Parrish,FL,34219
+1971-02-12 02:34:23,12000000696,133.76,0.82,132.94,Charlotte,Vassell,3831 Velez St,,Tacoma,WA,98494,Charlotte,Vassell,3831 Velez St,,Tacoma,WA,98494
+1971-02-12 06:13:37,12000000697,180.42,1.67,178.75,Linda,Walters,4350 Wright St,,Moon,VA,23119,Linda,Walters,4350 Wright St,,Moon,VA,23119
+1971-02-12 10:31:30,12000000698,51.73,0.08,51.65,Tracy,Dyer,1152 Mcjunkins St,,Ormond Beach,FL,32174,Tracy,Dyer,1152 Mcjunkins St,,Ormond Beach,FL,32174
+1971-02-13 03:01:27,12000000699,44.6,2.6,42.0,Lewis,Macias,1590 Flick Rd,,Waterford,MI,48328,Lewis,Macias,1590 Flick Rd,,Waterford,MI,48328
+1971-02-13 20:16:13,12000000700,37.68,1.42,36.26,Fannie,Jackson,1410 Meza Rd,,Loomis,CA,95650,Fannie,Jackson,1410 Meza Rd,,Loomis,CA,95650
+1971-02-14 08:17:33,12000000701,196.68,3.08,193.6,Leroy,Croley,4742 Finn,,Idaho Falls,ID,83402,Leroy,Croley,4742 Finn,,Idaho Falls,ID,83402
+1971-02-14 13:41:30,12000000702,199.63,3.64,195.99,Edwin,Haines,8889 Mainolfi,,Grygla,MN,56727,Edwin,Haines,8889 Mainolfi,,Grygla,MN,56727
+1971-02-15 15:34:31,12000000703,190.55,3.07,187.48,Cynthia,Prindle,891 Ridenhour Blvd,,Montgomery,AL,36107,Cynthia,Prindle,891 Ridenhour Blvd,,Montgomery,AL,36107
+1971-02-15 17:46:53,12000000704,42.84,4.59,38.25,Jason,Fuller,4643 Mcclellan Rd,Unit 64,Chicago,IL,60641,Jason,Fuller,4643 Mcclellan Rd,Unit 64,Chicago,IL,60641
+1971-02-15 20:11:22,12000000705,185.52,1.95,183.57,Michael,Quimby,9584 Williams Rd,,Saint Paul,MN,55170,Michael,Quimby,9584 Williams Rd,,Saint Paul,MN,55170
+1971-02-16 21:33:29,12000000706,27.54,4.02,23.52,Betty,Bush,8676 Thomas Ave,Ste. A72,Washington,DC,20544,Betty,Bush,8676 Thomas Ave,Ste. A72,Washington,DC,20544
+1971-02-17 23:48:59,12000000707,33.26,0.6,32.66,Julie,Daniel,4995 Holland Blvd,,Longs,SC,29568,Julie,Daniel,4995 Holland Blvd,,Longs,SC,29568
+1971-02-18 03:51:43,12000000708,135.06,2.94,132.12,Omar,Redenius,4492 Wilcox Rd,,Columbia,MO,65215,Omar,Redenius,4492 Wilcox Rd,,Columbia,MO,65215
+1971-02-18 22:14:06,12000000709,51.21,3.89,47.32,Walter,Rahe,6813 Decaro St,,Franklin,GA,30217,Walter,Rahe,6813 Decaro St,,Franklin,GA,30217
+1971-02-19 00:41:17,12000000710,149.67,1.26,148.41,Virginia,Mathis,8635 Salais Ave,,Climax,GA,31734,Virginia,Mathis,8635 Salais Ave,,Climax,GA,31734
+1971-02-19 23:10:05,12000000711,64.52,4.84,59.68,Christopher,Cook,7873 Bonner Rd,,McIntire,IA,50455,Christopher,Cook,7873 Bonner Rd,,McIntire,IA,50455
+1971-02-20 18:07:07,12000000712,198.91,1.89,197.02,Lois,Looper,8266 Ruff St,,Herndon,KY,42236,Lois,Looper,8266 Ruff St,,Herndon,KY,42236
+1971-02-21 09:09:51,12000000713,169.35,0.02,169.33,John,Hays,2464 Kaufman St,Suite 89,Ventura,CA,93002,John,Hays,2464 Kaufman St,Suite 89,Ventura,CA,93002
+1971-02-21 18:57:33,12000000714,106.36,0.9,105.46,Jon,Moore,5901 Wax St,,Nokomis,IL,62075,Jon,Moore,5901 Wax St,,Nokomis,IL,62075
+1971-02-22 08:45:45,12000000715,33.75,4.78,28.97,Jose,Raymond,741 Cromwell St,,New Orleans,LA,70125,Jose,Raymond,741 Cromwell St,,New Orleans,LA,70125
+1971-02-22 20:15:35,12000000716,158.13,1.08,157.05,Ray,Rady,5633 Vasquez St,,Puyallup,WA,98375,Ray,Rady,5633 Vasquez St,,Puyallup,WA,98375
+1971-02-23 17:56:18,12000000717,120.59,2.71,117.88,Allen,Burr,3321 Mijangos St,,Rochester,NY,14606,Allen,Burr,3321 Mijangos St,,Rochester,NY,14606
+1971-02-23 19:31:11,12000000718,149.13,3.68,145.45,Madeline,Kutzner,4490 Nadeau St,D-45,Columbiaville,MI,48421,Madeline,Kutzner,4490 Nadeau St,D-45,Columbiaville,MI,48421
+1971-02-23 19:46:47,12000000719,50.6,2.06,48.54,Renee,Torres,8649 Barbee St,,Penhook,VA,24137,Michael,Weeks,6484 Pribble Ct,,Merrillan,WI,54754
+1971-02-24 20:38:44,12000000720,177.87,4.66,173.21,Julius,Leigh,4124 Tamborlane Blvd,A-54,Clay,NY,13041,Julius,Leigh,4124 Tamborlane Blvd,A-54,Clay,NY,13041
+1971-02-25 01:50:43,12000000721,71.61,2.42,69.19,Nellie,Moore,3062 Gilliam Blvd,B8,Connersville,IN,47331,Cornelius,Cook,4995 Mercado Ave,,Broken Arrow,OK,74012
+1971-02-26 05:26:18,12000000722,99.21,3.61,95.6,Ricardo,Colon,2700 Distasio St,,Sacramento,CA,95865,Ricardo,Colon,2700 Distasio St,,Sacramento,CA,95865
+1971-02-26 11:21:11,12000000723,126.83,0.96,125.87,Virgil,Andrews,9586 Solorzano,,Jackson,MS,39213,Virgil,Andrews,9586 Solorzano,,Jackson,MS,39213
+1971-02-27 00:30:48,12000000724,111.69,3.42,108.27,Ryan,Nance,6995 Sams Ave,,Tulsa,OK,74141,Ryan,Nance,6995 Sams Ave,,Tulsa,OK,74141
+1971-02-27 22:28:32,12000000725,47.83,4.99,42.84,John,Roberts,8792 Pimentel Blvd,,Whittier,CA,90610,John,Roberts,8792 Pimentel Blvd,,Whittier,CA,90610
+1971-02-28 00:54:07,12000000726,54.91,3.69,51.22,Alice,Smith,5672 Closson St,,Spinnerstown,PA,18968,Alice,Smith,5672 Closson St,,Spinnerstown,PA,18968
+1971-02-28 16:45:54,12000000727,72.87,0.43,72.44,Maria,Knaff,2279 Mayes,B4,Long Lake,WI,54542,Maria,Knaff,2279 Mayes,B4,Long Lake,WI,54542
+1971-03-01 09:38:40,12000000728,137.15,1.47,135.68,Loretta,Hicks,9980 Hamer Rd,,Bostwick,GA,30623,Patrick,Rodriguez,2647 Lopez,,Willows,CA,95988
+1971-03-01 13:50:39,12000000729,92.38,4.11,88.27,Brenda,Huff,65 Todd St,,South Hutchinson,KS,67505,Brenda,Huff,65 Todd St,,South Hutchinson,KS,67505
+1971-03-01 17:01:26,12000000730,59.53,2.01,57.52,Charles,Ortiz,8263 Rios Blvd,Suite 83,Los Angeles,CA,90089,Charles,Ortiz,8263 Rios Blvd,Suite 83,Los Angeles,CA,90089
+1971-03-02 14:07:53,12000000731,169.73,2.69,167.04,James,Hall,9443 Harris Ave,B-60,San Jose,CA,95127,James,Hall,9443 Harris Ave,B-60,San Jose,CA,95127
+1971-03-03 16:03:41,12000000732,142.35,2.14,140.21,Lauren,Calais,9383 Laday,,Patterson,MO,63956,Christopher,Nelson,9536 Johnson St,,Endicott,NY,13763
+1971-03-04 02:00:27,12000000733,183.64,2.71,180.93,Jamie,Jones,2624 Hudson St,,Yeagertown,PA,17099,Jamie,Jones,2624 Hudson St,,Yeagertown,PA,17099
+1971-03-04 15:02:19,12000000734,160.22,2.45,157.77,Erin,Blue,4220 Garcia St,D-42,Shreveport,LA,71135,Erin,Blue,4220 Garcia St,D-42,Shreveport,LA,71135
+1971-03-05 06:13:06,12000000735,123.07,1.94,121.13,Linda,Boyd,7754 Tucker Ave,,Eckerman,MI,49728,Linda,Boyd,7754 Tucker Ave,,Eckerman,MI,49728
+1971-03-05 23:57:30,12000000736,71.98,2.9,69.08,Dennis,Polk,7997 Sanders St,,Cedar City,MO,65022,Dennis,Polk,7997 Sanders St,,Cedar City,MO,65022
+1971-03-06 15:58:21,12000000737,173.95,1.17,172.78,Larry,Laderman,4647 Harris Ct,,Cary,NC,27511,Larry,Laderman,4647 Harris Ct,,Cary,NC,27511
+1971-03-06 23:35:26,12000000738,177.73,3.75,173.98,Paula,Balensiefen,5489 Petrovich Rd,,Traverse City,MI,49686,Paula,Balensiefen,5489 Petrovich Rd,,Traverse City,MI,49686
+1971-03-07 02:21:19,12000000739,139.14,4.85,134.29,Shirley,Joseph,3953 Sayed Rd,D47,Geneva,ID,83238,Shirley,Joseph,3953 Sayed Rd,D47,Geneva,ID,83238
+1971-03-08 02:42:02,12000000740,58.83,3.59,55.24,Monica,Douglass,150 Smith,,Cee Vee,TX,79223,Monica,Douglass,150 Smith,,Cee Vee,TX,79223
+1971-03-08 10:36:51,12000000741,168.69,2.22,166.47,Kevin,Johnson,4653 Cook Ct,,Adrian,MI,49221,Kevin,Johnson,4653 Cook Ct,,Adrian,MI,49221
+1971-03-09 08:18:48,12000000742,78.63,3.28,75.35,Violet,Donahue,1111 Tillman Rd,,Naples,FL,34109,Violet,Donahue,1111 Tillman Rd,,Naples,FL,34109
+1971-03-10 11:41:39,12000000743,150.05,0.05,150.0,Santa,Bludworth,1109 Ellis St,,Dovray,MN,56125,Santa,Bludworth,1109 Ellis St,,Dovray,MN,56125
+1971-03-11 10:42:39,12000000744,130.93,0.36,130.57,Greg,Schmitz,1123 Johnson Rd,Unit 38,Glasco,KS,67445,Greg,Schmitz,1123 Johnson Rd,Unit 38,Glasco,KS,67445
+1971-03-11 13:51:31,12000000745,123.81,2.76,121.05,Richard,Anderson,3221 Waddell St,C29,Little Genesee,NY,14754,Richard,Anderson,3221 Waddell St,C29,Little Genesee,NY,14754
+1971-03-11 13:54:47,12000000746,45.93,0.58,45.35,Craig,New,4182 Browning St,,Selinsgrove,PA,17870,Craig,New,4182 Browning St,,Selinsgrove,PA,17870
+1971-03-11 22:39:57,12000000747,31.53,4.85,26.68,Keith,Donovan,3908 Robinson Rd,,Folcroft,PA,19032,Keith,Donovan,3908 Robinson Rd,,Folcroft,PA,19032
+1971-03-12 15:38:46,12000000748,156.15,2.76,153.39,Ida,Drake,8709 Cardoza Rd,,Scotts,NC,28699,Ida,Drake,8709 Cardoza Rd,,Scotts,NC,28699
+1971-03-13 18:06:19,12000000749,161.6,0.44,161.16,Frances,Trytten,4496 Mcdonald St,,Yancey,TX,78886,Frances,Trytten,4496 Mcdonald St,,Yancey,TX,78886
+1971-03-14 05:42:50,12000000750,126.2,4.14,122.06,Stephanie,Evans,1436 Prisco Ave,,Birnamwood,WI,54414,Stephanie,Evans,1436 Prisco Ave,,Birnamwood,WI,54414
+1971-03-14 19:39:28,12000000751,26.78,2.66,24.12,Vanessa,Royce,8833 Osborne Blvd,,Colorado Springs,CO,80944,Vanessa,Royce,8833 Osborne Blvd,,Colorado Springs,CO,80944
+1971-03-14 21:06:58,12000000752,52.52,2.01,50.51,Steven,Hart,9804 Hoang St,,Birmingham,AL,35217,Steven,Hart,9804 Hoang St,,Birmingham,AL,35217
+1971-03-15 03:16:15,12000000753,60.14,3.61,56.53,Aaron,Staten,6125 Crislip Rd,Unit 65,Mansfield,AR,72944,Aaron,Staten,6125 Crislip Rd,Unit 65,Mansfield,AR,72944
+1971-03-15 09:19:31,12000000754,161.82,3.57,158.25,Nadia,Krebs,3102 Wehn St,,Scotland,AR,72141,Nadia,Krebs,3102 Wehn St,,Scotland,AR,72141
+1971-03-16 00:25:07,12000000755,153.02,1.88,151.14,Richie,Segura,2938 Jaramillo Rd,,Valley Stream,NY,11583,Richie,Segura,2938 Jaramillo Rd,,Valley Stream,NY,11583
+1971-03-16 21:51:56,12000000756,173.92,1.12,172.8,Jose,Garza,1974 Pepper St,,Jackson,MS,39207,Jose,Garza,1974 Pepper St,,Jackson,MS,39207
+1971-03-17 10:19:52,12000000757,35.89,0.28,35.61,Jessie,Lyman,6681 Dawkins St,,Altoona,IA,50009,Jessie,Lyman,6681 Dawkins St,,Altoona,IA,50009
+1971-03-18 09:20:43,12000000758,108.1,4.57,103.53,Viola,Marshall,5636 Garza St,,Jack,AL,36346,Viola,Marshall,5636 Garza St,,Jack,AL,36346
+1971-03-19 12:07:33,12000000759,52.92,3.55,49.37,John,Mauro,1144 Cedar St,,Whittier,NC,28789,John,Mauro,1144 Cedar St,,Whittier,NC,28789
+1971-03-20 05:12:29,12000000760,166.02,3.03,162.99,Brenda,Gorton,7245 Luna St,,Fox Valley,IL,60599,Brenda,Gorton,7245 Luna St,,Fox Valley,IL,60599
+1971-03-21 02:11:00,12000000761,99.34,1.23,98.11,Jennifer,Harris,1023 Smart Blvd,,Philadelphia,PA,19109,Jennifer,Harris,1023 Smart Blvd,,Philadelphia,PA,19109
+1971-03-21 10:54:01,12000000762,122.87,1.84,121.03,Rose,Phelps,6217 Keller St,,Boca Raton,FL,33496,Rose,Phelps,6217 Keller St,,Boca Raton,FL,33496
+1971-03-22 03:24:06,12000000763,84.1,1.85,82.25,Amanda,Smith,4903 Comacho,,Lakewood,WA,98439,Amanda,Smith,4903 Comacho,,Lakewood,WA,98439
+1971-03-22 17:57:24,12000000764,163.32,1.15,162.17,Janet,Clayton,689 Rice St,,Mayville,ND,58257,Janet,Clayton,689 Rice St,,Mayville,ND,58257
+1971-03-23 14:45:35,12000000765,54.62,1.01,53.61,Daisy,Mitchell,8230 Mitchell Ct,,Christoval,TX,76935,Daisy,Mitchell,8230 Mitchell Ct,,Christoval,TX,76935
+1971-03-24 05:21:06,12000000766,186.06,2.44,183.62,Brittaney,Stewart,5655 Adame,,Charlotte,NC,28275,Brittaney,Stewart,5655 Adame,,Charlotte,NC,28275
+1971-03-24 13:51:32,12000000767,107.79,1.65,106.14,Pauline,Day,6739 Hengl Blvd,,Belvidere,IL,61008,Pauline,Day,6739 Hengl Blvd,,Belvidere,IL,61008
+1971-03-25 05:56:57,12000000768,45.72,2.86,42.86,Margaret,Bowling,3803 Shaver St,,Westmoreland,NY,13490,Marian,Rhodes,5397 Hutson Rd,,Pleasant Plain,OH,45162
+1971-03-26 09:32:44,12000000769,148.77,3.33,145.44,Nelson,Zorra,3112 Huver St,,Delaware,OK,74027,Nelson,Zorra,3112 Huver St,,Delaware,OK,74027
+1971-03-27 10:36:41,12000000770,108.61,0.18,108.43,Larry,Haley,8391 Sanchez St,D86,Cedar Lane,TX,77415,Larry,Haley,8391 Sanchez St,D86,Cedar Lane,TX,77415
+1971-03-27 16:02:25,12000000771,169.44,1.12,168.32,George,Smith,2923 Hale Blvd,,Ogden,UT,84407,George,Smith,2923 Hale Blvd,,Ogden,UT,84407
+1971-03-27 18:16:01,12000000772,160.07,2.5,157.57,Susan,Hunter,7511 Rivera Blvd,,Reynolds Station,KY,42368,Susan,Hunter,7511 Rivera Blvd,,Reynolds Station,KY,42368
+1971-03-28 09:08:02,12000000773,137.73,3.7,134.03,Jennifer,Tabin,240 Valentine Ct,,Saint George,UT,84790,Jennifer,Tabin,240 Valentine Ct,,Saint George,UT,84790
+1971-03-29 08:39:57,12000000774,160.1,2.9,157.2,Susan,Steffee,2472 Smith St,,Columbus Grove,OH,45830,Susan,Steffee,2472 Smith St,,Columbus Grove,OH,45830
+1971-03-30 03:57:16,12000000775,26.68,0.11,26.57,Irma,Cole,8478 Green,,Leamington,UT,84638,Irma,Cole,8478 Green,,Leamington,UT,84638
+1971-03-31 06:27:13,12000000776,180.47,2.7,177.77,Beulah,Goon,9903 Chambers Rd,,Syracuse,NY,13252,Lois,Bell,2787 Benson Ct,D-14,Washington,DC,20041
+1971-03-31 14:22:19,12000000777,161.52,4.2,157.32,William,Hagerman,9036 Zhang St,,Lancaster,CA,93534,William,Hagerman,9036 Zhang St,,Lancaster,CA,93534
+1971-03-31 19:30:04,12000000778,81.75,0.36,81.39,Kevin,Beale,9829 Green Blvd,,Durango,CO,81302,Judith,Brookhart,8661 Gregory Blvd,,Greenwood,NE,68366
+1971-04-01 11:58:56,12000000779,71.54,0.23,71.31,Georgia,Curtis,5464 Black,,Heidrick,KY,40949,Georgia,Curtis,5464 Black,,Heidrick,KY,40949
+1971-04-02 13:16:58,12000000780,41.04,0.19,40.85,Tommy,Torres,5291 Fernandez Ave,,Whittier,AK,99693,Tommy,Torres,5291 Fernandez Ave,,Whittier,AK,99693
+1971-04-03 15:27:58,12000000781,190.71,4.15,186.56,Theresa,Stangle,2860 Jenkins,,Wakulla Springs,FL,32305,Theresa,Stangle,2860 Jenkins,,Wakulla Springs,FL,32305
+1971-04-04 18:47:36,12000000782,80.88,0.31,80.57,Michael,Evans,6743 Sullivan St,,Fishertown,PA,15539,Michael,Evans,6743 Sullivan St,,Fishertown,PA,15539
+1971-04-05 16:01:19,12000000783,39.66,4.14,35.52,Ruth,Ballard,202 Cromwell St,,Navasota,TX,77869,Ruth,Ballard,202 Cromwell St,,Navasota,TX,77869
+1971-04-05 20:38:17,12000000784,93.0,2.11,90.89,Jose,Casey,1343 Vaughn Rd,,Riverside,AL,35135,Jose,Casey,1343 Vaughn Rd,,Riverside,AL,35135
+1971-04-05 21:56:32,12000000785,133.13,0.4,132.73,Janet,Leon,9515 Crowe Rd,,Sarasota,FL,34278,Janet,Leon,9515 Crowe Rd,,Sarasota,FL,34278
+1971-04-06 02:16:39,12000000786,143.06,2.22,140.84,Dave,Burkhart,3107 Rife Ave,D30,Bonaparte,IA,52620,Dave,Burkhart,3107 Rife Ave,D30,Bonaparte,IA,52620
+1971-04-06 10:21:07,12000000787,191.19,0.31,190.88,Anh,Johnson,8883 Vann Rd,,Gulnare,CO,81042,Anh,Johnson,8883 Vann Rd,,Gulnare,CO,81042
+1971-04-07 06:56:40,12000000788,45.27,1.14,44.13,Annie,Silver,839 Cruz Rd,,Dresden,KS,67635,Annie,Silver,839 Cruz Rd,,Dresden,KS,67635
+1971-04-07 21:58:26,12000000789,130.14,3.46,126.68,Yang,Oconnor,4224 Cortez Rd,,Rossville,KS,66533,Yang,Oconnor,4224 Cortez Rd,,Rossville,KS,66533
+1971-04-08 08:22:09,12000000790,146.27,4.51,141.76,Yolanda,Michaud,5937 Beede St,,Napoleon,MI,49261,Yolanda,Michaud,5937 Beede St,,Napoleon,MI,49261
+1971-04-09 11:57:03,12000000791,110.37,3.89,106.48,Leeann,Johnson,8606 Mullens Blvd,,Lincoln,NE,68508,Leeann,Johnson,8606 Mullens Blvd,,Lincoln,NE,68508
+1971-04-10 10:56:13,12000000792,162.29,2.14,160.15,Corey,Bulter,2218 Young Rd,,Silver Spring,MD,20997,Corey,Bulter,2218 Young Rd,,Silver Spring,MD,20997
+1971-04-10 20:15:59,12000000793,50.21,4.97,45.24,Howard,Norris,7196 Berger Ct,,Grandview,WA,98930,Michael,Delgado,6502 Stockburger St,,Trenton,KY,42286
+1971-04-10 23:54:27,12000000794,76.95,0.44,76.51,Linda,Bloom,2942 Evans St,C35,Coalwood,WV,24824,Linda,Bloom,2942 Evans St,C35,Coalwood,WV,24824
+1971-04-11 11:33:25,12000000795,191.28,0.87,190.41,Justin,Lizarraga,1233 Lacroix St,,Yakutat,AK,99689,Justin,Lizarraga,1233 Lacroix St,,Yakutat,AK,99689
+1971-04-11 19:03:37,12000000796,190.04,2.95,187.09,John,Johnson,7021 Deloach Blvd,,Thibodaux,LA,70310,John,Johnson,7021 Deloach Blvd,,Thibodaux,LA,70310
+1971-04-12 16:45:29,12000000797,73.94,2.73,71.21,Walter,Clem,5492 Gonzalez Blvd,,Hill City,ID,83337,Walter,Clem,5492 Gonzalez Blvd,,Hill City,ID,83337
+1971-04-13 13:50:00,12000000798,31.19,4.2,26.99,Peggy,Herrera,439 Downing Rd,,Bois D Arc,MO,65612,Peggy,Herrera,439 Downing Rd,,Bois D Arc,MO,65612
+1971-04-13 23:22:22,12000000799,60.17,1.45,58.72,Vera,Isaac,8163 Mcdonough,,Key Colony Beach,FL,33051,Vera,Isaac,8163 Mcdonough,,Key Colony Beach,FL,33051
+1971-04-14 17:39:58,12000000800,111.6,4.72,106.88,Jeraldine,Clark,5286 Comstock St,,Lake Worth,FL,33461,Jeraldine,Clark,5286 Comstock St,,Lake Worth,FL,33461
+1971-04-15 12:00:31,12000000801,180.26,3.73,176.53,Anthony,Clark,4542 White Ct,,Kanorado,KS,67741,Michael,Jackson,6194 Finney St,,Orlando,KY,40460
+1971-04-16 09:39:43,12000000802,57.44,2.91,54.53,Georgia,Rutledge,8953 Jackson St,,Union City,PA,16438,John,Reiff,8788 Raabe St,C2,Oakland,CA,94660
+1971-04-17 02:23:06,12000000803,160.92,4.67,156.25,Luis,Mcgarry,2032 Anderson,,Langhorne,PA,19048,Luis,Mcgarry,2032 Anderson,,Langhorne,PA,19048
+1971-04-17 04:51:40,12000000804,34.27,2.99,31.28,Susan,Trantham,2242 Wadsworth St,,Lexington,KY,40513,Susan,Trantham,2242 Wadsworth St,,Lexington,KY,40513
+1971-04-18 02:03:13,12000000805,87.36,0.89,86.47,Justin,Linnane,2919 Alleyne Rd,,Wray,CO,80758,Justin,Linnane,2919 Alleyne Rd,,Wray,CO,80758
+1971-04-18 12:06:42,12000000806,88.81,3.1,85.71,Bradley,Gonzalez,8718 Poole Rd,,Roaring Branch,PA,17765,Bradley,Gonzalez,8718 Poole Rd,,Roaring Branch,PA,17765
+1971-04-18 17:51:54,12000000807,77.84,2.55,75.29,Jean,Randhawa,4395 Miller St,,Canby,MN,56220,Jean,Randhawa,4395 Miller St,,Canby,MN,56220
+1971-04-19 18:39:59,12000000808,140.02,0.78,139.24,Anthony,Ray,1314 Mueller St,,Saint Marks,FL,32355,Anthony,Ray,1314 Mueller St,,Saint Marks,FL,32355
+1971-04-20 00:27:49,12000000809,51.15,4.94,46.21,Bryan,Brown,5268 Stewart Rd,,New York,NY,10032,Bryan,Brown,5268 Stewart Rd,,New York,NY,10032
+1971-04-20 17:51:32,12000000810,80.29,0.92,79.37,Joseph,Dobson,1437 Gold,,Waterford,VA,20197,Joseph,Dobson,1437 Gold,,Waterford,VA,20197
+1971-04-21 11:23:10,12000000811,57.39,2.85,54.54,Lewis,Hay,8957 Peragine Ct,,Brentwood,TN,37027,Lewis,Hay,8957 Peragine Ct,,Brentwood,TN,37027
+1971-04-21 23:00:03,12000000812,44.9,1.02,43.88,Cierra,Graig,3664 Csaszar,Suite 11,Mount Vernon,VA,22121,Valentin,Otis,5365 Weipert Ave,C-68,New Ulm,MN,56073
+1971-04-22 00:52:32,12000000813,149.27,3.1,146.17,Christine,Browning,3075 Wallis Blvd,,Rock City,IL,61070,Christine,Browning,3075 Wallis Blvd,,Rock City,IL,61070
+1971-04-22 08:10:33,12000000814,56.84,3.48,53.36,Michael,Hoch,286 Scheid Ave,,Pella,IA,50219,Michael,Hoch,286 Scheid Ave,,Pella,IA,50219
+1971-04-23 10:01:18,12000000815,181.27,1.0,180.27,Linda,Wax,2423 Anthony Rd,,Yonkers,NY,10704,Linda,Wax,2423 Anthony Rd,,Yonkers,NY,10704
+1971-04-24 08:44:11,12000000816,139.31,3.67,135.64,Jennifer,Eason,8669 Espinosa St,,Columbia,SC,29228,Jennifer,Eason,8669 Espinosa St,,Columbia,SC,29228
+1971-04-25 12:12:38,12000000817,140.49,4.89,135.6,Barbara,Johnson,9848 Schneider St,,West Chester,PA,19383,Barbara,Johnson,9848 Schneider St,,West Chester,PA,19383
+1971-04-26 15:57:20,12000000818,151.2,3.77,147.43,Charles,Shaner,2647 Free Rd,,Daytona Beach,FL,32124,Charles,Shaner,2647 Free Rd,,Daytona Beach,FL,32124
+1971-04-27 01:05:33,12000000819,40.25,1.85,38.4,Mattie,Scott,6350 Basey St,,Delmar,IA,52037,Raylene,England,5804 King Rd,,Mars Hill,NC,28754
+1971-04-27 07:19:34,12000000820,183.45,3.58,179.87,Maria,Nay,6880 Doty St,A-22,Yakima,WA,98901,Maria,Nay,6880 Doty St,A-22,Yakima,WA,98901
+1971-04-28 03:06:49,12000000821,168.06,4.92,163.14,Adam,Stultz,150 Baker St,,Wewahitchka,FL,32465,Adam,Stultz,150 Baker St,,Wewahitchka,FL,32465
+1971-04-28 17:16:44,12000000822,112.78,2.53,110.25,Alfredo,Franks,173 Goehring St,,Burlington,IA,52601,Alfredo,Franks,173 Goehring St,,Burlington,IA,52601
+1971-04-29 04:35:51,12000000823,107.06,0.59,106.47,Carmen,Vargas,8400 Hamilton,,Forestville,NY,14062,Claudia,Diliberto,7224 Fields St,,Rocky Ford,GA,30455
+1971-04-29 14:25:34,12000000824,131.58,4.51,127.07,Bob,King,592 Odonnell Blvd,,Rheems,PA,17570,Bob,King,592 Odonnell Blvd,,Rheems,PA,17570
+1971-04-30 02:37:59,12000000825,68.87,2.71,66.16,Frank,Manning,2039 Anderson Ct,,Sidney,KY,41564,Violet,Heasley,1477 Pickerel Ave,A-12,Hewlett,NY,11557
+1971-04-30 06:51:02,12000000826,149.79,3.21,146.58,William,Rape,279 Ashalintubbi St,,Marchand,PA,15758,William,Rape,279 Ashalintubbi St,,Marchand,PA,15758
+1971-05-01 00:10:58,12000000827,104.09,1.54,102.55,Anne,Johnson,5155 Caudle Rd,,Farley,MO,64028,Shawn,Hernandez,9039 Alam St,,Harshaw,WI,54529
+1971-05-01 18:10:38,12000000828,61.44,1.34,60.1,Virginia,Pratt,7084 Johnson St,,Grand Chain,IL,62941,Frank,Wentzel,2332 Barrett Ct,,Canal Winchester,OH,43110
+1971-05-02 16:09:56,12000000829,97.33,2.97,94.36,Tony,Chamberlain,6868 Stewart Ct,C-78,Anaheim,CA,92899,Tony,Chamberlain,6868 Stewart Ct,C-78,Anaheim,CA,92899
+1971-05-02 20:12:48,12000000830,176.69,0.57,176.12,David,Avella,5118 Ellis St,,Underwood,WA,98651,David,Avella,5118 Ellis St,,Underwood,WA,98651
+1971-05-02 21:46:31,12000000831,75.5,0.62,74.88,Deborah,Wurzbacher,3666 Ortega,,Tipton,IA,52772,Robert,Hite,8532 Potts Ct,,Long Valley,SD,57547
+1971-05-03 08:05:01,12000000832,185.51,4.64,180.87,Jacqueline,Williams,5360 Washington St,,Hamilton,IL,62341,Jacqueline,Williams,5360 Washington St,,Hamilton,IL,62341
+1971-05-03 11:14:18,12000000833,180.96,2.86,178.1,Camilla,Aichele,58 Gates,D-81,Vandalia,MT,59273,Camilla,Aichele,58 Gates,D-81,Vandalia,MT,59273
+1971-05-03 12:23:12,12000000834,183.55,0.06,183.49,James,Davis,3034 Taylor Rd,,Hector,MN,55342,James,Davis,3034 Taylor Rd,,Hector,MN,55342
+1971-05-04 10:16:19,12000000835,61.02,4.53,56.49,Mary,Hererra,4996 Sider Ct,D-79,Dallas,TX,75224,Elwood,Coleman,6066 Bowles Ct,,Opelika,AL,36803
+1971-05-05 07:36:22,12000000836,107.28,1.14,106.14,Terry,Tambe,4557 Burdell Blvd,,Sweetwater,TX,79556,Terry,Tambe,4557 Burdell Blvd,,Sweetwater,TX,79556
+1971-05-06 03:32:27,12000000837,178.31,1.66,176.65,Patrick,Bullock,1456 Mcdonald Rd,,Hollytree,AL,35751,Patrick,Bullock,1456 Mcdonald Rd,,Hollytree,AL,35751
+1971-05-07 00:09:05,12000000838,32.48,3.59,28.89,Jacob,Malm,8629 Moore St,,Bardwell,TX,75101,Jacob,Malm,8629 Moore St,,Bardwell,TX,75101
+1971-05-07 07:17:12,12000000839,128.4,2.91,125.49,Mary,Fazio,2457 Bacher Rd,,Neville,OH,45156,Mary,Fazio,2457 Bacher Rd,,Neville,OH,45156
+1971-05-07 14:44:59,12000000840,158.85,2.11,156.74,Deborah,Spears,7073 Sutton Ct,,Spokane,WA,99220,Virgina,Frick,8530 Heath Ave,,Ellington,NY,14732
+1971-05-08 11:21:58,12000000841,165.42,4.29,161.13,Jenna,Ulrich,8132 Sager Blvd,,Evansville,WI,53536,Jenna,Ulrich,8132 Sager Blvd,,Evansville,WI,53536
+1971-05-09 12:34:21,12000000842,196.74,3.01,193.73,Kali,Collier,34 Williams,B14,Mahanoy City,PA,17948,Kali,Collier,34 Williams,B14,Mahanoy City,PA,17948
+1971-05-10 13:19:54,12000000843,137.78,1.95,135.83,Edward,Teed,7877 Gehrke,,Atlantic Beach,NC,28512,Edward,Teed,7877 Gehrke,,Atlantic Beach,NC,28512
+1971-05-10 14:48:49,12000000844,60.21,4.6,55.61,Trinidad,Atkinson,9653 Pullen St,,Marshall,VA,20115,Trinidad,Atkinson,9653 Pullen St,,Marshall,VA,20115
+1971-05-10 22:13:31,12000000845,97.22,1.27,95.95,Annette,Crump,5734 Patrone Blvd,No. 12,Springboro,OH,45066,Annette,Crump,5734 Patrone Blvd,No. 12,Springboro,OH,45066
+1971-05-10 22:44:04,12000000846,107.63,0.31,107.32,Jonathan,Camacho,7589 Cordova Blvd,,East China,MI,48054,Jonathan,Camacho,7589 Cordova Blvd,,East China,MI,48054
+1971-05-11 14:53:07,12000000847,167.56,2.09,165.47,Harry,Fosler,439 Wetzel St,,McCabe,MT,59245,Harry,Fosler,439 Wetzel St,,McCabe,MT,59245
+1971-05-11 15:48:47,12000000848,67.57,0.03,67.54,George,Spiers,396 Newton St,Suite 29,Morse,LA,70559,George,Spiers,396 Newton St,Suite 29,Morse,LA,70559
+1971-05-11 18:44:54,12000000849,125.15,3.34,121.81,Chadwick,Campos,4535 Roark Blvd,,Sugartown,LA,70662,Chadwick,Campos,4535 Roark Blvd,,Sugartown,LA,70662
+1971-05-12 19:31:43,12000000850,58.64,2.2,56.44,Mark,Land,618 Miller St,,Ville Platte,LA,70586,Mark,Land,618 Miller St,,Ville Platte,LA,70586
+1971-05-13 17:09:34,12000000851,166.77,4.92,161.85,David,Burton,7483 Purifoy Blvd,,Osceola,NE,68651,David,Burton,7483 Purifoy Blvd,,Osceola,NE,68651
+1971-05-14 11:58:44,12000000852,146.12,2.71,143.41,Thomas,Noffsinger,7920 Marine,B-38,Philadelphia,PA,19149,Thomas,Noffsinger,7920 Marine,B-38,Philadelphia,PA,19149
+1971-05-14 20:00:16,12000000853,163.85,4.79,159.06,Cecelia,Hammond,6767 Miller Rd,B-41,Poynor,TX,75782,Cecelia,Hammond,6767 Miller Rd,B-41,Poynor,TX,75782
+1971-05-15 11:13:10,12000000854,162.34,2.8,159.54,Margaret,Jordan,6349 Mathis Rd,,Aiea,HI,96701,Margaret,Jordan,6349 Mathis Rd,,Aiea,HI,96701
+1971-05-16 02:03:48,12000000855,74.53,3.41,71.12,Dee,Thompson,9992 Mcdonald,,Palo Alto,CA,94303,Virginia,Smith,2136 Jones,,Hyde Park,PA,15641
+1971-05-16 09:59:17,12000000856,141.48,1.75,139.73,Eugene,Perez,1251 Kaufman Ct,,Lanesboro,IA,51451,Eugene,Perez,1251 Kaufman Ct,,Lanesboro,IA,51451
+1971-05-16 11:22:32,12000000857,140.49,4.0,136.49,Robert,Chase,2681 Angert Rd,,Avon,IL,61415,Robert,Chase,2681 Angert Rd,,Avon,IL,61415
+1971-05-17 08:32:26,12000000858,189.48,2.7,186.78,James,Venneri,8146 Arnold Rd,,Strawn,TX,76475,James,Venneri,8146 Arnold Rd,,Strawn,TX,76475
+1971-05-17 11:29:37,12000000859,105.71,0.25,105.46,Lisa,Phipps,5447 Correa,,Claysville,PA,15323,Lisa,Phipps,5447 Correa,,Claysville,PA,15323
+1971-05-18 02:09:20,12000000860,75.06,1.7,73.36,Ryan,Vansumeren,2668 Franklin Ct,,New Hyde Park,NY,11099,Ryan,Vansumeren,2668 Franklin Ct,,New Hyde Park,NY,11099
+1971-05-18 16:05:51,12000000861,100.02,3.04,96.98,Ross,Reyes,4842 Dew St,D-68,Germantown,TN,38139,Kelly,Mcgehee,1245 Stowe Rd,Unit 79,Rock Island,TN,38581
+1971-05-19 02:16:59,12000000862,192.32,4.37,187.95,Gloria,Lomeli,8194 Koenen Rd,D-87,Pelham,GA,31779,Gloria,Lomeli,8194 Koenen Rd,D-87,Pelham,GA,31779
+1971-05-19 17:49:37,12000000863,83.2,2.78,80.42,Omar,Schnell,7935 Lichtenberg Rd,Unit 76,Post,TX,79356,Omar,Schnell,7935 Lichtenberg Rd,Unit 76,Post,TX,79356
+1971-05-20 07:55:54,12000000864,173.2,0.05,173.15,Linda,Smith,7864 Fuller Ave,,Morrison,TN,37357,Linda,Smith,7864 Fuller Ave,,Morrison,TN,37357
+1971-05-20 21:26:26,12000000865,141.91,1.51,140.4,Evelyn,Klinger,5414 Stogner St,,Fairfax,VA,22036,Evelyn,Klinger,5414 Stogner St,,Fairfax,VA,22036
+1971-05-21 20:04:49,12000000866,28.95,0.13,28.82,Edna,Mann,216 Steiner St,,Crawford,GA,30630,Edna,Mann,216 Steiner St,,Crawford,GA,30630
+1971-05-22 08:58:43,12000000867,29.4,4.17,25.23,Jeanette,Deanda,1518 Henry St,D56,Howells,NE,68641,Geneva,Gallagher,680 Philips St,,Delta,MO,63744
+1971-05-23 02:13:21,12000000868,64.92,0.1,64.82,Mark,Hubbard,2801 Ran Blvd,,Custar,OH,43511,Mark,Hubbard,2801 Ran Blvd,,Custar,OH,43511
+1971-05-24 05:27:44,12000000869,198.47,2.73,195.74,Margery,Klitz,2798 Clemons Ct,,Grand Junction,CO,81504,Margery,Klitz,2798 Clemons Ct,,Grand Junction,CO,81504
+1971-05-24 18:45:41,12000000870,171.05,0.52,170.53,Courtney,Gilchrist,3060 Wendel Blvd,,Kopperston,WV,24854,Courtney,Gilchrist,3060 Wendel Blvd,,Kopperston,WV,24854
+1971-05-25 17:24:13,12000000871,118.48,1.9,116.58,Philip,Smith,2762 Kleeb St,,Silver Lake,WI,53170,Philip,Smith,2762 Kleeb St,,Silver Lake,WI,53170
+1971-05-26 08:55:42,12000000872,34.59,1.36,33.23,Leah,Cooper,6125 Gooch Rd,,Lanark,IL,61046,Carol,Randolph,3032 Delcolle Rd,,Olustee,OK,73560
+1971-05-26 22:01:48,12000000873,81.61,1.67,79.94,Shantell,Mccall,3008 Nair Ave,D-20,Proctor,WV,26055,Shantell,Mccall,3008 Nair Ave,D-20,Proctor,WV,26055
+1971-05-27 15:57:04,12000000874,75.33,1.53,73.8,Dori,Palmer,1380 Carroll St,,Gainesville,FL,32604,Dori,Palmer,1380 Carroll St,,Gainesville,FL,32604
+1971-05-27 21:31:21,12000000875,157.92,0.19,157.73,James,Hosle,3917 Kanahele St,,Clarksburg,CA,95612,James,Hosle,3917 Kanahele St,,Clarksburg,CA,95612
+1971-05-28 07:53:31,12000000876,185.2,0.69,184.51,Karen,Mckee,4950 Lance Ct,,Dulzura,CA,91917,Karen,Mckee,4950 Lance Ct,,Dulzura,CA,91917
+1971-05-29 11:14:12,12000000877,132.54,2.57,129.97,Russell,Wing,2914 Uresti Ave,,Wild Horse,CO,80862,Russell,Wing,2914 Uresti Ave,,Wild Horse,CO,80862
+1971-05-29 13:13:22,12000000878,165.61,4.0,161.61,Edith,Flowers,3641 Bloomer Rd,C29,Morse,TX,79062,Edith,Flowers,3641 Bloomer Rd,C29,Morse,TX,79062
+1971-05-30 13:03:19,12000000879,84.71,0.24,84.47,Karen,Farrell,6883 Grantham,,Leonidas,MI,49066,Karen,Farrell,6883 Grantham,,Leonidas,MI,49066
+1971-05-30 18:46:19,12000000880,142.99,1.27,141.72,Althea,Else,5339 Ezzell Rd,Ste. A84,Ypsilanti,ND,58497,Althea,Else,5339 Ezzell Rd,Ste. A84,Ypsilanti,ND,58497
+1971-05-31 19:50:01,12000000881,144.47,2.56,141.91,Jason,Fitzgerald,8774 Swartz Ct,,Roaring Gap,NC,28668,Jason,Fitzgerald,8774 Swartz Ct,,Roaring Gap,NC,28668
+1971-06-01 19:33:16,12000000882,66.55,3.38,63.17,Heidi,Allen,7894 Villanueva St,A-48,Daleville,VA,24083,Heidi,Allen,7894 Villanueva St,A-48,Daleville,VA,24083
+1971-06-01 23:41:38,12000000883,28.39,3.06,25.33,James,Roule,6211 Gibbs Ct,B-30,Portland,OR,97204,James,Roule,6211 Gibbs Ct,B-30,Portland,OR,97204
+1971-06-02 02:47:34,12000000884,167.02,1.87,165.15,Patricia,Mattison,6800 Joslyn St,D-64,Maunaloa,HI,96770,Mark,Reeves,8772 Neagle Ct,,Picacho,NM,88343
+1971-06-02 18:44:54,12000000885,115.0,3.57,111.43,Mildred,King,2207 Hernandez St,,Camp Lake,WI,53109,Mildred,King,2207 Hernandez St,,Camp Lake,WI,53109
+1971-06-03 02:15:36,12000000886,125.1,3.51,121.59,Amie,Flores,2993 Elliott Ave,D32,Peoria,IL,61633,Amie,Flores,2993 Elliott Ave,D32,Peoria,IL,61633
+1971-06-04 03:11:00,12000000887,160.03,2.72,157.31,Robert,Kruse,108 Shockey Ave,C26,Thorntown,IN,46071,Robert,Kruse,108 Shockey Ave,C26,Thorntown,IN,46071
+1971-06-05 05:57:54,12000000888,91.23,3.57,87.66,Roy,Hickey,7414 Calvert,D-94,Okarche,OK,73762,Roy,Hickey,7414 Calvert,D-94,Okarche,OK,73762
+1971-06-05 16:44:47,12000000889,73.58,1.37,72.21,Paula,Mccarter,9391 Kittelberger St,,Washington,DC,20394,Paula,Mccarter,9391 Kittelberger St,,Washington,DC,20394
+1971-06-06 17:21:35,12000000890,98.97,1.16,97.81,Jon,Steedley,5742 Herrin Rd,,New York,NY,10259,Jon,Steedley,5742 Herrin Rd,,New York,NY,10259
+1971-06-07 20:06:41,12000000891,140.86,0.97,139.89,Peggy,Quinn,1540 Vickers St,,Pomona,MO,65789,Peggy,Quinn,1540 Vickers St,,Pomona,MO,65789
+1971-06-08 20:39:44,12000000892,77.88,4.66,73.22,Peggy,Rainville,6019 Stice St,,Red Hill,PA,18076,Peggy,Rainville,6019 Stice St,,Red Hill,PA,18076
+1971-06-09 12:15:27,12000000893,136.36,3.51,132.85,William,Dickson,8574 Tatum St,,Opa Locka,FL,33054,William,Dickson,8574 Tatum St,,Opa Locka,FL,33054
+1971-06-10 05:07:31,12000000894,39.29,4.36,34.93,Penney,Coleman,8258 Jeschke Rd,,Port Jefferson,NY,11777,Penney,Coleman,8258 Jeschke Rd,,Port Jefferson,NY,11777
+1971-06-11 02:44:35,12000000895,164.41,1.22,163.19,Sherry,Lincourt,2933 Young St,Ste. A75,Baxter Springs,KS,66713,Sherry,Lincourt,2933 Young St,Ste. A75,Baxter Springs,KS,66713
+1971-06-11 23:20:19,12000000896,155.81,4.05,151.76,Lucille,Underwood,9053 Lee St,,Dora,NM,88115,Lucille,Underwood,9053 Lee St,,Dora,NM,88115
+1971-06-12 16:30:27,12000000897,135.13,2.91,132.22,Sherry,Williams,4074 Carrier Blvd,,Wilmington,DE,19894,Sherry,Williams,4074 Carrier Blvd,,Wilmington,DE,19894
+1971-06-13 14:14:14,12000000898,114.11,4.3,109.81,Felix,Olson,4592 Boston Rd,,Lake Saint Louis,MO,63367,Felix,Olson,4592 Boston Rd,,Lake Saint Louis,MO,63367
+1971-06-14 12:51:22,12000000899,29.76,2.78,26.98,Kevin,Walls,6565 Kmiecik Ave,,Stockton,CA,95213,Kevin,Walls,6565 Kmiecik Ave,,Stockton,CA,95213
+1971-06-15 05:05:35,12000000900,110.52,0.2,110.32,Angela,Freeman,3860 Riches Blvd,,Lynnville,TN,38472,Angela,Freeman,3860 Riches Blvd,,Lynnville,TN,38472
+1971-06-16 02:48:45,12000000901,192.37,4.29,188.08,Josie,Vannote,3074 Tyree,D-33,Talisheek,LA,70464,Josie,Vannote,3074 Tyree,D-33,Talisheek,LA,70464
+1971-06-16 19:05:52,12000000902,64.04,2.2,61.84,Melody,Gentry,1213 Poore St,,Herndon,PA,17830,Melody,Gentry,1213 Poore St,,Herndon,PA,17830
+1971-06-16 22:10:12,12000000903,137.44,2.66,134.78,Rebecca,Estell,96 Schwab St,,Far Rockaway,NY,11691,Rebecca,Estell,96 Schwab St,,Far Rockaway,NY,11691
+1971-06-17 22:27:58,12000000904,37.84,1.28,36.56,Hans,Cline,104 Allman Blvd,,Graham,OK,73437,Hans,Cline,104 Allman Blvd,,Graham,OK,73437
+1971-06-18 11:49:43,12000000905,33.24,3.24,30.0,Melissa,Dominguez,1090 Gleason St,,West Newton,IN,46183,Melissa,Dominguez,1090 Gleason St,,West Newton,IN,46183
+1971-06-18 17:00:51,12000000906,132.45,0.77,131.68,Mary,Clore,1580 Johnson St,,Saint Augustine,FL,32086,Mary,Clore,1580 Johnson St,,Saint Augustine,FL,32086
+1971-06-19 12:02:02,12000000907,183.1,1.84,181.26,Jennifer,Mcdaniel,6649 Higgins St,,Austin,TX,78746,Jennifer,Mcdaniel,6649 Higgins St,,Austin,TX,78746
+1971-06-19 17:31:49,12000000908,27.8,1.74,26.06,Derek,Degnan,5111 Godines St,,Lewisville,IN,47352,Derek,Degnan,5111 Godines St,,Lewisville,IN,47352
+1971-06-20 04:28:28,12000000909,135.76,4.32,131.44,Shelly,Rose,214 Tipton St,,Sleetmute,AK,99668,Shelly,Rose,214 Tipton St,,Sleetmute,AK,99668
+1971-06-20 11:06:39,12000000910,190.78,4.75,186.03,Dorothy,Deal,2604 Arsenault Ct,,Haswell,CO,81045,Dorothy,Deal,2604 Arsenault Ct,,Haswell,CO,81045
+1971-06-21 03:12:46,12000000911,102.51,0.06,102.45,Sherie,Coggins,5975 Whittle St,A-17,Skelton,WV,25919,Sherie,Coggins,5975 Whittle St,A-17,Skelton,WV,25919
+1971-06-21 06:52:10,12000000912,194.22,2.17,192.05,Dave,Martin,6409 Wallace St,,Forks,WA,98331,Dave,Martin,6409 Wallace St,,Forks,WA,98331
+1971-06-22 02:33:12,12000000913,83.37,0.13,83.24,Karen,Huddleston,526 Clines Ct,,Birmingham,AL,35299,James,Denniston,102 Crowe Ave,,Rollinsville,CO,80474
+1971-06-22 10:04:25,12000000914,45.24,3.03,42.21,Mary,Reimers,4539 Castillo Ct,,Locust Hill,VA,23092,Donna,Renteria,6889 Ochoa Ave,,Magnolia,AL,36754
+1971-06-23 04:08:42,12000000915,146.27,2.79,143.48,Barbara,Biscoe,2404 Mccampbell Rd,B-93,Coolin,ID,83821,Barbara,Biscoe,2404 Mccampbell Rd,B-93,Coolin,ID,83821
+1971-06-24 07:25:20,12000000916,32.57,3.77,28.8,Jeffrey,Lightsey,90 Mcnamara Rd,,Ennis,MT,59729,Jeffrey,Lightsey,90 Mcnamara Rd,,Ennis,MT,59729
+1971-06-25 00:40:00,12000000917,177.96,1.69,176.27,Jared,Loepp,6328 Willard St,,Scottville,IL,62683,Jared,Loepp,6328 Willard St,,Scottville,IL,62683
+1971-06-26 00:14:38,12000000918,85.8,0.54,85.26,Timothy,Baumgartner,961 Nichols St,,Arroyo Hondo,NM,87513,Timothy,Baumgartner,961 Nichols St,,Arroyo Hondo,NM,87513
+1971-06-26 01:12:25,12000000919,45.26,3.5,41.76,George,Jones,9618 Arriola St,A-90,Escondido,CA,92025,George,Jones,9618 Arriola St,A-90,Escondido,CA,92025
+1971-06-26 17:51:47,12000000920,79.32,3.17,76.15,Regina,Elliott,8727 Doggett Ct,,Trexlertown,PA,18087,Regina,Elliott,8727 Doggett Ct,,Trexlertown,PA,18087
+1971-06-27 20:18:32,12000000921,98.59,1.15,97.44,Robert,Webb,497 Stinnett Rd,,Luray,VA,22835,Robert,Webb,497 Stinnett Rd,,Luray,VA,22835
+1971-06-28 08:00:31,12000000922,132.14,1.81,130.33,Glenda,Messer,3775 Macnab Rd,B80,Hiseville,KY,42152,Glenda,Messer,3775 Macnab Rd,B80,Hiseville,KY,42152
+1971-06-28 12:09:38,12000000923,25.29,3.23,22.06,Brian,Lopez,9369 Marshall Ct,,Lonaconing,MD,21539,Brian,Lopez,9369 Marshall Ct,,Lonaconing,MD,21539
+1971-06-28 19:15:05,12000000924,132.35,4.24,128.11,Lee,Coleman,2525 Gall Rd,,Nelson,WI,54756,Lee,Coleman,2525 Gall Rd,,Nelson,WI,54756
+1971-06-29 14:42:39,12000000925,162.55,2.13,160.42,Ana,Olds,1632 Foster St,,Helena,MT,59620,Ana,Olds,1632 Foster St,,Helena,MT,59620
+1971-06-30 01:07:25,12000000926,83.2,3.07,80.13,Matthew,Johnson,2853 Mclaurin,A-43,Neville,OH,45156,Matthew,Johnson,2853 Mclaurin,A-43,Neville,OH,45156
+1971-06-30 04:10:26,12000000927,144.12,4.95,139.17,James,Morales,5368 Bond Ave,,Baltimore,MD,21230,James,Morales,5368 Bond Ave,,Baltimore,MD,21230
+1971-07-01 06:23:51,12000000928,197.87,0.92,196.95,Raymond,Zito,6236 Davenport,,Newville,AL,36353,Raymond,Zito,6236 Davenport,,Newville,AL,36353
+1971-07-02 08:19:04,12000000929,134.25,1.18,133.07,Cynthia,Overstreet,5088 Fitzgerald St,,Hamilton,PA,15744,Cynthia,Overstreet,5088 Fitzgerald St,,Hamilton,PA,15744
+1971-07-02 16:22:21,12000000930,161.93,2.47,159.46,Bobby,Aragon,1384 Schiano St,,Fayetteville,NC,28304,Bobby,Aragon,1384 Schiano St,,Fayetteville,NC,28304
+1971-07-02 22:09:37,12000000931,188.34,3.52,184.82,Pamela,Baker,6423 Windsor,,Rice Lake,WI,54868,Pamela,Baker,6423 Windsor,,Rice Lake,WI,54868
+1971-07-03 14:21:51,12000000932,121.05,0.43,120.62,Marie,Dunn,1912 Gallo St,,Midvale,UT,84047,Marie,Dunn,1912 Gallo St,,Midvale,UT,84047
+1971-07-03 18:23:56,12000000933,182.79,0.34,182.45,Amanda,Mcpartlin,8280 Fleck Rd,,Falcon Heights,TX,78545,Amanda,Mcpartlin,8280 Fleck Rd,,Falcon Heights,TX,78545
+1971-07-04 04:12:18,12000000934,145.59,4.95,140.64,Nicholas,Nesmith,6609 Rennie Rd,,Irvona,PA,16656,Nicholas,Nesmith,6609 Rennie Rd,,Irvona,PA,16656
+1971-07-04 23:56:14,12000000935,180.84,0.31,180.53,Robert,Hooser,1236 Shirley Rd,No. 67,Saint Paul,MN,55168,Robert,Hooser,1236 Shirley Rd,No. 67,Saint Paul,MN,55168
+1971-07-05 07:33:31,12000000936,90.98,4.06,86.92,Arthur,Rouse,9466 Davis Rd,,Moreno Valley,CA,92551,Arthur,Rouse,9466 Davis Rd,,Moreno Valley,CA,92551
+1971-07-05 21:46:05,12000000937,39.5,1.94,37.56,Lisa,Ally,7460 Johnson St,Unit 24,Limon,CO,80826,Lisa,Ally,7460 Johnson St,Unit 24,Limon,CO,80826
+1971-07-05 23:37:30,12000000938,43.43,4.01,39.42,Allen,Nelson,8757 Jones Ave,,San Antonio,TX,78237,Allen,Nelson,8757 Jones Ave,,San Antonio,TX,78237
+1971-07-06 07:52:51,12000000939,176.27,3.45,172.82,Charles,Trainer,3853 Mott St,,Alderson,OK,74522,Charles,Trainer,3853 Mott St,,Alderson,OK,74522
+1971-07-07 08:59:26,12000000940,147.49,2.33,145.16,Annette,Hildreth,8220 Shepard St,,Alsey,IL,62610,Annette,Hildreth,8220 Shepard St,,Alsey,IL,62610
+1971-07-08 06:39:24,12000000941,111.79,1.71,110.08,Elvin,Rivera,77 Sloan St,D59,Hammond,IN,46323,Elvin,Rivera,77 Sloan St,D59,Hammond,IN,46323
+1971-07-09 09:17:00,12000000942,107.93,4.17,103.76,Harry,Dakins,5014 Monroe Rd,B99,Vado,NM,88072,Harry,Dakins,5014 Monroe Rd,B99,Vado,NM,88072
+1971-07-09 20:11:49,12000000943,120.45,1.46,118.99,Richard,Gunn,9686 Nielsen St,,Manvel,ND,58256,Richard,Gunn,9686 Nielsen St,,Manvel,ND,58256
+1971-07-10 12:50:02,12000000944,119.33,2.86,116.47,Sharon,Thomas,7204 Mumaw,,Cincinnati,OH,45296,Sharon,Thomas,7204 Mumaw,,Cincinnati,OH,45296
+1971-07-11 01:59:59,12000000945,96.67,0.76,95.91,Juan,Krauss,7316 Ropp Blvd,,Cobb,GA,31735,Juan,Krauss,7316 Ropp Blvd,,Cobb,GA,31735
+1971-07-11 19:43:37,12000000946,128.44,3.66,124.78,Jill,Pleasant,544 Wand Rd,,Jet,OK,73749,Jill,Pleasant,544 Wand Rd,,Jet,OK,73749
+1971-07-11 21:17:24,12000000947,149.84,3.54,146.3,Amber,Tyson,5254 Collier Ave,,Geyser,MT,59447,Amber,Tyson,5254 Collier Ave,,Geyser,MT,59447
+1971-07-12 08:25:37,12000000948,91.43,3.31,88.12,Eugene,Peters,7266 Brooks,,Thousand Island Park,NY,13692,Eugene,Peters,7266 Brooks,,Thousand Island Park,NY,13692
+1971-07-12 16:29:16,12000000949,72.84,1.15,71.69,Lori,Johnson,7671 Pope Ct,C38,Berkley,MI,48072,Lori,Johnson,7671 Pope Ct,C38,Berkley,MI,48072
+1971-07-12 18:53:23,12000000950,126.66,1.94,124.72,Annie,Young,9457 Dixon St,,Omak,WA,98841,Annie,Young,9457 Dixon St,,Omak,WA,98841
+1971-07-13 17:14:37,12000000951,89.3,1.27,88.03,Judith,Books,5890 Babecki,A-57,High Shoals,NC,28077,Judith,Books,5890 Babecki,A-57,High Shoals,NC,28077
+1971-07-14 15:09:30,12000000952,183.36,2.81,180.55,Debbie,Nielsen,6257 Loyd St,,Browning,MO,64630,Debbie,Nielsen,6257 Loyd St,,Browning,MO,64630
+1971-07-15 18:26:01,12000000953,26.03,0.3,25.73,Ralph,Pickett,5350 Pratt Rd,,Atmore,AL,36502,Ralph,Pickett,5350 Pratt Rd,,Atmore,AL,36502
+1971-07-16 17:12:11,12000000954,166.06,3.03,163.03,Mitchell,Bacon,1574 Parks Blvd,,Columbus,OH,43201,Mitchell,Bacon,1574 Parks Blvd,,Columbus,OH,43201
+1971-07-17 20:43:16,12000000955,168.92,4.34,164.58,Carmen,Farrell,9636 Decastro Blvd,,Hamer,SC,29547,Carmen,Farrell,9636 Decastro Blvd,,Hamer,SC,29547
+1971-07-18 23:23:08,12000000956,59.28,1.31,57.97,Beatrice,Avila,4211 Hopkins Ave,,Greensboro,GA,30642,Beatrice,Avila,4211 Hopkins Ave,,Greensboro,GA,30642
+1971-07-19 04:24:33,12000000957,60.84,3.03,57.81,Ryan,Cullen,8670 Withers Ave,,Blair,SC,29015,Ryan,Cullen,8670 Withers Ave,,Blair,SC,29015
+1971-07-19 04:41:49,12000000958,176.42,1.18,175.24,Ricky,Roe,5292 Velez Ave,,Lubbock,TX,79416,Ricky,Roe,5292 Velez Ave,,Lubbock,TX,79416
+1971-07-20 08:21:17,12000000959,37.62,4.32,33.3,Kenneth,Dinh,6208 Dirico Rd,Suite 93,Claremore,OK,74017,Kenneth,Dinh,6208 Dirico Rd,Suite 93,Claremore,OK,74017
+1971-07-21 06:52:38,12000000960,55.38,0.09,55.29,Christopher,Brading,9130 Delvalle St,,Cinebar,WA,98533,Christopher,Brading,9130 Delvalle St,,Cinebar,WA,98533
+1971-07-22 01:12:18,12000000961,169.96,4.41,165.55,Harold,Montgomery,1855 Lamar St,D-80,Schofield,WI,54476,Harold,Montgomery,1855 Lamar St,D-80,Schofield,WI,54476
+1971-07-22 04:00:00,12000000962,182.28,0.53,181.75,Carl,Mccreary,1591 Quintana St,,Copeland,FL,34137,Carl,Mccreary,1591 Quintana St,,Copeland,FL,34137
+1971-07-22 12:33:36,12000000963,36.24,4.36,31.88,Janice,Todd,7695 Stowell,,Allendale,SC,29810,Janice,Todd,7695 Stowell,,Allendale,SC,29810
+1971-07-23 15:00:31,12000000964,181.07,3.56,177.51,Yolanda,Shine,1424 Williams Ave,,Millboro,VA,24460,Yolanda,Shine,1424 Williams Ave,,Millboro,VA,24460
+1971-07-24 15:01:37,12000000965,95.26,4.54,90.72,Agnes,Thrope,6399 Poland Ave,,Cardwell,MO,63829,Agnes,Thrope,6399 Poland Ave,,Cardwell,MO,63829
+1971-07-25 14:47:27,12000000966,56.47,1.0,55.47,Charles,Wood,5744 Grimes Rd,,Bangor,PA,18013,Charles,Wood,5744 Grimes Rd,,Bangor,PA,18013
+1971-07-25 19:13:15,12000000967,118.05,1.2,116.85,Tina,Watson,4597 Hynes St,No. 22,Dugspur,VA,24325,Tina,Watson,4597 Hynes St,No. 22,Dugspur,VA,24325
+1971-07-26 14:23:23,12000000968,166.32,2.66,163.66,Ron,Maher,6368 Rowles St,Ste. A60,Arpin,WI,54410,Ron,Maher,6368 Rowles St,Ste. A60,Arpin,WI,54410
+1971-07-26 17:41:18,12000000969,173.86,4.63,169.23,Edward,Wheeler,9222 Robinson Blvd,,Lakeland,FL,33813,Edward,Wheeler,9222 Robinson Blvd,,Lakeland,FL,33813
+1971-07-27 09:09:21,12000000970,103.12,1.67,101.45,Natasha,Uttech,1771 Cronk Ct,,Austin,TX,78720,Natasha,Uttech,1771 Cronk Ct,,Austin,TX,78720
+1971-07-28 08:58:04,12000000971,125.09,4.32,120.77,Florence,Plummer,1757 Theisen St,,Gerrardstown,WV,25420,Robert,Haigler,2879 Buckley Ct,,Princeton,WI,54968
+1971-07-28 17:15:15,12000000972,127.32,0.73,126.59,Kerry,Henton,4488 Harris Blvd,,Healdton,OK,73438,Kerry,Henton,4488 Harris Blvd,,Healdton,OK,73438
+1971-07-29 18:13:38,12000000973,43.57,2.28,41.29,Lucille,Mccutcheon,953 Miller Ct,,Warm Springs,MT,59756,Lucille,Mccutcheon,953 Miller Ct,,Warm Springs,MT,59756
+1971-07-30 08:41:48,12000000974,183.05,1.43,181.62,Lori,Stoner,615 Dacus St,,Russell,IA,50238,Lori,Stoner,615 Dacus St,,Russell,IA,50238
+1971-07-30 20:56:52,12000000975,84.14,3.08,81.06,Annie,Carlstrom,5314 Xaimoungkhoun St,,Denver,CO,80214,Annie,Carlstrom,5314 Xaimoungkhoun St,,Denver,CO,80214
+1971-07-31 06:46:20,12000000976,156.91,0.71,156.2,Melinda,Smetana,713 Issa,Ste. A51,Hudson,IA,50643,Melinda,Smetana,713 Issa,Ste. A51,Hudson,IA,50643
+1971-08-01 09:07:40,12000000977,76.36,2.13,74.23,Bridgette,Thomas,6125 Shelton Ct,Suite 51,Denver,CO,80259,Bridgette,Thomas,6125 Shelton Ct,Suite 51,Denver,CO,80259
+1971-08-01 16:05:50,12000000978,175.58,3.63,171.95,June,Chapman,5422 Barnes St,,Jefferson City,MO,65106,June,Chapman,5422 Barnes St,,Jefferson City,MO,65106
+1971-08-02 00:42:05,12000000979,51.19,2.29,48.9,Mary,Jackson,7077 Chung Rd,,Keystone,SD,57751,Mary,Jackson,7077 Chung Rd,,Keystone,SD,57751
+1971-08-02 15:18:49,12000000980,153.55,1.37,152.18,Alphonso,Shadle,2538 Summa Ave,,Las Vegas,NV,89147,Alphonso,Shadle,2538 Summa Ave,,Las Vegas,NV,89147
+1971-08-03 00:13:50,12000000981,59.38,4.4,54.98,Rodney,Leggette,367 Lilly Blvd,,Glen Easton,WV,26039,Rodney,Leggette,367 Lilly Blvd,,Glen Easton,WV,26039
+1971-08-03 18:08:24,12000000982,120.49,1.84,118.65,Jennie,Gates,4540 Bennett Rd,,Hays,NC,28635,Jennie,Gates,4540 Bennett Rd,,Hays,NC,28635
+1971-08-04 07:25:52,12000000983,195.78,2.48,193.3,Gail,Amann,2461 Taylor Rd,,Walworth,WI,53184,Gail,Amann,2461 Taylor Rd,,Walworth,WI,53184
+1971-08-05 10:28:17,12000000984,194.87,0.21,194.66,Benjamin,Wade,9715 Weston St,No. 50,Newcastle,CA,95658,Benjamin,Wade,9715 Weston St,No. 50,Newcastle,CA,95658
+1971-08-06 00:37:23,12000000985,169.0,0.03,168.97,Joel,Russ,1048 Adcock Rd,,Fort Wayne,IN,46851,Joel,Russ,1048 Adcock Rd,,Fort Wayne,IN,46851
+1971-08-06 11:11:39,12000000986,194.04,2.8,191.24,Doris,Bushman,4556 Jackson Rd,B-81,Quimby,IA,51049,Doris,Bushman,4556 Jackson Rd,B-81,Quimby,IA,51049
+1971-08-06 15:33:28,12000000987,60.83,4.3,56.53,Albert,Grubbs,3160 Blanchard Blvd,,Fort Thomas,KY,41705,Albert,Grubbs,3160 Blanchard Blvd,,Fort Thomas,KY,41705
+1971-08-07 18:59:12,12000000988,134.73,0.55,134.18,Lisa,Cordell,6779 Johnson Ct,,Wenona,MD,21870,Lisa,Cordell,6779 Johnson Ct,,Wenona,MD,21870
+1971-08-07 22:27:35,12000000989,148.06,1.42,146.64,Dennis,Corum,7454 King Rd,,Belleville,WI,53508,Dennis,Corum,7454 King Rd,,Belleville,WI,53508
+1971-08-08 17:02:00,12000000990,135.31,1.74,133.57,Billy,Boykin,9748 Crenshaw Rd,,Mumford,TX,77867,Billy,Boykin,9748 Crenshaw Rd,,Mumford,TX,77867
+1971-08-09 05:49:25,12000000991,49.18,2.55,46.63,Carrie,Hood,9475 Shearing Blvd,,Lenore,ID,83541,Carrie,Hood,9475 Shearing Blvd,,Lenore,ID,83541
+1971-08-10 08:41:28,12000000992,96.72,2.65,94.07,Glen,Babin,2747 Valentin Rd,,Whitewater,CO,81527,Glen,Babin,2747 Valentin Rd,,Whitewater,CO,81527
+1971-08-11 00:30:01,12000000993,181.17,4.65,176.52,Kenneth,Mckoy,1509 Pickett,,Elmhurst,NY,11373,Kenneth,Mckoy,1509 Pickett,,Elmhurst,NY,11373
+1971-08-11 11:17:01,12000000994,85.45,1.01,84.44,Andrew,Lofton,3232 Tymeson,Unit 64,Kansas City,MO,64168,Andrew,Lofton,3232 Tymeson,Unit 64,Kansas City,MO,64168
+1971-08-11 18:27:21,12000000995,169.15,3.01,166.14,Linda,Parker,911 Woods Rd,,Sidney,MI,48885,Linda,Parker,911 Woods Rd,,Sidney,MI,48885
+1971-08-12 15:39:21,12000000996,101.16,1.58,99.58,Rosalinda,Kahn,9891 Campbell Rd,,Holland,OH,43528,Rosalinda,Kahn,9891 Campbell Rd,,Holland,OH,43528
+1971-08-13 18:12:18,12000000997,64.05,0.67,63.38,Judy,Koetter,4296 Kamphoefner St,,Rockwall,TX,75032,Judy,Koetter,4296 Kamphoefner St,,Rockwall,TX,75032
+1971-08-14 09:26:48,12000000998,87.84,3.32,84.52,Jonathan,Epstein,8531 Macarthur St,,Ontario,WI,54651,Jonathan,Epstein,8531 Macarthur St,,Ontario,WI,54651
+1971-08-14 19:29:58,12000000999,165.04,0.74,164.3,David,Sutton,3409 Konowal,,Riceville,PA,16432,David,Sutton,3409 Konowal,,Riceville,PA,16432
+1971-08-15 15:20:28,12000001000,30.46,3.89,26.57,James,Gillispie,3629 Pasceri Rd,,Great Falls,MT,59406,James,Gillispie,3629 Pasceri Rd,,Great Falls,MT,59406
