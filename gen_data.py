@@ -45,10 +45,8 @@ def get_ran(array):
 
 def ran_chance(n):
 	if int( math.floor(random.random() * n) ):
-		# Lands here n-1/n times
 		return False
 	else:
-		# Lands here 1/n times
 		return True
 
 def create_address():
@@ -58,10 +56,10 @@ def create_address():
 	address_one = str(int(ran(10000, 0, 0))) + ' ' + names.get_last_name() + get_ran(roads_kinds)
 	units_kinds = 'No. ', 'Unit ', 'Suite ', 'Ste. ' 'A', 'B', 'C', 'D', 'A-', 'B-', 'C-', 'D-'
 	# One in Five contain a unit address
-	if ran_chance(5):
-		address_two = get_ran(units_kinds) + str(int(ran(100)))
-	else:
+	if ran(5, 0, 0):
 		address_two = ''
+	else:
+		address_two = get_ran(units_kinds) + str(int(ran(100)))
 
 	# Brute Force a valid zip code
 	found_one = False
@@ -131,10 +129,10 @@ def generate(n):
 		subtotal = total - shipping
 		bill_address = create_address()
 
-		if ran_chance(10):
-			ship_address = create_address()
-		else:
+		if ran(10, 0, 0):
 			ship_address = bill_address
+		else:
+			ship_address = create_address()
 
 
 		f = open(file, 'a') 
