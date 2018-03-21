@@ -16,12 +16,17 @@ zcdb = ZipCodeDatabase()
 
 
 # CONTROLS
-file = 'assets/new_db.db'
-records = 100
+file = 'assets/new_data.csv'
+records = 10
+db = 'assets/generated.db'
 
 # DB Connection Object
-db_connection = sqlite.connect(file)
-db_curs = db_connection.cursor()
+
+def db_init():
+	# Not very pythonic
+	# global db_connection
+	db_connection = sqlite.connect(db)
+	db_curs = db_connection.cursor()
 
 
 def ran(x, n = 0, r = 2, only_pos = False):
@@ -31,8 +36,12 @@ def ran(x, n = 0, r = 2, only_pos = False):
 		return round(random.random() * x + n, r)
 
 def get_ran(array):
-	# Great place to handle rarity among records logic.
-	return array[int(round(random.random() * len(array))) - 1]
+	# Calculate according to Gaussian distribution. 
+	e = 2.7182
+	a = len(array) - 1
+	y = random.random() * (len(array) - 1)
+
+	return array[ int( math.pow( - a * math.log(y/a) , 0.5) ) ]
 
 def ran_chance(n):
 	if int( math.floor(random.random() * n) ):
@@ -45,9 +54,8 @@ def ran_chance(n):
 def create_address():
 	first = names.get_first_name()
 	last = names.get_last_name()
-	roads_kinds = ' St',' St',' St',' Rd',' Rd', ' Blvd', ' Ave', ' Ct', ''
-	address_one = str(int(ran(10000, 0, 0))) + ' ' + names.get_last_name() +  get_ran(roads_kinds)
-
+	roads_kinds = ' St',' Rd', ' Blvd', ' Ave', ' Lane', '', ' Ct', ' Pl.' ' Way'
+	address_one = str(int(ran(10000, 0, 0))) + ' ' + names.get_last_name() + get_ran(roads_kinds)
 	units_kinds = 'No. ', 'Unit ', 'Suite ', 'Ste. ' 'A', 'B', 'C', 'D', 'A-', 'B-', 'C-', 'D-'
 	# One in Five contain a unit address
 	if ran_chance(5):
@@ -60,31 +68,37 @@ def create_address():
 	while found_one == False:
 		rand_zip = str(int(ran(99999, 0, 0)))
 		try:
-			_zip = zcdb[ rand_zip ]
+			_zip = zcdb[rand_zip]
 			found_one = True
 		except Exception:
-			a = True #throwaway
-		# else:
-		# 	found_one = True
+			pass
 
 	city = _zip.city
 	state = _zip.state
 
 	return str(first+','+last+','+address_one+','+address_two+','+city+','+state+','+rand_zip)
 
-def db_controller(row, col, value, mode):
-	# print db_curs.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='orders'")
-	db_curs.execute("CREATE TABLE IF NOT EXISTS orders (id INTEGER PRIMARY KEY, order_id VARCHAR(20))")
 
-	
-	# if !os.path.isfile(file): 
-	# 	# Create Table Structure
-	# 	db_curs.execute("CREATE TABLE orders(id INTEGER PRIMARY KEY, )")
-	# 	db_curs.execute("CREATE TABLE customers(id INTEGER PRIMARY KEY,)")
 
-	assert type(row) == str and type(col) == str and type(mode) == str
-	if mode == 'w':
-		db_curs.execute("")
+
+# def db_controller(row, col, value, mode):
+
+# 	if os.path.isfile(db):
+
+# 	print db_curs.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='orders'")
+# 	db_curs.execute("CREATE TABLE IF NOT EXISTS orders (\
+# 			order_id INTEGER PRIMARY KEY,\
+# 			\
+# 		)")
+
+# 	if !os.path.isfile(file): 
+# 		# Create Table Structure
+# 		db_curs.execute("CREATE TABLE orders(id INTEGER PRIMARY KEY, )")
+# 		db_curs.execute("CREATE TABLE customers(id INTEGER PRIMARY KEY,)")
+
+# 	assert type(row) == str and type(col) == str and type(mode) == str
+# 	if mode == 'w':
+# 		db_curs.execute("")
 
 
 
