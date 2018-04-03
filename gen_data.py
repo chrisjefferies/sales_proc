@@ -5,11 +5,10 @@ import names
 import math
 import os
 from pyzipcode import ZipCodeDatabase
-try:
-	from sqlite3 import dbapi2 as sqlite
-except ImportError:
-	from pysqlite2 import dbapi2 as sqlite
-
+# try:
+# 	from sqlite3 import dbapi2 as sqlite
+# except ImportError:
+# 	from pysqlite2 import dbapi2 as sqlite
 
 zcdb = ZipCodeDatabase()
 
@@ -18,16 +17,6 @@ zcdb = ZipCodeDatabase()
 # CONTROLS
 file = 'assets/new_data.csv'
 records = 10
-db = 'assets/generated.db'
-
-# DB Connection Object
-
-def db_init():
-	# Not very pythonic
-	# global db_connection
-	db_connection = sqlite.connect(db)
-	db_curs = db_connection.cursor()
-
 
 def ran(x, n = 0, r = 2, only_pos = False):
 	if only_pos:
@@ -41,7 +30,7 @@ def get_ran(array):
 	a = len(array) - 1
 	y = random.random() * (len(array) - 1)
 
-	return array[ int( math.pow( - a * math.log(y/a) , 0.5) ) ]
+	return array[ int( math.pow( - a * math.log(y/a), 0.5) ) ]
 
 def ran_chance(n):
 	if int( math.floor(random.random() * n) ):
@@ -76,31 +65,16 @@ def create_address():
 
 	return str(first+','+last+','+address_one+','+address_two+','+city+','+state+','+rand_zip)
 
-
-
-
-# def db_controller(row, col, value, mode):
-
-# 	if os.path.isfile(db):
-
-# 	print db_curs.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='orders'")
-# 	db_curs.execute("CREATE TABLE IF NOT EXISTS orders (\
-# 			order_id INTEGER PRIMARY KEY,\
-# 			\
-# 		)")
-
-# 	if !os.path.isfile(file): 
-# 		# Create Table Structure
-# 		db_curs.execute("CREATE TABLE orders(id INTEGER PRIMARY KEY, )")
-# 		db_curs.execute("CREATE TABLE customers(id INTEGER PRIMARY KEY,)")
-
-# 	assert type(row) == str and type(col) == str and type(mode) == str
-# 	if mode == 'w':
-# 		db_curs.execute("")
-
-
-
 def generate(n):
+	if not os.path.isfile(file):
+		# Write file header
+		f = open(file, 'w+')
+		f.write('orderId,date,total,shipping,subtotal,shipNameFirst,shipNameLast,shipAddress1,\
+shipAddress2,shipCity,shipState,shipZip,billNameFirst,billNameLast,billAddress1,billAddress2,\
+billCity,billState,billZip\n')
+		f.close()
+
+	# Generate n random real-looking order data and write to file
 	for i in range(0, n):
 		with open(file) as f:
 			lines = f.read().splitlines()
@@ -112,8 +86,9 @@ def generate(n):
 
 		# Get Unix Timestamp of last date and add it to the last one.
 		if num_lines != 1:
+			# Find number-indexed position of date
 			unix_date_l = time.mktime(datetime.datetime.strptime(
-				last_line.split(',')[0], 
+				last_line.split(',')[1], 
 				'%Y-%m-%d %H:%M:%S'
 			).timetuple())
 		else:
@@ -134,47 +109,15 @@ def generate(n):
 		else:
 			ship_address = create_address()
 
-
 		f = open(file, 'a') 
-		f.write(str(iso_date)+','+str(orderID)+',')
+		f.write(str(orderID)+','+str(iso_date)+',')
 		f.write(str(total)+','+str(shipping)+','+str(subtotal)+',')
 		f.write(bill_address+','+ship_address+'\n')
 		f.close()
 		if (i % 100 == 0):
-			print '.'
+			print 'Writing:', i, '...'
 
 
-if os.path.isfile(file):
-	generate(records)
-else:
-	f = open(file, 'w+')
-	f.write('date,orderId,total,shipping,subtotal,shipNameFirst,shipNameLast,shipAddress1,\
-		shipAddress2,shipCity,shipState,shipZip,billNameFirst,billNameLast,billAddress1,billAddress2,\
-		billCity,billState,billZip\n')
-	f.close()
-	generate(records)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+generate(records)
 
 
