@@ -71,13 +71,11 @@ def fetch(col, row, t_name, db_conn, term = '*', full_qry = False):
 
 		# Basic datatype corrections
 		if len(val) == 1 and len(val[0]) == 1 and type(val[0][0]) == unicode:
+			# Detect and return strings as primitives. 
 			return val[0][0]
 		else:
-			if len(val) == 1 and type(val) == list:
-				return val[0]
-			else:
-				return val
-
+			# Return raw. 
+			return val
 
 
 def csv_to_sqlite(file, db_conn, t_name):
@@ -152,11 +150,11 @@ def calc_day_totals(date_col, rev_col, db_conn):
 		day_totals.append(fetch(date_col, unique_days[i][0] + '%', 'orders', db_conn, rev_col))
 		tot = 0
 
-		if len(day_totals[i]) == 1:
-			tot = day_totals[i][0]
-		else:
-			for j in range(0, len(day_totals[i])):
-				tot += day_totals[i][j][0]
+		# if len(day_totals[i]) == 1:
+		# 	tot = day_totals[i][0]
+		# else:
+		for j in range(0, len(day_totals[i])):
+			tot += day_totals[i][j][0]
 
 		totals[str(unique_days[i][0])] = tot
 
