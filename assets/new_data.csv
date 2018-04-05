@@ -29,3 +29,23 @@ orderId,orderDate,total,shipping,subtotal,shipNameFirst,shipNameLast,shipAddress
 12000000028,1970-01-15 16:58:42,176.98,0.58,176.4,Barry,Castillo,3689 Dronet Blvd,B69,Crane,OH,45829,Barry,Castillo,3689 Dronet Blvd,B69,Crane,OH,45829
 12000000029,1970-01-16 19:18:01,92.15,0.97,91.18,David,Montgomery,5982 Castro Rd,,Sour Lake,TX,77659,David,Montgomery,5982 Castro Rd,,Sour Lake,TX,77659
 12000000030,1970-01-17 02:27:16,128.32,1.14,127.18,Dewey,Felix,2184 Dory Lane,,Delta Junction,AK,99737,Dewey,Felix,2184 Dory Lane,,Delta Junction,AK,99737
+12000000031,1970-01-17 03:18:38,38.87,0.38,38.49,Debora,Browning,222 Cossette Rd,,Shreveport,LA,71164,Debora,Browning,222 Cossette Rd,,Shreveport,LA,71164
+12000000032,1970-01-17 09:26:36,192.64,2.72,189.92,Louis,Bragg,6740 Scott Lane,,Prairie Grove,AR,72753,Louis,Bragg,6740 Scott Lane,,Prairie Grove,AR,72753
+12000000033,1970-01-18 09:26:00,167.26,1.4,165.86,James,Cline,5768 Mcmichael St,,Fargo,ND,58103,James,Cline,5768 Mcmichael St,,Fargo,ND,58103
+12000000034,1970-01-19 11:07:45,72.87,2.62,70.25,Sandra,Hare,5114 Porat Lane,,Trafford,PA,15085,Sandra,Hare,5114 Porat Lane,,Trafford,PA,15085
+12000000035,1970-01-19 19:16:01,94.99,2.32,92.67,Mei,Lawson,7018 Deruyter Ave,,Williamsport,TN,38487,Mei,Lawson,7018 Deruyter Ave,,Williamsport,TN,38487
+12000000036,1970-01-20 12:17:44,198.45,4.97,193.48,Leonard,Leblanc,2361 Leather Blvd,Suite 58,Summerfield,FL,34492,Dwayne,Barner,8165 Winter Rd,,Omaha,NE,68102
+12000000037,1970-01-21 10:15:54,169.05,4.92,164.13,Diana,Mays,7618 Pereira Ave,,Nikolai,AK,99691,Diana,Mays,7618 Pereira Ave,,Nikolai,AK,99691
+12000000038,1970-01-22 05:33:19,98.19,0.62,97.57,Debra,Edwardson,4507 Smith Blvd,,Haleiwa,HI,96712,Debra,Edwardson,4507 Smith Blvd,,Haleiwa,HI,96712
+12000000039,1970-01-22 08:03:39,165.87,2.71,163.16,Amber,Baker,3684 Sheppard St,,Madison,TN,37115,Amber,Baker,3684 Sheppard St,,Madison,TN,37115
+12000000040,1970-01-22 18:26:37,176.86,1.94,174.92,Nicole,Reagan,82 Smith Blvd,,Williamsport,PA,17701,Linda,Peel,1071 Johnston Ave,,Roosevelt,WA,99356
+12000000041,1970-01-23 05:56:54,59.61,1.75,57.86,Katherine,Biggs,525 Lester Blvd,,Scottsdale,AZ,85266,Katherine,Biggs,525 Lester Blvd,,Scottsdale,AZ,85266
+12000000042,1970-01-23 07:40:38,163.78,1.36,162.42,Flossie,Lemaire,9619 Johnston Rd,,Ladysmith,WI,54848,Flossie,Lemaire,9619 Johnston Rd,,Ladysmith,WI,54848
+12000000043,1970-01-24 10:31:52,121.43,2.22,119.21,Chris,Strider,4168 Vanover Rd,,Fresno,CA,93703,Chris,Strider,4168 Vanover Rd,,Fresno,CA,93703
+12000000044,1970-01-25 01:48:08,182.61,3.35,179.26,Shelley,Mcculloch,4297 Speaks Rd,,Chaska,MN,55318,Shelley,Mcculloch,4297 Speaks Rd,,Chaska,MN,55318
+12000000045,1970-01-26 05:31:08,84.21,0.75,83.46,Joan,Sigg,4456 Brandt St,,Washington,DC,20214,Peggy,Horning,1605 Whitehead Blvd,,Hartsville,SC,29551
+12000000046,1970-01-26 13:39:07,96.94,4.18,92.76,Floyd,West,723 Clark Blvd,,Seward,AK,99664,Floyd,West,723 Clark Blvd,,Seward,AK,99664
+12000000047,1970-01-27 02:40:15,161.49,3.38,158.11,Sonya,Mann,1438 Terrano St,,Fairmont,WV,26555,Sonya,Mann,1438 Terrano St,,Fairmont,WV,26555
+12000000048,1970-01-28 03:15:53,147.22,2.01,145.21,Clayton,Sodhi,5539 Guthrie Ct,,Belleville,WV,26133,Terry,Monahan,7470 Brooks Rd,,Decatur,GA,30031
+12000000049,1970-01-28 21:13:07,113.13,2.93,110.2,Crystal,Noriega,5117 Collazo St,,Lineboro,MD,21088,Crystal,Noriega,5117 Collazo St,,Lineboro,MD,21088
+12000000050,1970-01-29 05:05:30,169.29,0.45,168.84,John,Mcfarland,8563 Tomlinson Lane,,Columbus,GA,31903,John,Mcfarland,8563 Tomlinson Lane,,Columbus,GA,31903
